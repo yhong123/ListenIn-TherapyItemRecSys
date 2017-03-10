@@ -1,0 +1,2132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item idx="0">
+    <name>ball</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>0</challengeItemIdx>
+    <challengeItemIdx>124</challengeItemIdx>
+  </item>
+  <item idx="1">
+    <name>bed</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>1</challengeItemIdx>
+    <challengeItemIdx>125</challengeItemIdx>
+  </item>
+  <item idx="2">
+    <name>fish</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>2</challengeItemIdx>
+    <challengeItemIdx>126</challengeItemIdx>
+  </item>
+  <item idx="3">
+    <name>house</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>3</challengeItemIdx>
+    <challengeItemIdx>127</challengeItemIdx>
+  </item>
+  <item idx="4">
+    <name>fly</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>4</challengeItemIdx>
+    <challengeItemIdx>128</challengeItemIdx>
+    <challengeItemIdx>263</challengeItemIdx>
+    <challengeItemIdx>339</challengeItemIdx>
+    <challengeItemIdx>551</challengeItemIdx>
+  </item>
+  <item idx="5">
+    <name>men</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>5</challengeItemIdx>
+    <challengeItemIdx>129</challengeItemIdx>
+  </item>
+  <item idx="6">
+    <name>book</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>6</challengeItemIdx>
+    <challengeItemIdx>130</challengeItemIdx>
+  </item>
+  <item idx="7">
+    <name>box</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>7</challengeItemIdx>
+    <challengeItemIdx>131</challengeItemIdx>
+  </item>
+  <item idx="8">
+    <name>drink</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>8</challengeItemIdx>
+    <challengeItemIdx>132</challengeItemIdx>
+  </item>
+  <item idx="9">
+    <name>eye</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>9</challengeItemIdx>
+    <challengeItemIdx>133</challengeItemIdx>
+  </item>
+  <item idx="10">
+    <name>car</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>10</challengeItemIdx>
+    <challengeItemIdx>134</challengeItemIdx>
+  </item>
+  <item idx="11">
+    <name>face</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>11</challengeItemIdx>
+    <challengeItemIdx>135</challengeItemIdx>
+  </item>
+  <item idx="12">
+    <name>phone</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>12</challengeItemIdx>
+    <challengeItemIdx>136</challengeItemIdx>
+  </item>
+  <item idx="13">
+    <name>wall</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>13</challengeItemIdx>
+    <challengeItemIdx>137</challengeItemIdx>
+    <challengeItemIdx>276</challengeItemIdx>
+    <challengeItemIdx>341</challengeItemIdx>
+    <challengeItemIdx>399</challengeItemIdx>
+    <challengeItemIdx>452</challengeItemIdx>
+  </item>
+  <item idx="14">
+    <name>earth</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>14</challengeItemIdx>
+    <challengeItemIdx>138</challengeItemIdx>
+    <challengeItemIdx>431</challengeItemIdx>
+  </item>
+  <item idx="15">
+    <name>rock</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>15</challengeItemIdx>
+    <challengeItemIdx>139</challengeItemIdx>
+    <challengeItemIdx>245</challengeItemIdx>
+    <challengeItemIdx>315</challengeItemIdx>
+    <challengeItemIdx>432</challengeItemIdx>
+  </item>
+  <item idx="16">
+    <name>church</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>16</challengeItemIdx>
+    <challengeItemIdx>140</challengeItemIdx>
+    <challengeItemIdx>246</challengeItemIdx>
+    <challengeItemIdx>316</challengeItemIdx>
+    <challengeItemIdx>433</challengeItemIdx>
+  </item>
+  <item idx="17">
+    <name>tea</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>17</challengeItemIdx>
+    <challengeItemIdx>141</challengeItemIdx>
+    <challengeItemIdx>247</challengeItemIdx>
+    <challengeItemIdx>317</challengeItemIdx>
+  </item>
+  <item idx="18">
+    <name>hair</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>18</challengeItemIdx>
+    <challengeItemIdx>142</challengeItemIdx>
+    <challengeItemIdx>249</challengeItemIdx>
+    <challengeItemIdx>318</challengeItemIdx>
+    <challengeItemIdx>434</challengeItemIdx>
+  </item>
+  <item idx="19">
+    <name>star</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>19</challengeItemIdx>
+    <challengeItemIdx>143</challengeItemIdx>
+    <challengeItemIdx>248</challengeItemIdx>
+    <challengeItemIdx>319</challengeItemIdx>
+  </item>
+  <item idx="20">
+    <name>wreath</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>20</challengeItemIdx>
+    <challengeItemIdx>144</challengeItemIdx>
+    <challengeItemIdx>250</challengeItemIdx>
+    <challengeItemIdx>320</challengeItemIdx>
+    <challengeItemIdx>418</challengeItemIdx>
+    <challengeItemIdx>471</challengeItemIdx>
+  </item>
+  <item idx="21">
+    <name>sock</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>21</challengeItemIdx>
+    <challengeItemIdx>145</challengeItemIdx>
+    <challengeItemIdx>255</challengeItemIdx>
+    <challengeItemIdx>323</challengeItemIdx>
+    <challengeItemIdx>435</challengeItemIdx>
+  </item>
+  <item idx="22">
+    <name>lock</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>22</challengeItemIdx>
+    <challengeItemIdx>146</challengeItemIdx>
+    <challengeItemIdx>254</challengeItemIdx>
+    <challengeItemIdx>324</challengeItemIdx>
+    <challengeItemIdx>436</challengeItemIdx>
+    <challengeItemIdx>490</challengeItemIdx>
+  </item>
+  <item idx="23">
+    <name>clock</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>23</challengeItemIdx>
+    <challengeItemIdx>147</challengeItemIdx>
+    <challengeItemIdx>253</challengeItemIdx>
+    <challengeItemIdx>325</challengeItemIdx>
+    <challengeItemIdx>437</challengeItemIdx>
+  </item>
+  <item idx="24">
+    <name>cat</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>24</challengeItemIdx>
+    <challengeItemIdx>148</challengeItemIdx>
+  </item>
+  <item idx="25">
+    <name>school</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>25</challengeItemIdx>
+    <challengeItemIdx>149</challengeItemIdx>
+  </item>
+  <item idx="26">
+    <name>cup</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>26</challengeItemIdx>
+    <challengeItemIdx>150</challengeItemIdx>
+    <challengeItemIdx>310</challengeItemIdx>
+    <challengeItemIdx>328</challengeItemIdx>
+    <challengeItemIdx>439</challengeItemIdx>
+  </item>
+  <item idx="27">
+    <name>tree</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>27</challengeItemIdx>
+    <challengeItemIdx>151</challengeItemIdx>
+    <challengeItemIdx>303</challengeItemIdx>
+    <challengeItemIdx>372</challengeItemIdx>
+    <challengeItemIdx>422</challengeItemIdx>
+    <challengeItemIdx>475</challengeItemIdx>
+  </item>
+  <item idx="28">
+    <name>horse</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>28</challengeItemIdx>
+    <challengeItemIdx>152</challengeItemIdx>
+    <challengeItemIdx>257</challengeItemIdx>
+    <challengeItemIdx>329</challengeItemIdx>
+    <challengeItemIdx>391</challengeItemIdx>
+    <challengeItemIdx>457</challengeItemIdx>
+  </item>
+  <item idx="29">
+    <name>bird</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>29</challengeItemIdx>
+    <challengeItemIdx>153</challengeItemIdx>
+    <challengeItemIdx>258</challengeItemIdx>
+    <challengeItemIdx>335</challengeItemIdx>
+  </item>
+  <item idx="30">
+    <name>neck</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>30</challengeItemIdx>
+    <challengeItemIdx>154</challengeItemIdx>
+    <challengeItemIdx>278</challengeItemIdx>
+    <challengeItemIdx>342</challengeItemIdx>
+    <challengeItemIdx>456</challengeItemIdx>
+  </item>
+  <item idx="31">
+    <name>bike</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>31</challengeItemIdx>
+    <challengeItemIdx>155</challengeItemIdx>
+    <challengeItemIdx>275</challengeItemIdx>
+    <challengeItemIdx>343</challengeItemIdx>
+    <challengeItemIdx>392</challengeItemIdx>
+    <challengeItemIdx>458</challengeItemIdx>
+  </item>
+  <item idx="32">
+    <name>floor</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>32</challengeItemIdx>
+    <challengeItemIdx>156</challengeItemIdx>
+    <challengeItemIdx>269</challengeItemIdx>
+    <challengeItemIdx>344</challengeItemIdx>
+    <challengeItemIdx>440</challengeItemIdx>
+  </item>
+  <item idx="33">
+    <name>door</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>33</challengeItemIdx>
+    <challengeItemIdx>157</challengeItemIdx>
+    <challengeItemIdx>441</challengeItemIdx>
+  </item>
+  <item idx="34">
+    <name>paw</name>
+    <frequency>5</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>34</challengeItemIdx>
+    <challengeItemIdx>158</challengeItemIdx>
+    <challengeItemIdx>282</challengeItemIdx>
+    <challengeItemIdx>337</challengeItemIdx>
+    <challengeItemIdx>393</challengeItemIdx>
+    <challengeItemIdx>443</challengeItemIdx>
+  </item>
+  <item idx="35">
+    <name>guy</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>35</challengeItemIdx>
+    <challengeItemIdx>159</challengeItemIdx>
+  </item>
+  <item idx="36">
+    <name>saw</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>36</challengeItemIdx>
+    <challengeItemIdx>160</challengeItemIdx>
+    <challengeItemIdx>403</challengeItemIdx>
+    <challengeItemIdx>444</challengeItemIdx>
+  </item>
+  <item idx="37">
+    <name>stairs</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>37</challengeItemIdx>
+    <challengeItemIdx>161</challengeItemIdx>
+    <challengeItemIdx>284</challengeItemIdx>
+    <challengeItemIdx>340</challengeItemIdx>
+    <challengeItemIdx>404</challengeItemIdx>
+    <challengeItemIdx>445</challengeItemIdx>
+  </item>
+  <item idx="38">
+    <name>rug</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>38</challengeItemIdx>
+    <challengeItemIdx>162</challengeItemIdx>
+    <challengeItemIdx>268</challengeItemIdx>
+    <challengeItemIdx>348</challengeItemIdx>
+    <challengeItemIdx>405</challengeItemIdx>
+    <challengeItemIdx>447</challengeItemIdx>
+  </item>
+  <item idx="39">
+    <name>gate</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>39</challengeItemIdx>
+    <challengeItemIdx>163</challengeItemIdx>
+    <challengeItemIdx>273</challengeItemIdx>
+    <challengeItemIdx>350</challengeItemIdx>
+    <challengeItemIdx>394</challengeItemIdx>
+    <challengeItemIdx>446</challengeItemIdx>
+  </item>
+  <item idx="40">
+    <name>foot</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>40</challengeItemIdx>
+    <challengeItemIdx>164</challengeItemIdx>
+    <challengeItemIdx>398</challengeItemIdx>
+    <challengeItemIdx>450</challengeItemIdx>
+  </item>
+  <item idx="41">
+    <name>fork</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>41</challengeItemIdx>
+    <challengeItemIdx>165</challengeItemIdx>
+    <challengeItemIdx>270</challengeItemIdx>
+    <challengeItemIdx>352</challengeItemIdx>
+    <challengeItemIdx>402</challengeItemIdx>
+    <challengeItemIdx>454</challengeItemIdx>
+  </item>
+  <item idx="42">
+    <name>cart</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>42</challengeItemIdx>
+    <challengeItemIdx>166</challengeItemIdx>
+    <challengeItemIdx>262</challengeItemIdx>
+    <challengeItemIdx>333</challengeItemIdx>
+  </item>
+  <item idx="43">
+    <name>bull</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>43</challengeItemIdx>
+    <challengeItemIdx>167</challengeItemIdx>
+    <challengeItemIdx>291</challengeItemIdx>
+    <challengeItemIdx>355</challengeItemIdx>
+    <challengeItemIdx>407</challengeItemIdx>
+    <challengeItemIdx>459</challengeItemIdx>
+  </item>
+  <item idx="44">
+    <name>court</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>44</challengeItemIdx>
+    <challengeItemIdx>168</challengeItemIdx>
+    <challengeItemIdx>292</challengeItemIdx>
+    <challengeItemIdx>356</challengeItemIdx>
+    <challengeItemIdx>408</challengeItemIdx>
+    <challengeItemIdx>460</challengeItemIdx>
+  </item>
+  <item idx="45">
+    <name>strike</name>
+    <frequency>7</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>45</challengeItemIdx>
+    <challengeItemIdx>169</challengeItemIdx>
+    <challengeItemIdx>287</challengeItemIdx>
+    <challengeItemIdx>358</challengeItemIdx>
+  </item>
+  <item idx="46">
+    <name>bolt (tool)</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>46</challengeItemIdx>
+    <challengeItemIdx>170</challengeItemIdx>
+    <challengeItemIdx>286</challengeItemIdx>
+    <challengeItemIdx>359</challengeItemIdx>
+  </item>
+  <item idx="47">
+    <name>bolt (lock)</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>47</challengeItemIdx>
+    <challengeItemIdx>171</challengeItemIdx>
+    <challengeItemIdx>288</challengeItemIdx>
+    <challengeItemIdx>360</challengeItemIdx>
+  </item>
+  <item idx="48">
+    <name>bush</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>48</challengeItemIdx>
+    <challengeItemIdx>172</challengeItemIdx>
+    <challengeItemIdx>290</challengeItemIdx>
+    <challengeItemIdx>362</challengeItemIdx>
+    <challengeItemIdx>412</challengeItemIdx>
+    <challengeItemIdx>464</challengeItemIdx>
+  </item>
+  <item idx="49">
+    <name>head</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>49</challengeItemIdx>
+    <challengeItemIdx>173</challengeItemIdx>
+  </item>
+  <item idx="50">
+    <name>feet</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>50</challengeItemIdx>
+    <challengeItemIdx>174</challengeItemIdx>
+  </item>
+  <item idx="51">
+    <name>rain</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>51</challengeItemIdx>
+    <challengeItemIdx>175</challengeItemIdx>
+  </item>
+  <item idx="52">
+    <name>gold</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>52</challengeItemIdx>
+    <challengeItemIdx>176</challengeItemIdx>
+  </item>
+  <item idx="53">
+    <name>game</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>53</challengeItemIdx>
+    <challengeItemIdx>177</challengeItemIdx>
+  </item>
+  <item idx="54">
+    <name>child</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>54</challengeItemIdx>
+    <challengeItemIdx>178</challengeItemIdx>
+  </item>
+  <item idx="55">
+    <name>art</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>55</challengeItemIdx>
+    <challengeItemIdx>179</challengeItemIdx>
+    <challengeItemIdx>260</challengeItemIdx>
+    <challengeItemIdx>331</challengeItemIdx>
+    <challengeItemIdx>387</challengeItemIdx>
+  </item>
+  <item idx="56">
+    <name>room</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>56</challengeItemIdx>
+    <challengeItemIdx>180</challengeItemIdx>
+  </item>
+  <item idx="57">
+    <name>dog</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>57</challengeItemIdx>
+    <challengeItemIdx>181</challengeItemIdx>
+  </item>
+  <item idx="58">
+    <name>land</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>58</challengeItemIdx>
+    <challengeItemIdx>182</challengeItemIdx>
+  </item>
+  <item idx="59">
+    <name>lead</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>59</challengeItemIdx>
+    <challengeItemIdx>183</challengeItemIdx>
+  </item>
+  <item idx="60">
+    <name>stage</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>60</challengeItemIdx>
+    <challengeItemIdx>184</challengeItemIdx>
+  </item>
+  <item idx="61">
+    <name>ground</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>61</challengeItemIdx>
+    <challengeItemIdx>185</challengeItemIdx>
+  </item>
+  <item idx="62">
+    <name>girl</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>62</challengeItemIdx>
+    <challengeItemIdx>186</challengeItemIdx>
+  </item>
+  <item idx="63">
+    <name>food</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>63</challengeItemIdx>
+    <challengeItemIdx>187</challengeItemIdx>
+  </item>
+  <item idx="64">
+    <name>fire</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>64</challengeItemIdx>
+    <challengeItemIdx>188</challengeItemIdx>
+  </item>
+  <item idx="65">
+    <name>street</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>65</challengeItemIdx>
+    <challengeItemIdx>189</challengeItemIdx>
+  </item>
+  <item idx="66">
+    <name>sea</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>66</challengeItemIdx>
+    <challengeItemIdx>190</challengeItemIdx>
+  </item>
+  <item idx="67">
+    <name>town</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>67</challengeItemIdx>
+    <challengeItemIdx>191</challengeItemIdx>
+  </item>
+  <item idx="68">
+    <name>film</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>68</challengeItemIdx>
+    <challengeItemIdx>192</challengeItemIdx>
+  </item>
+  <item idx="69">
+    <name>fort</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>69</challengeItemIdx>
+    <challengeItemIdx>193</challengeItemIdx>
+    <challengeItemIdx>294</challengeItemIdx>
+    <challengeItemIdx>363</challengeItemIdx>
+    <challengeItemIdx>413</challengeItemIdx>
+    <challengeItemIdx>465</challengeItemIdx>
+  </item>
+  <item idx="70">
+    <name>cow</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>70</challengeItemIdx>
+    <challengeItemIdx>194</challengeItemIdx>
+    <challengeItemIdx>299</challengeItemIdx>
+    <challengeItemIdx>364</challengeItemIdx>
+    <challengeItemIdx>416</challengeItemIdx>
+  </item>
+  <item idx="71">
+    <name>chair</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>71</challengeItemIdx>
+    <challengeItemIdx>195</challengeItemIdx>
+    <challengeItemIdx>301</challengeItemIdx>
+    <challengeItemIdx>370</challengeItemIdx>
+    <challengeItemIdx>420</challengeItemIdx>
+    <challengeItemIdx>430</challengeItemIdx>
+  </item>
+  <item idx="72">
+    <name>heart</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>72</challengeItemIdx>
+    <challengeItemIdx>196</challengeItemIdx>
+  </item>
+  <item idx="73">
+    <name>dart</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>73</challengeItemIdx>
+    <challengeItemIdx>197</challengeItemIdx>
+    <challengeItemIdx>261</challengeItemIdx>
+    <challengeItemIdx>332</challengeItemIdx>
+    <challengeItemIdx>385</challengeItemIdx>
+  </item>
+  <item idx="74">
+    <name>key</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>74</challengeItemIdx>
+    <challengeItemIdx>198</challengeItemIdx>
+    <challengeItemIdx>304</challengeItemIdx>
+    <challengeItemIdx>373</challengeItemIdx>
+    <challengeItemIdx>423</challengeItemIdx>
+    <challengeItemIdx>476</challengeItemIdx>
+  </item>
+  <item idx="75">
+    <name>hand</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>75</challengeItemIdx>
+    <challengeItemIdx>199</challengeItemIdx>
+    <challengeItemIdx>305</challengeItemIdx>
+    <challengeItemIdx>374</challengeItemIdx>
+    <challengeItemIdx>424</challengeItemIdx>
+    <challengeItemIdx>477</challengeItemIdx>
+  </item>
+  <item idx="76">
+    <name>wife</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>76</challengeItemIdx>
+    <challengeItemIdx>200</challengeItemIdx>
+    <challengeItemIdx>307</challengeItemIdx>
+    <challengeItemIdx>376</challengeItemIdx>
+    <challengeItemIdx>425</challengeItemIdx>
+    <challengeItemIdx>479</challengeItemIdx>
+  </item>
+  <item idx="77">
+    <name>throne</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>77</challengeItemIdx>
+    <challengeItemIdx>201</challengeItemIdx>
+    <challengeItemIdx>308</challengeItemIdx>
+    <challengeItemIdx>377</challengeItemIdx>
+    <challengeItemIdx>480</challengeItemIdx>
+  </item>
+  <item idx="78">
+    <name>dome</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>78</challengeItemIdx>
+    <challengeItemIdx>202</challengeItemIdx>
+    <challengeItemIdx>267</challengeItemIdx>
+    <challengeItemIdx>378</challengeItemIdx>
+    <challengeItemIdx>481</challengeItemIdx>
+  </item>
+  <item idx="79">
+    <name>judge</name>
+    <frequency>7</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>79</challengeItemIdx>
+    <challengeItemIdx>203</challengeItemIdx>
+    <challengeItemIdx>302</challengeItemIdx>
+    <challengeItemIdx>379</challengeItemIdx>
+    <challengeItemIdx>426</challengeItemIdx>
+    <challengeItemIdx>482</challengeItemIdx>
+  </item>
+  <item idx="80">
+    <name>pea</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>80</challengeItemIdx>
+    <challengeItemIdx>204</challengeItemIdx>
+    <challengeItemIdx>279</challengeItemIdx>
+    <challengeItemIdx>371</challengeItemIdx>
+    <challengeItemIdx>421</challengeItemIdx>
+    <challengeItemIdx>474</challengeItemIdx>
+  </item>
+  <item idx="81">
+    <name>shore</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>81</challengeItemIdx>
+    <challengeItemIdx>205</challengeItemIdx>
+    <challengeItemIdx>281</challengeItemIdx>
+    <challengeItemIdx>334</challengeItemIdx>
+  </item>
+  <item idx="82">
+    <name>baby</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>82</challengeItemIdx>
+    <challengeItemIdx>206</challengeItemIdx>
+  </item>
+  <item idx="83">
+    <name>water</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>83</challengeItemIdx>
+    <challengeItemIdx>207</challengeItemIdx>
+  </item>
+  <item idx="84">
+    <name>garden</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>84</challengeItemIdx>
+    <challengeItemIdx>208</challengeItemIdx>
+  </item>
+  <item idx="85">
+    <name>office</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>85</challengeItemIdx>
+    <challengeItemIdx>209</challengeItemIdx>
+  </item>
+  <item idx="86">
+    <name>bedroom</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>86</challengeItemIdx>
+    <challengeItemIdx>210</challengeItemIdx>
+    <challengeItemIdx>243</challengeItemIdx>
+    <challengeItemIdx>313</challengeItemIdx>
+  </item>
+  <item idx="87">
+    <name>table</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>87</challengeItemIdx>
+    <challengeItemIdx>211</challengeItemIdx>
+  </item>
+  <item idx="88">
+    <name>children</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>88</challengeItemIdx>
+    <challengeItemIdx>212</challengeItemIdx>
+  </item>
+  <item idx="89">
+    <name>people</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>89</challengeItemIdx>
+    <challengeItemIdx>213</challengeItemIdx>
+  </item>
+  <item idx="90">
+    <name>body</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>90</challengeItemIdx>
+    <challengeItemIdx>214</challengeItemIdx>
+  </item>
+  <item idx="91">
+    <name>city</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>91</challengeItemIdx>
+    <challengeItemIdx>215</challengeItemIdx>
+  </item>
+  <item idx="92">
+    <name>police</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>92</challengeItemIdx>
+    <challengeItemIdx>216</challengeItemIdx>
+  </item>
+  <item idx="93">
+    <name>market</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>93</challengeItemIdx>
+    <challengeItemIdx>217</challengeItemIdx>
+  </item>
+  <item idx="94">
+    <name>bathroom</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>94</challengeItemIdx>
+    <challengeItemIdx>218</challengeItemIdx>
+    <challengeItemIdx>251</challengeItemIdx>
+    <challengeItemIdx>321</challengeItemIdx>
+  </item>
+  <item idx="95">
+    <name>mushroom</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>95</challengeItemIdx>
+    <challengeItemIdx>219</challengeItemIdx>
+    <challengeItemIdx>252</challengeItemIdx>
+    <challengeItemIdx>322</challengeItemIdx>
+    <challengeItemIdx>388</challengeItemIdx>
+  </item>
+  <item idx="96">
+    <name>silver</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>96</challengeItemIdx>
+    <challengeItemIdx>220</challengeItemIdx>
+    <challengeItemIdx>244</challengeItemIdx>
+    <challengeItemIdx>314</challengeItemIdx>
+  </item>
+  <item idx="97">
+    <name>saucer</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>97</challengeItemIdx>
+    <challengeItemIdx>221</challengeItemIdx>
+    <challengeItemIdx>256</challengeItemIdx>
+    <challengeItemIdx>326</challengeItemIdx>
+    <challengeItemIdx>473</challengeItemIdx>
+  </item>
+  <item idx="98">
+    <name>ceiling</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>98</challengeItemIdx>
+    <challengeItemIdx>222</challengeItemIdx>
+    <challengeItemIdx>283</challengeItemIdx>
+    <challengeItemIdx>345</challengeItemIdx>
+  </item>
+  <item idx="99">
+    <name>window</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>99</challengeItemIdx>
+    <challengeItemIdx>223</challengeItemIdx>
+    <challengeItemIdx>271</challengeItemIdx>
+    <challengeItemIdx>336</challengeItemIdx>
+    <challengeItemIdx>395</challengeItemIdx>
+    <challengeItemIdx>449</challengeItemIdx>
+  </item>
+  <item idx="100">
+    <name>hammer</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>100</challengeItemIdx>
+    <challengeItemIdx>224</challengeItemIdx>
+    <challengeItemIdx>272</challengeItemIdx>
+    <challengeItemIdx>353</challengeItemIdx>
+    <challengeItemIdx>396</challengeItemIdx>
+    <challengeItemIdx>448</challengeItemIdx>
+  </item>
+  <item idx="101">
+    <name>knife</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>101</challengeItemIdx>
+    <challengeItemIdx>225</challengeItemIdx>
+    <challengeItemIdx>274</challengeItemIdx>
+    <challengeItemIdx>338</challengeItemIdx>
+    <challengeItemIdx>397</challengeItemIdx>
+  </item>
+  <item idx="102">
+    <name>ladder</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>102</challengeItemIdx>
+    <challengeItemIdx>226</challengeItemIdx>
+    <challengeItemIdx>277</challengeItemIdx>
+    <challengeItemIdx>349</challengeItemIdx>
+    <challengeItemIdx>400</challengeItemIdx>
+    <challengeItemIdx>451</challengeItemIdx>
+  </item>
+  <item idx="103">
+    <name>teapot</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>103</challengeItemIdx>
+    <challengeItemIdx>227</challengeItemIdx>
+    <challengeItemIdx>285</challengeItemIdx>
+    <challengeItemIdx>354</challengeItemIdx>
+    <challengeItemIdx>406</challengeItemIdx>
+  </item>
+  <item idx="104">
+    <name>bottle</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>104</challengeItemIdx>
+    <challengeItemIdx>228</challengeItemIdx>
+    <challengeItemIdx>293</challengeItemIdx>
+    <challengeItemIdx>357</challengeItemIdx>
+    <challengeItemIdx>409</challengeItemIdx>
+    <challengeItemIdx>461</challengeItemIdx>
+  </item>
+  <item idx="105">
+    <name>hanger</name>
+    <frequency>4</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>105</challengeItemIdx>
+    <challengeItemIdx>229</challengeItemIdx>
+    <challengeItemIdx>289</challengeItemIdx>
+    <challengeItemIdx>361</challengeItemIdx>
+    <challengeItemIdx>411</challengeItemIdx>
+    <challengeItemIdx>463</challengeItemIdx>
+  </item>
+  <item idx="106">
+    <name>building</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>106</challengeItemIdx>
+    <challengeItemIdx>230</challengeItemIdx>
+  </item>
+  <item idx="107">
+    <name>father</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>107</challengeItemIdx>
+    <challengeItemIdx>231</challengeItemIdx>
+  </item>
+  <item idx="108">
+    <name>kitchen</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>108</challengeItemIdx>
+    <challengeItemIdx>232</challengeItemIdx>
+  </item>
+  <item idx="109">
+    <name>football</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>109</challengeItemIdx>
+    <challengeItemIdx>233</challengeItemIdx>
+  </item>
+  <item idx="110">
+    <name>tv</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>110</challengeItemIdx>
+    <challengeItemIdx>234</challengeItemIdx>
+  </item>
+  <item idx="111">
+    <name>castle</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>111</challengeItemIdx>
+    <challengeItemIdx>235</challengeItemIdx>
+    <challengeItemIdx>295</challengeItemIdx>
+    <challengeItemIdx>366</challengeItemIdx>
+    <challengeItemIdx>414</challengeItemIdx>
+    <challengeItemIdx>468</challengeItemIdx>
+  </item>
+  <item idx="112">
+    <name>letter</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>112</challengeItemIdx>
+    <challengeItemIdx>236</challengeItemIdx>
+    <challengeItemIdx>298</challengeItemIdx>
+    <challengeItemIdx>368</challengeItemIdx>
+    <challengeItemIdx>417</challengeItemIdx>
+    <challengeItemIdx>470</challengeItemIdx>
+  </item>
+  <item idx="113">
+    <name>sailor</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>113</challengeItemIdx>
+    <challengeItemIdx>237</challengeItemIdx>
+    <challengeItemIdx>300</challengeItemIdx>
+    <challengeItemIdx>369</challengeItemIdx>
+    <challengeItemIdx>419</challengeItemIdx>
+    <challengeItemIdx>472</challengeItemIdx>
+  </item>
+  <item idx="114">
+    <name>rainbow</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>114</challengeItemIdx>
+    <challengeItemIdx>238</challengeItemIdx>
+    <challengeItemIdx>265</challengeItemIdx>
+    <challengeItemIdx>346</challengeItemIdx>
+    <challengeItemIdx>429</challengeItemIdx>
+  </item>
+  <item idx="115">
+    <name>record</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>115</challengeItemIdx>
+    <challengeItemIdx>239</challengeItemIdx>
+    <challengeItemIdx>259</challengeItemIdx>
+    <challengeItemIdx>347</challengeItemIdx>
+    <challengeItemIdx>390</challengeItemIdx>
+    <challengeItemIdx>455</challengeItemIdx>
+  </item>
+  <item idx="116">
+    <name>lady</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>116</challengeItemIdx>
+    <challengeItemIdx>240</challengeItemIdx>
+    <challengeItemIdx>242</challengeItemIdx>
+    <challengeItemIdx>330</challengeItemIdx>
+    <challengeItemIdx>386</challengeItemIdx>
+    <challengeItemIdx>466</challengeItemIdx>
+  </item>
+  <item idx="117">
+    <name>mother</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>117</challengeItemIdx>
+    <challengeItemIdx>241</challengeItemIdx>
+  </item>
+  <item idx="118">
+    <name>secretary</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>4</syllableNum>
+    <challengeItemIdx>118</challengeItemIdx>
+    <challengeItemIdx>309</challengeItemIdx>
+    <challengeItemIdx>327</challengeItemIdx>
+  </item>
+  <item idx="119">
+    <name>hospital</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>3</syllableNum>
+    <challengeItemIdx>119</challengeItemIdx>
+  </item>
+  <item idx="120">
+    <name>butterfly</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>3</syllableNum>
+    <challengeItemIdx>120</challengeItemIdx>
+    <challengeItemIdx>296</challengeItemIdx>
+    <challengeItemIdx>365</challengeItemIdx>
+    <challengeItemIdx>415</challengeItemIdx>
+    <challengeItemIdx>467</challengeItemIdx>
+  </item>
+  <item idx="121">
+    <name>computer</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>3</syllableNum>
+    <challengeItemIdx>121</challengeItemIdx>
+    <challengeItemIdx>297</challengeItemIdx>
+    <challengeItemIdx>367</challengeItemIdx>
+    <challengeItemIdx>469</challengeItemIdx>
+  </item>
+  <item idx="122">
+    <name>escalator</name>
+    <frequency>4</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>4</syllableNum>
+    <challengeItemIdx>122</challengeItemIdx>
+    <challengeItemIdx>306</challengeItemIdx>
+    <challengeItemIdx>375</challengeItemIdx>
+    <challengeItemIdx>478</challengeItemIdx>
+  </item>
+  <item idx="123">
+    <name>typewriter</name>
+    <frequency>4</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>3</syllableNum>
+    <challengeItemIdx>123</challengeItemIdx>
+    <challengeItemIdx>264</challengeItemIdx>
+    <challengeItemIdx>380</challengeItemIdx>
+    <challengeItemIdx>428</challengeItemIdx>
+    <challengeItemIdx>442</challengeItemIdx>
+  </item>
+  <item idx="124">
+    <name>hug</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>266</challengeItemIdx>
+    <challengeItemIdx>381</challengeItemIdx>
+  </item>
+  <item idx="125">
+    <name>flower</name>
+    <frequency>7</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>280</challengeItemIdx>
+    <challengeItemIdx>312</challengeItemIdx>
+  </item>
+  <item idx="126">
+    <name>bug</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>311</challengeItemIdx>
+    <challengeItemIdx>351</challengeItemIdx>
+    <challengeItemIdx>401</challengeItemIdx>
+    <challengeItemIdx>453</challengeItemIdx>
+  </item>
+  <item idx="127">
+    <name>man</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>382</challengeItemIdx>
+  </item>
+  <item idx="128">
+    <name>boy</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>383</challengeItemIdx>
+    <challengeItemIdx>384</challengeItemIdx>
+  </item>
+  <item idx="129">
+    <name>home</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>389</challengeItemIdx>
+    <challengeItemIdx>438</challengeItemIdx>
+  </item>
+  <item idx="130">
+    <name>bolt</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>410</challengeItemIdx>
+    <challengeItemIdx>462</challengeItemIdx>
+  </item>
+  <item idx="131">
+    <name>peas</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>427</challengeItemIdx>
+    <challengeItemIdx>483</challengeItemIdx>
+  </item>
+  <item idx="132">
+    <name>sleeps</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>484</challengeItemIdx>
+  </item>
+  <item idx="133">
+    <name>mop</name>
+    <frequency>4</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>485</challengeItemIdx>
+    <challengeItemIdx>546</challengeItemIdx>
+    <challengeItemIdx>615</challengeItemIdx>
+  </item>
+  <item idx="134">
+    <name>eat</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>486</challengeItemIdx>
+    <challengeItemIdx>520</challengeItemIdx>
+    <challengeItemIdx>554</challengeItemIdx>
+    <challengeItemIdx>621</challengeItemIdx>
+  </item>
+  <item idx="135">
+    <name>cleans</name>
+    <frequency>6</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>487</challengeItemIdx>
+    <challengeItemIdx>557</challengeItemIdx>
+  </item>
+  <item idx="136">
+    <name>type</name>
+    <frequency>4</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>488</challengeItemIdx>
+    <challengeItemIdx>517</challengeItemIdx>
+  </item>
+  <item idx="137">
+    <name>cook</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>489</challengeItemIdx>
+    <challengeItemIdx>562</challengeItemIdx>
+    <challengeItemIdx>624</challengeItemIdx>
+  </item>
+  <item idx="138">
+    <name>block</name>
+    <frequency>6</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>491</challengeItemIdx>
+  </item>
+  <item idx="139">
+    <name>lick</name>
+    <frequency>5</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>492</challengeItemIdx>
+    <challengeItemIdx>559</challengeItemIdx>
+  </item>
+  <item idx="140">
+    <name>kick</name>
+    <frequency>6</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>493</challengeItemIdx>
+    <challengeItemIdx>561</challengeItemIdx>
+    <challengeItemIdx>625</challengeItemIdx>
+  </item>
+  <item idx="141">
+    <name>elect</name>
+    <frequency>5</frequency>
+    <concreteness>2</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>494</challengeItemIdx>
+  </item>
+  <item idx="142">
+    <name>arrest</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>495</challengeItemIdx>
+  </item>
+  <item idx="143">
+    <name>fix</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>496</challengeItemIdx>
+  </item>
+  <item idx="144">
+    <name>deal</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>497</challengeItemIdx>
+    <challengeItemIdx>522</challengeItemIdx>
+    <challengeItemIdx>591</challengeItemIdx>
+    <challengeItemIdx>641</challengeItemIdx>
+  </item>
+  <item idx="145">
+    <name>design</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>498</challengeItemIdx>
+  </item>
+  <item idx="146">
+    <name>create</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>499</challengeItemIdx>
+  </item>
+  <item idx="147">
+    <name>send</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>500</challengeItemIdx>
+  </item>
+  <item idx="148">
+    <name>excite</name>
+    <frequency>4</frequency>
+    <concreteness>1</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>501</challengeItemIdx>
+  </item>
+  <item idx="149">
+    <name>share</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>502</challengeItemIdx>
+  </item>
+  <item idx="150">
+    <name>choose</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>503</challengeItemIdx>
+  </item>
+  <item idx="151">
+    <name>protect</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>504</challengeItemIdx>
+  </item>
+  <item idx="152">
+    <name>scare</name>
+    <frequency>6</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>505</challengeItemIdx>
+  </item>
+  <item idx="153">
+    <name>begin</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>506</challengeItemIdx>
+  </item>
+  <item idx="154">
+    <name>disappoint</name>
+    <frequency>5</frequency>
+    <concreteness>1</concreteness>
+    <syllableNum>3</syllableNum>
+    <challengeItemIdx>507</challengeItemIdx>
+  </item>
+  <item idx="155">
+    <name>lift</name>
+    <frequency>7</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>508</challengeItemIdx>
+    <challengeItemIdx>570</challengeItemIdx>
+    <challengeItemIdx>626</challengeItemIdx>
+  </item>
+  <item idx="156">
+    <name>sift</name>
+    <frequency>4</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>509</challengeItemIdx>
+    <challengeItemIdx>571</challengeItemIdx>
+    <challengeItemIdx>627</challengeItemIdx>
+  </item>
+  <item idx="157">
+    <name>sand</name>
+    <frequency>3</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>510</challengeItemIdx>
+    <challengeItemIdx>574</challengeItemIdx>
+    <challengeItemIdx>630</challengeItemIdx>
+  </item>
+  <item idx="158">
+    <name>hold</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>511</challengeItemIdx>
+  </item>
+  <item idx="159">
+    <name>fold</name>
+    <frequency>6</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>512</challengeItemIdx>
+    <challengeItemIdx>575</challengeItemIdx>
+  </item>
+  <item idx="160">
+    <name>beat</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>513</challengeItemIdx>
+  </item>
+  <item idx="161">
+    <name>heat</name>
+    <frequency>5</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>514</challengeItemIdx>
+  </item>
+  <item idx="162">
+    <name>make</name>
+    <frequency>8</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>515</challengeItemIdx>
+    <challengeItemIdx>675</challengeItemIdx>
+    <challengeItemIdx>682</challengeItemIdx>
+  </item>
+  <item idx="163">
+    <name>open</name>
+    <frequency>7</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>516</challengeItemIdx>
+  </item>
+  <item idx="164">
+    <name>clean</name>
+    <frequency>6</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>518</challengeItemIdx>
+    <challengeItemIdx>582</challengeItemIdx>
+    <challengeItemIdx>637</challengeItemIdx>
+  </item>
+  <item idx="165">
+    <name>forage</name>
+    <frequency>4</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>3</syllableNum>
+    <challengeItemIdx>519</challengeItemIdx>
+  </item>
+  <item idx="166">
+    <name>find</name>
+    <frequency>8</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>521</challengeItemIdx>
+  </item>
+  <item idx="167">
+    <name>meet</name>
+    <frequency>8</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>523</challengeItemIdx>
+  </item>
+  <item idx="168">
+    <name>throw</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>524</challengeItemIdx>
+    <challengeItemIdx>594</challengeItemIdx>
+    <challengeItemIdx>648</challengeItemIdx>
+  </item>
+  <item idx="169">
+    <name>watch</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>525</challengeItemIdx>
+    <challengeItemIdx>595</challengeItemIdx>
+  </item>
+  <item idx="170">
+    <name>catch</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>526</challengeItemIdx>
+    <challengeItemIdx>596</challengeItemIdx>
+  </item>
+  <item idx="171">
+    <name>feed</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>527</challengeItemIdx>
+    <challengeItemIdx>598</challengeItemIdx>
+    <challengeItemIdx>650</challengeItemIdx>
+  </item>
+  <item idx="172">
+    <name>read</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>528</challengeItemIdx>
+    <challengeItemIdx>600</challengeItemIdx>
+    <challengeItemIdx>652</challengeItemIdx>
+    <challengeItemIdx>680</challengeItemIdx>
+  </item>
+  <item idx="173">
+    <name>knead</name>
+    <frequency>4</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>529</challengeItemIdx>
+    <challengeItemIdx>601</challengeItemIdx>
+    <challengeItemIdx>653</challengeItemIdx>
+  </item>
+  <item idx="174">
+    <name>weed</name>
+    <frequency>3</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>530</challengeItemIdx>
+    <challengeItemIdx>602</challengeItemIdx>
+    <challengeItemIdx>654</challengeItemIdx>
+  </item>
+  <item idx="175">
+    <name>drive</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>531</challengeItemIdx>
+    <challengeItemIdx>603</challengeItemIdx>
+    <challengeItemIdx>655</challengeItemIdx>
+  </item>
+  <item idx="176">
+    <name>hit</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>532</challengeItemIdx>
+    <challengeItemIdx>606</challengeItemIdx>
+    <challengeItemIdx>659</challengeItemIdx>
+  </item>
+  <item idx="177">
+    <name>walk</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>533</challengeItemIdx>
+    <challengeItemIdx>566</challengeItemIdx>
+    <challengeItemIdx>660</challengeItemIdx>
+  </item>
+  <item idx="178">
+    <name>mix</name>
+    <frequency>5</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>534</challengeItemIdx>
+    <challengeItemIdx>607</challengeItemIdx>
+  </item>
+  <item idx="179">
+    <name>wash</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>535</challengeItemIdx>
+    <challengeItemIdx>611</challengeItemIdx>
+    <challengeItemIdx>664</challengeItemIdx>
+  </item>
+  <item idx="180">
+    <name>write</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>536</challengeItemIdx>
+    <challengeItemIdx>568</challengeItemIdx>
+    <challengeItemIdx>662</challengeItemIdx>
+  </item>
+  <item idx="181">
+    <name>blow</name>
+    <frequency>7</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>537</challengeItemIdx>
+    <challengeItemIdx>613</challengeItemIdx>
+    <challengeItemIdx>623</challengeItemIdx>
+  </item>
+  <item idx="182">
+    <name>wake</name>
+    <frequency>7</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>538</challengeItemIdx>
+    <challengeItemIdx>590</challengeItemIdx>
+    <challengeItemIdx>642</challengeItemIdx>
+  </item>
+  <item idx="183">
+    <name>tie</name>
+    <frequency>6</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>539</challengeItemIdx>
+    <challengeItemIdx>581</challengeItemIdx>
+    <challengeItemIdx>639</challengeItemIdx>
+  </item>
+  <item idx="184">
+    <name>check</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>540</challengeItemIdx>
+  </item>
+  <item idx="185">
+    <name>hear</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>541</challengeItemIdx>
+    <challengeItemIdx>588</challengeItemIdx>
+  </item>
+  <item idx="186">
+    <name>build</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>542</challengeItemIdx>
+    <challengeItemIdx>593</challengeItemIdx>
+    <challengeItemIdx>647</challengeItemIdx>
+  </item>
+  <item idx="187">
+    <name>move</name>
+    <frequency>8</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>543</challengeItemIdx>
+    <challengeItemIdx>545</challengeItemIdx>
+    <challengeItemIdx>614</challengeItemIdx>
+  </item>
+  <item idx="188">
+    <name>break</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>544</challengeItemIdx>
+    <challengeItemIdx>681</challengeItemIdx>
+  </item>
+  <item idx="189">
+    <name>run</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>547</challengeItemIdx>
+    <challengeItemIdx>616</challengeItemIdx>
+  </item>
+  <item idx="190">
+    <name>cycle</name>
+    <frequency>4</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>548</challengeItemIdx>
+    <challengeItemIdx>617</challengeItemIdx>
+  </item>
+  <item idx="191">
+    <name>recycle</name>
+    <frequency>5</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>3</syllableNum>
+    <challengeItemIdx>549</challengeItemIdx>
+    <challengeItemIdx>657</challengeItemIdx>
+  </item>
+  <item idx="192">
+    <name>sit</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>550</challengeItemIdx>
+    <challengeItemIdx>618</challengeItemIdx>
+  </item>
+  <item idx="193">
+    <name>fall</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>552</challengeItemIdx>
+    <challengeItemIdx>619</challengeItemIdx>
+  </item>
+  <item idx="194">
+    <name>lie</name>
+    <frequency>7</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>553</challengeItemIdx>
+    <challengeItemIdx>644</challengeItemIdx>
+  </item>
+  <item idx="195">
+    <name>look</name>
+    <frequency>8</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>555</challengeItemIdx>
+    <challengeItemIdx>622</challengeItemIdx>
+  </item>
+  <item idx="196">
+    <name>types</name>
+    <frequency>4</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>556</challengeItemIdx>
+  </item>
+  <item idx="197">
+    <name>pick</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>558</challengeItemIdx>
+    <challengeItemIdx>671</challengeItemIdx>
+  </item>
+  <item idx="198">
+    <name>knock</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>560</challengeItemIdx>
+  </item>
+  <item idx="199">
+    <name>cut</name>
+    <frequency>8</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>563</challengeItemIdx>
+  </item>
+  <item idx="200">
+    <name>stand</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>564</challengeItemIdx>
+    <challengeItemIdx>631</challengeItemIdx>
+  </item>
+  <item idx="201">
+    <name>fight</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>565</challengeItemIdx>
+  </item>
+  <item idx="202">
+    <name>sleep</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>567</challengeItemIdx>
+  </item>
+  <item idx="203">
+    <name>sing</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>569</challengeItemIdx>
+  </item>
+  <item idx="204">
+    <name>drift</name>
+    <frequency>5</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>572</challengeItemIdx>
+    <challengeItemIdx>628</challengeItemIdx>
+  </item>
+  <item idx="205">
+    <name>drill</name>
+    <frequency>4</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>573</challengeItemIdx>
+    <challengeItemIdx>629</challengeItemIdx>
+  </item>
+  <item idx="206">
+    <name>bake</name>
+    <frequency>6</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>576</challengeItemIdx>
+    <challengeItemIdx>632</challengeItemIdx>
+    <challengeItemIdx>666</challengeItemIdx>
+  </item>
+  <item idx="207">
+    <name>play</name>
+    <frequency>8</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>577</challengeItemIdx>
+    <challengeItemIdx>633</challengeItemIdx>
+  </item>
+  <item idx="208">
+    <name>pay</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>578</challengeItemIdx>
+    <challengeItemIdx>634</challengeItemIdx>
+  </item>
+  <item idx="209">
+    <name>pray</name>
+    <frequency>6</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>579</challengeItemIdx>
+    <challengeItemIdx>635</challengeItemIdx>
+  </item>
+  <item idx="210">
+    <name>speak</name>
+    <frequency>8</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>580</challengeItemIdx>
+    <challengeItemIdx>636</challengeItemIdx>
+  </item>
+  <item idx="211">
+    <name>gallops</name>
+    <frequency>4</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>583</challengeItemIdx>
+  </item>
+  <item idx="212">
+    <name>forages</name>
+    <frequency>4</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>584</challengeItemIdx>
+  </item>
+  <item idx="213">
+    <name>leans</name>
+    <frequency>5</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>585</challengeItemIdx>
+  </item>
+  <item idx="214">
+    <name>eats</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>586</challengeItemIdx>
+  </item>
+  <item idx="215">
+    <name>falls</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>587</challengeItemIdx>
+  </item>
+  <item idx="216">
+    <name>kneels</name>
+    <frequency>4</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>589</challengeItemIdx>
+  </item>
+  <item idx="217">
+    <name>peek</name>
+    <frequency>3</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>592</challengeItemIdx>
+    <challengeItemIdx>646</challengeItemIdx>
+  </item>
+  <item idx="218">
+    <name>work</name>
+    <frequency>8</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>597</challengeItemIdx>
+    <challengeItemIdx>649</challengeItemIdx>
+  </item>
+  <item idx="219">
+    <name>bleed</name>
+    <frequency>5</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>599</challengeItemIdx>
+    <challengeItemIdx>651</challengeItemIdx>
+  </item>
+  <item idx="220">
+    <name>dive</name>
+    <frequency>4</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>604</challengeItemIdx>
+    <challengeItemIdx>656</challengeItemIdx>
+  </item>
+  <item idx="221">
+    <name>call</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>605</challengeItemIdx>
+    <challengeItemIdx>658</challengeItemIdx>
+  </item>
+  <item idx="222">
+    <name>relax</name>
+    <frequency>7</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>3</syllableNum>
+    <challengeItemIdx>608</challengeItemIdx>
+    <challengeItemIdx>661</challengeItemIdx>
+  </item>
+  <item idx="223">
+    <name>drop</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>609</challengeItemIdx>
+    <challengeItemIdx>645</challengeItemIdx>
+  </item>
+  <item idx="224">
+    <name>cry</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>610</challengeItemIdx>
+    <challengeItemIdx>663</challengeItemIdx>
+  </item>
+  <item idx="225">
+    <name>shower</name>
+    <frequency>7</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>612</challengeItemIdx>
+    <challengeItemIdx>665</challengeItemIdx>
+  </item>
+  <item idx="226">
+    <name>talk</name>
+    <frequency>8</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>620</challengeItemIdx>
+  </item>
+  <item idx="227">
+    <name>lean</name>
+    <frequency>5</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>638</challengeItemIdx>
+  </item>
+  <item idx="228">
+    <name>gallop</name>
+    <frequency>4</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>640</challengeItemIdx>
+  </item>
+  <item idx="229">
+    <name>kneel</name>
+    <frequency>4</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>643</challengeItemIdx>
+  </item>
+  <item idx="230">
+    <name>slice</name>
+    <frequency>5</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>667</challengeItemIdx>
+  </item>
+  <item idx="231">
+    <name>knit</name>
+    <frequency>5</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>668</challengeItemIdx>
+  </item>
+  <item idx="232">
+    <name>handwrite</name>
+    <frequency>1</frequency>
+    <concreteness>6</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>669</challengeItemIdx>
+  </item>
+  <item idx="233">
+    <name>crochet</name>
+    <frequency>2</frequency>
+    <concreteness>7</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>670</challengeItemIdx>
+  </item>
+  <item idx="234">
+    <name>sell</name>
+    <frequency>8</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>672</challengeItemIdx>
+  </item>
+  <item idx="235">
+    <name>buy</name>
+    <frequency>8</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>673</challengeItemIdx>
+  </item>
+  <item idx="236">
+    <name>plant</name>
+    <frequency>6</frequency>
+    <concreteness>5</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>674</challengeItemIdx>
+  </item>
+  <item idx="237">
+    <name>put</name>
+    <frequency>8</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>676</challengeItemIdx>
+  </item>
+  <item idx="238">
+    <name>give</name>
+    <frequency>8</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>677</challengeItemIdx>
+  </item>
+  <item idx="239">
+    <name>bring</name>
+    <frequency>8</frequency>
+    <concreteness>3</concreteness>
+    <syllableNum>1</syllableNum>
+    <challengeItemIdx>678</challengeItemIdx>
+  </item>
+  <item idx="240">
+    <name>allow</name>
+    <frequency>6</frequency>
+    <concreteness>4</concreteness>
+    <syllableNum>2</syllableNum>
+    <challengeItemIdx>679</challengeItemIdx>
+  </item>
+</root>

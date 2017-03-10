@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <userid>6</userid>
+  <datasetId>0</datasetId>
+  <roundIdx>1</roundIdx>
+  <totalTherapyTimeMin>3.3099</totalTherapyTimeMin>
+  <curNoiseLevel>0</curNoiseLevel>
+  <noiseHistory>
+    <level>1</level>
+    <level>2</level>
+    <level>3</level>
+    <level>4</level>
+    <level>5</level>
+  </noiseHistory>
+  <noiseBlocks>
+    <idx>50</idx>
+    <idx>56</idx>
+    <idx>60</idx>
+    <idx>69</idx>
+    <idx>72</idx>
+    <idx>75</idx>
+    <idx>80</idx>
+    <idx>88</idx>
+    <idx>92</idx>
+    <idx>98</idx>
+    <idx>101</idx>
+    <idx>108</idx>
+    <idx>111</idx>
+    <idx>116</idx>
+    <idx>122</idx>
+    <idx>126</idx>
+    <idx>131</idx>
+    <idx>137</idx>
+    <idx>144</idx>
+    <idx>149</idx>
+    <idx>152</idx>
+    <idx>159</idx>
+    <idx>162</idx>
+    <idx>166</idx>
+  </noiseBlocks>
+  <forcedBlocks>
+    <weekly>
+      <date>03/08/2016 13:22:15</date>
+      <daily>
+        <date>03/08/2016 13:22:15</date>
+        <idx>4</idx>
+        <idx>8</idx>
+        <idx>12</idx>
+        <idx>16</idx>
+      </daily>
+    </weekly>
+  </forcedBlocks>
+</root>

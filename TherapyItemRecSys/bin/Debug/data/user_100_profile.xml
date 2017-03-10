@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <userid>1</userid>
+  <curNoiseLevel>0</curNoiseLevel>
+  <noiseHistory>
+    <level>1</level>
+    <level>2</level>
+    <level>3</level>
+  </noiseHistory>
+  <noiseBlocks>
+    <idx>5</idx>
+    <idx>12</idx>
+    <idx>16</idx>
+    <idx>24</idx>
+    <idx>29</idx>
+    <idx>33</idx>
+    <idx>39</idx>
+    <idx>42</idx>
+    <idx>45</idx>
+    <idx>50</idx>
+    <idx>59</idx>
+    <idx>61</idx>
+    <idx>68</idx>
+    <idx>74</idx>
+    <idx>78</idx>
+  </noiseBlocks>
+</root>

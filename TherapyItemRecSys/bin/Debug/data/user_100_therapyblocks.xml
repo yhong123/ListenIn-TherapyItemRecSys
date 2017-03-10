@@ -1,0 +1,2343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <block idx="0">
+    <startTime>05/07/2016 13:34:47</startTime>
+    <endTime>05/07/2016 13:35:28</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="0" res="1" cpx="0.1" />
+      <item idx="4" res="1" cpx="0.1" />
+      <item idx="8" res="1" cpx="0.1" />
+      <item idx="12" res="1" cpx="0.1" />
+      <item idx="20" res="1" cpx="0.1" />
+      <item idx="24" res="1" cpx="0.1" />
+      <item idx="28" res="1" cpx="0.1" />
+      <item idx="32" res="1" cpx="0.1" />
+      <item idx="36" res="1" cpx="0.1" />
+      <item idx="40" res="1" cpx="0.1" />
+      <item idx="44" res="1" cpx="0.1" />
+      <item idx="48" res="1" cpx="0.1" />
+      <item idx="52" res="1" cpx="0.1" />
+      <item idx="56" res="1" cpx="0.1" />
+      <item idx="60" res="1" cpx="0.1" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1</blockComplexity>
+    <userAbility>0.11</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="1">
+    <startTime>05/07/2016 13:35:28</startTime>
+    <endTime>05/07/2016 13:35:29</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="304" res="1" cpx="0.1375" />
+      <item idx="968" res="1" cpx="0.1375" />
+      <item idx="464" res="1" cpx="0.1373" />
+      <item idx="176" res="1" cpx="0.1375" />
+      <item idx="256" res="1" cpx="0.1" />
+      <item idx="856" res="1" cpx="0.1" />
+      <item idx="72" res="1" cpx="0.1" />
+      <item idx="700" res="1" cpx="0.1" />
+      <item idx="964" res="1" cpx="0.1" />
+      <item idx="248" res="1" cpx="0.1" />
+      <item idx="264" res="1" cpx="0.1" />
+      <item idx="328" res="1" cpx="0.1" />
+      <item idx="928" res="1" cpx="0.1" />
+      <item idx="596" res="1" cpx="0.1" />
+      <item idx="844" res="1" cpx="0.1" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.11</blockComplexity>
+    <userAbility>0.12</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="2">
+    <startTime>05/07/2016 13:35:29</startTime>
+    <endTime>05/07/2016 13:35:30</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="192" res="1" cpx="0.1643" />
+      <item idx="88" res="1" cpx="0.1643" />
+      <item idx="688" res="1" cpx="0.1641" />
+      <item idx="308" res="1" cpx="0.1643" />
+      <item idx="352" res="1" cpx="0.1" />
+      <item idx="228" res="1" cpx="0.1" />
+      <item idx="224" res="1" cpx="0.1" />
+      <item idx="840" res="1" cpx="0.1" />
+      <item idx="268" res="1" cpx="0.1" />
+      <item idx="976" res="1" cpx="0.1" />
+      <item idx="140" res="1" cpx="0.1" />
+      <item idx="436" res="1" cpx="0.1" />
+      <item idx="696" res="1" cpx="0.1" />
+      <item idx="564" res="1" cpx="0.1" />
+      <item idx="612" res="1" cpx="0.1" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1171</blockComplexity>
+    <userAbility>0.13</userAbility>
+    <freq m="0.1686" sd="0.1137" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="3">
+    <startTime>05/07/2016 13:35:30</startTime>
+    <endTime>05/07/2016 13:35:30</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="477" res="1" cpx="0.175" />
+      <item idx="713" res="1" cpx="0.175" />
+      <item idx="829" res="1" cpx="0.175" />
+      <item idx="1077" res="1" cpx="0.175" />
+      <item idx="304" res="1" cpx="0.1295" />
+      <item idx="176" res="1" cpx="0.1295" />
+      <item idx="968" res="1" cpx="0.1294" />
+      <item idx="464" res="1" cpx="0.1293" />
+      <item idx="628" res="1" cpx="0.1" />
+      <item idx="252" res="1" cpx="0.1" />
+      <item idx="216" res="1" cpx="0.0995" />
+      <item idx="768" res="1" cpx="0.1" />
+      <item idx="424" res="1" cpx="0.1" />
+      <item idx="288" res="1" cpx="0.1" />
+      <item idx="1239" res="1" cpx="0.1" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1278</blockComplexity>
+    <userAbility>0.14</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.18" sd="0.1327" />
+  </block>
+  <block idx="4">
+    <startTime>05/07/2016 13:35:30</startTime>
+    <endTime>05/07/2016 13:35:31</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="641" res="1" cpx="0.175" />
+      <item idx="709" res="1" cpx="0.175" />
+      <item idx="473" res="1" cpx="0.175" />
+      <item idx="757" res="1" cpx="0.175" />
+      <item idx="956" res="1" cpx="0.1375" />
+      <item idx="1036" res="1" cpx="0.1373" />
+      <item idx="1040" res="1" cpx="0.1375" />
+      <item idx="460" res="1" cpx="0.1372" />
+      <item idx="220" res="1" cpx="0.1373" />
+      <item idx="716" res="1" cpx="0.1371" />
+      <item idx="800" res="1" cpx="0.1372" />
+      <item idx="1227" res="1" cpx="0.137" />
+      <item idx="1167" res="1" cpx="0.1372" />
+      <item idx="672" res="1" cpx="0.137" />
+      <item idx="960" res="1" cpx="0.1369" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1473</blockComplexity>
+    <userAbility>0.1473</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.21" sd="0.0663" />
+    <distr m="0.18" sd="0.1327" />
+  </block>
+  <block idx="5">
+    <startTime>05/07/2016 13:35:31</startTime>
+    <endTime>05/07/2016 13:35:32</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>1</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="816" res="1" cpx="0.1964" />
+      <item idx="1139" res="1" cpx="0.1964" />
+      <item idx="580" res="1" cpx="0.1964" />
+      <item idx="164" res="1" cpx="0.1964" />
+      <item idx="608" res="1" cpx="0.1322" />
+      <item idx="780" res="1" cpx="0.1322" />
+      <item idx="416" res="1" cpx="0.1322" />
+      <item idx="1052" res="1" cpx="0.1322" />
+      <item idx="1100" res="1" cpx="0.1322" />
+      <item idx="1084" res="1" cpx="0.1322" />
+      <item idx="1191" res="1" cpx="0.1322" />
+      <item idx="896" res="1" cpx="0.1322" />
+      <item idx="1211" res="1" cpx="0.1322" />
+      <item idx="512" res="1" cpx="0.1322" />
+      <item idx="892" res="1" cpx="0.1322" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1493</blockComplexity>
+    <userAbility>0.1493</userAbility>
+    <freq m="0.2972" sd="0.1137" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="6">
+    <startTime>05/07/2016 13:35:32</startTime>
+    <endTime>05/07/2016 13:35:32</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="853" res="1" cpx="0.175" />
+      <item idx="77" res="1" cpx="0.175" />
+      <item idx="357" res="1" cpx="0.1741" />
+      <item idx="869" res="1" cpx="0.175" />
+      <item idx="608" res="1" cpx="0.1322" />
+      <item idx="780" res="1" cpx="0.1322" />
+      <item idx="96" res="1" cpx="0.1322" />
+      <item idx="416" res="1" cpx="0.1322" />
+      <item idx="1119" res="1" cpx="0.1322" />
+      <item idx="1100" res="1" cpx="0.1322" />
+      <item idx="1191" res="1" cpx="0.1322" />
+      <item idx="896" res="1" cpx="0.1322" />
+      <item idx="1211" res="1" cpx="0.1322" />
+      <item idx="92" res="1" cpx="0.1322" />
+      <item idx="604" res="1" cpx="0.1321" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1435</blockComplexity>
+    <userAbility>0.1593</userAbility>
+    <freq m="0.1943" sd="0.0569" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.18" sd="0.1327" />
+  </block>
+  <block idx="7">
+    <startTime>05/07/2016 13:35:32</startTime>
+    <endTime>05/07/2016 13:35:33</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="957" res="1" cpx="0.2103" />
+      <item idx="1037" res="1" cpx="0.2099" />
+      <item idx="461" res="1" cpx="0.2096" />
+      <item idx="221" res="1" cpx="0.2102" />
+      <item idx="88" res="1" cpx="0.1548" />
+      <item idx="308" res="1" cpx="0.1547" />
+      <item idx="688" res="1" cpx="0.1546" />
+      <item idx="192" res="1" cpx="0.1544" />
+      <item idx="1052" res="1" cpx="0.1322" />
+      <item idx="656" res="1" cpx="0.1322" />
+      <item idx="872" res="1" cpx="0.1322" />
+      <item idx="160" res="1" cpx="0.132" />
+      <item idx="892" res="1" cpx="0.1322" />
+      <item idx="512" res="1" cpx="0.132" />
+      <item idx="1084" res="1" cpx="0.1321" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1589</blockComplexity>
+    <userAbility>0.1693</userAbility>
+    <freq m="0.2286" sd="0.0939" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.18" sd="0.1327" />
+  </block>
+  <block idx="8">
+    <startTime>05/07/2016 13:35:33</startTime>
+    <endTime>05/07/2016 13:35:33</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="801" res="1" cpx="0.2101" />
+      <item idx="1228" res="1" cpx="0.2097" />
+      <item idx="673" res="1" cpx="0.2101" />
+      <item idx="1168" res="1" cpx="0.2097" />
+      <item idx="1143" res="1" cpx="0.1643" />
+      <item idx="188" res="1" cpx="0.1643" />
+      <item idx="1131" res="1" cpx="0.1643" />
+      <item idx="280" res="1" cpx="0.1643" />
+      <item idx="1215" res="1" cpx="0.1643" />
+      <item idx="1123" res="1" cpx="0.1643" />
+      <item idx="156" res="1" cpx="0.1643" />
+      <item idx="1243" res="1" cpx="0.1643" />
+      <item idx="1064" res="1" cpx="0.1643" />
+      <item idx="680" res="1" cpx="0.164" />
+      <item idx="408" res="1" cpx="0.1643" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1764</blockComplexity>
+    <userAbility>0.1764</userAbility>
+    <freq m="0.2885" sd="0.1137" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.18" sd="0.1327" />
+  </block>
+  <block idx="9">
+    <startTime>05/07/2016 13:35:33</startTime>
+    <endTime>05/07/2016 13:35:34</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="961" res="1" cpx="0.2098" />
+      <item idx="1041" res="1" cpx="0.2097" />
+      <item idx="717" res="1" cpx="0.2093" />
+      <item idx="465" res="1" cpx="0.208" />
+      <item idx="693" res="1" cpx="0.175" />
+      <item idx="617" res="1" cpx="0.175" />
+      <item idx="241" res="1" cpx="0.175" />
+      <item idx="233" res="1" cpx="0.175" />
+      <item idx="861" res="1" cpx="0.175" />
+      <item idx="301" res="1" cpx="0.175" />
+      <item idx="365" res="1" cpx="0.1741" />
+      <item idx="797" res="1" cpx="0.1747" />
+      <item idx="341" res="1" cpx="0.175" />
+      <item idx="1113" res="1" cpx="0.1746" />
+      <item idx="561" res="1" cpx="0.175" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.184</blockComplexity>
+    <userAbility>0.184</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.4" sd="0" />
+  </block>
+  <block idx="10">
+    <startTime>05/07/2016 13:35:34</startTime>
+    <endTime>05/07/2016 13:35:35</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="309" res="1" cpx="0.2351" />
+      <item idx="193" res="1" cpx="0.2346" />
+      <item idx="689" res="1" cpx="0.2342" />
+      <item idx="632" res="1" cpx="0.2339" />
+      <item idx="441" res="1" cpx="0.175" />
+      <item idx="429" res="1" cpx="0.175" />
+      <item idx="865" res="1" cpx="0.175" />
+      <item idx="741" res="1" cpx="0.175" />
+      <item idx="705" res="1" cpx="0.175" />
+      <item idx="733" res="1" cpx="0.175" />
+      <item idx="337" res="1" cpx="0.175" />
+      <item idx="245" res="1" cpx="0.1741" />
+      <item idx="237" res="1" cpx="0.1741" />
+      <item idx="369" res="1" cpx="0.1741" />
+      <item idx="209" res="1" cpx="0.1741" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1906</blockComplexity>
+    <userAbility>0.1906</userAbility>
+    <freq m="0.1771" sd="0.1311" />
+    <conc m="0.11" sd="0.0374" />
+    <distr m="0.38" sd="0.0748" />
+  </block>
+  <block idx="11">
+    <startTime>05/07/2016 13:35:35</startTime>
+    <endTime>05/07/2016 13:35:35</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="953" res="1" cpx="0.2393" />
+      <item idx="173" res="1" cpx="0.2393" />
+      <item idx="405" res="1" cpx="0.2393" />
+      <item idx="1164" res="1" cpx="0.2389" />
+      <item idx="601" res="1" cpx="0.1748" />
+      <item idx="981" res="1" cpx="0.1748" />
+      <item idx="569" res="1" cpx="0.1748" />
+      <item idx="549" res="1" cpx="0.1748" />
+      <item idx="557" res="1" cpx="0.1744" />
+      <item idx="1105" res="1" cpx="0.1745" />
+      <item idx="997" res="1" cpx="0.1744" />
+      <item idx="105" res="1" cpx="0.1744" />
+      <item idx="69" res="1" cpx="0.1747" />
+      <item idx="881" res="1" cpx="0.1747" />
+      <item idx="1033" res="1" cpx="0.1747" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1919</blockComplexity>
+    <userAbility>0.1919</userAbility>
+    <freq m="0.1686" sd="0.1137" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.4" sd="0" />
+  </block>
+  <block idx="12">
+    <startTime>05/07/2016 13:35:36</startTime>
+    <endTime>05/07/2016 13:35:36</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>1</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="149" res="1" cpx="0.2393" />
+      <item idx="645" res="1" cpx="0.2393" />
+      <item idx="1184" res="1" cpx="0.2393" />
+      <item idx="1136" res="1" cpx="0.2393" />
+      <item idx="973" res="1" cpx="0.1747" />
+      <item idx="345" res="1" cpx="0.1747" />
+      <item idx="129" res="1" cpx="0.1746" />
+      <item idx="133" res="1" cpx="0.1746" />
+      <item idx="625" res="1" cpx="0.1746" />
+      <item idx="985" res="1" cpx="0.1746" />
+      <item idx="553" res="1" cpx="0.1746" />
+      <item idx="65" res="1" cpx="0.1746" />
+      <item idx="637" res="1" cpx="0.1745" />
+      <item idx="745" res="1" cpx="0.1745" />
+      <item idx="201" res="1" cpx="0.1745" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1918</blockComplexity>
+    <userAbility>0.2019</userAbility>
+    <freq m="0.1686" sd="0.1137" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.4" sd="0" />
+  </block>
+  <block idx="13">
+    <startTime>05/07/2016 13:35:36</startTime>
+    <endTime>05/07/2016 13:35:37</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1184" res="1" cpx="0.2393" />
+      <item idx="481" res="1" cpx="0.2388" />
+      <item idx="149" res="1" cpx="0.2393" />
+      <item idx="645" res="1" cpx="0.2389" />
+      <item idx="973" res="1" cpx="0.1747" />
+      <item idx="345" res="1" cpx="0.1743" />
+      <item idx="133" res="1" cpx="0.1746" />
+      <item idx="129" res="1" cpx="0.1746" />
+      <item idx="625" res="1" cpx="0.1743" />
+      <item idx="985" res="1" cpx="0.1746" />
+      <item idx="553" res="1" cpx="0.1746" />
+      <item idx="65" res="1" cpx="0.1743" />
+      <item idx="637" res="1" cpx="0.1745" />
+      <item idx="745" res="1" cpx="0.1745" />
+      <item idx="993" res="1" cpx="0.1745" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.1917</blockComplexity>
+    <userAbility>0.2119</userAbility>
+    <freq m="0.1686" sd="0.1137" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.4" sd="0" />
+  </block>
+  <block idx="14">
+    <startTime>05/07/2016 13:35:37</startTime>
+    <endTime>05/07/2016 13:35:38</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="146" res="1" cpx="0.2494" />
+      <item idx="922" res="1" cpx="0.2492" />
+      <item idx="530" res="1" cpx="0.2492" />
+      <item idx="518" res="1" cpx="0.2492" />
+      <item idx="305" res="1" cpx="0.2079" />
+      <item idx="177" res="1" cpx="0.2079" />
+      <item idx="969" res="1" cpx="0.2076" />
+      <item idx="445" res="1" cpx="0.2072" />
+      <item idx="1180" res="1" cpx="0.2068" />
+      <item idx="485" res="1" cpx="0.2072" />
+      <item idx="1188" res="1" cpx="0.2067" />
+      <item idx="941" res="1" cpx="0.2065" />
+      <item idx="316" res="1" cpx="0.2072" />
+      <item idx="1207" res="1" cpx="0.2069" />
+      <item idx="812" res="1" cpx="0.2066" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.2184</blockComplexity>
+    <userAbility>0.2184</userAbility>
+    <freq m="0.1686" sd="0.0642" />
+    <conc m="0.19" sd="0.12" />
+    <distr m="0.42" sd="0.204" />
+  </block>
+  <block idx="15">
+    <startTime>05/07/2016 13:35:38</startTime>
+    <endTime>05/07/2016 13:35:38</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="362" res="1" cpx="0.2492" />
+      <item idx="546" res="1" cpx="0.2492" />
+      <item idx="522" res="1" cpx="0.2492" />
+      <item idx="502" res="1" cpx="0.2492" />
+      <item idx="449" res="1" cpx="0.207" />
+      <item idx="401" res="1" cpx="0.207" />
+      <item idx="125" res="1" cpx="0.207" />
+      <item idx="1204" res="1" cpx="0.207" />
+      <item idx="621" res="1" cpx="0.2066" />
+      <item idx="285" res="1" cpx="0.2066" />
+      <item idx="1089" res="1" cpx="0.2066" />
+      <item idx="1029" res="1" cpx="0.207" />
+      <item idx="1172" res="1" cpx="0.207" />
+      <item idx="945" res="1" cpx="0.2066" />
+      <item idx="113" res="1" cpx="0.2066" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.2181</blockComplexity>
+    <userAbility>0.2284</userAbility>
+    <freq m="0.1943" sd="0.0569" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.48" sd="0.1327" />
+  </block>
+  <block idx="16">
+    <startTime>05/07/2016 13:35:38</startTime>
+    <endTime>05/07/2016 13:35:39</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>1</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="418" res="1" cpx="0.2795" />
+      <item idx="1042" res="1" cpx="0.2795" />
+      <item idx="718" res="1" cpx="0.2795" />
+      <item idx="222" res="1" cpx="0.2795" />
+      <item idx="953" res="1" cpx="0.2244" />
+      <item idx="405" res="1" cpx="0.2244" />
+      <item idx="173" res="1" cpx="0.224" />
+      <item idx="1164" res="1" cpx="0.224" />
+      <item idx="149" res="1" cpx="0.224" />
+      <item idx="645" res="1" cpx="0.224" />
+      <item idx="1184" res="1" cpx="0.2239" />
+      <item idx="481" res="1" cpx="0.2239" />
+      <item idx="309" res="1" cpx="0.2203" />
+      <item idx="632" res="1" cpx="0.22" />
+      <item idx="689" res="1" cpx="0.2196" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.238</blockComplexity>
+    <userAbility>0.238</userAbility>
+    <freq m="0.3057" sd="0.113" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.46" sd="0.1625" />
+  </block>
+  <block idx="17">
+    <startTime>05/07/2016 13:35:39</startTime>
+    <endTime>05/07/2016 13:35:40</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="850" res="1" cpx="0.2492" />
+      <item idx="826" res="1" cpx="0.2492" />
+      <item idx="506" res="1" cpx="0.2492" />
+      <item idx="534" res="1" cpx="0.2492" />
+      <item idx="1013" res="1" cpx="0.2069" />
+      <item idx="589" res="1" cpx="0.2065" />
+      <item idx="377" res="1" cpx="0.2068" />
+      <item idx="1005" res="1" cpx="0.2063" />
+      <item idx="109" res="1" cpx="0.2067" />
+      <item idx="397" res="1" cpx="0.2067" />
+      <item idx="17" res="1" cpx="0.2066" />
+      <item idx="913" res="1" cpx="0.2066" />
+      <item idx="593" res="1" cpx="0.2065" />
+      <item idx="93" res="1" cpx="0.2047" />
+      <item idx="873" res="1" cpx="0.2044" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.2177</blockComplexity>
+    <userAbility>0.248</userAbility>
+    <freq m="0.1943" sd="0.0569" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.48" sd="0.1327" />
+  </block>
+  <block idx="18">
+    <startTime>05/07/2016 13:35:40</startTime>
+    <endTime>05/07/2016 13:35:40</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="462" res="1" cpx="0.28" />
+      <item idx="958" res="1" cpx="0.2793" />
+      <item idx="1038" res="1" cpx="0.2786" />
+      <item idx="1229" res="1" cpx="0.2797" />
+      <item idx="230" res="1" cpx="0.2478" />
+      <item idx="42" res="1" cpx="0.2478" />
+      <item idx="46" res="1" cpx="0.2478" />
+      <item idx="930" res="1" cpx="0.2478" />
+      <item idx="770" res="1" cpx="0.2478" />
+      <item idx="14" res="1" cpx="0.2478" />
+      <item idx="598" res="1" cpx="0.2478" />
+      <item idx="258" res="1" cpx="0.2478" />
+      <item idx="30" res="1" cpx="0.2478" />
+      <item idx="266" res="1" cpx="0.2478" />
+      <item idx="698" res="1" cpx="0.2478" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.2562</blockComplexity>
+    <userAbility>0.2562</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.7" sd="0" />
+  </block>
+  <block idx="19">
+    <startTime>05/07/2016 13:35:40</startTime>
+    <endTime>05/07/2016 13:35:41</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="633" res="1" cpx="0.3059" />
+      <item idx="310" res="1" cpx="0.3047" />
+      <item idx="1156" res="1" cpx="0.3036" />
+      <item idx="1057" res="1" cpx="0.3036" />
+      <item idx="750" res="1" cpx="0.2492" />
+      <item idx="786" res="1" cpx="0.2492" />
+      <item idx="350" res="1" cpx="0.2492" />
+      <item idx="766" res="1" cpx="0.2492" />
+      <item idx="934" res="1" cpx="0.2492" />
+      <item idx="206" res="1" cpx="0.2492" />
+      <item idx="470" res="1" cpx="0.2492" />
+      <item idx="722" res="1" cpx="0.2492" />
+      <item idx="498" res="1" cpx="0.2492" />
+      <item idx="1221" res="1" cpx="0.2491" />
+      <item idx="1237" res="1" cpx="0.2491" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.2639</blockComplexity>
+    <userAbility>0.2639</userAbility>
+    <freq m="0.2114" sd="0.1928" />
+    <conc m="0.11" sd="0.0374" />
+    <distr m="0.64" sd="0.12" />
+  </block>
+  <block idx="20">
+    <startTime>05/07/2016 13:35:41</startTime>
+    <endTime>05/07/2016 13:35:42</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="231" res="1" cpx="0.315" />
+      <item idx="771" res="1" cpx="0.315" />
+      <item idx="15" res="1" cpx="0.315" />
+      <item idx="931" res="1" cpx="0.315" />
+      <item idx="1229" res="1" cpx="0.2611" />
+      <item idx="958" res="1" cpx="0.2602" />
+      <item idx="462" res="1" cpx="0.2595" />
+      <item idx="1038" res="1" cpx="0.2589" />
+      <item idx="990" res="1" cpx="0.249" />
+      <item idx="386" res="1" cpx="0.249" />
+      <item idx="118" res="1" cpx="0.249" />
+      <item idx="838" res="1" cpx="0.2487" />
+      <item idx="738" res="1" cpx="0.2487" />
+      <item idx="730" res="1" cpx="0.2487" />
+      <item idx="938" res="1" cpx="0.2487" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.2694</blockComplexity>
+    <userAbility>0.2694</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.78" sd="0.1327" />
+  </block>
+  <block idx="21">
+    <startTime>05/07/2016 13:35:42</startTime>
+    <endTime>05/07/2016 13:35:43</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="219" res="1" cpx="0.3204" />
+      <item idx="251" res="1" cpx="0.3204" />
+      <item idx="143" res="1" cpx="0.3204" />
+      <item idx="1107" res="1" cpx="0.3202" />
+      <item idx="574" res="1" cpx="0.2487" />
+      <item idx="834" res="1" cpx="0.2487" />
+      <item idx="374" res="1" cpx="0.2487" />
+      <item idx="214" res="1" cpx="0.2487" />
+      <item idx="926" res="1" cpx="0.2487" />
+      <item idx="262" res="1" cpx="0.2487" />
+      <item idx="334" res="1" cpx="0.2487" />
+      <item idx="198" res="1" cpx="0.2487" />
+      <item idx="122" res="1" cpx="0.2486" />
+      <item idx="202" res="1" cpx="0.2474" />
+      <item idx="542" res="1" cpx="0.2474" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.2676</blockComplexity>
+    <userAbility>0.2794</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.78" sd="0.1327" />
+  </block>
+  <block idx="22">
+    <startTime>05/07/2016 13:35:43</startTime>
+    <endTime>05/07/2016 13:35:44</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1753" res="1" cpx="0.3233" />
+      <item idx="1729" res="1" cpx="0.323" />
+      <item idx="1825" res="1" cpx="0.3235" />
+      <item idx="1307" res="1" cpx="0.3223" />
+      <item idx="1725" res="1" cpx="0.3233" />
+      <item idx="1267" res="1" cpx="0.3225" />
+      <item idx="1733" res="1" cpx="0.3233" />
+      <item idx="1773" res="1" cpx="0.323" />
+      <item idx="1259" res="1" cpx="0.3227" />
+      <item idx="1339" res="1" cpx="0.3225" />
+      <item idx="1757" res="1" cpx="0.323" />
+      <item idx="1594" res="1" cpx="0.3225" />
+      <item idx="1562" res="1" cpx="0.323" />
+      <item idx="1904" res="1" cpx="0.3231" />
+      <item idx="1311" res="1" cpx="0.3227" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3229</blockComplexity>
+    <userAbility>0.3229</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="23">
+    <startTime>05/07/2016 13:35:44</startTime>
+    <endTime>05/07/2016 13:35:45</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1157" res="1" cpx="0.3737" />
+      <item idx="1058" res="1" cpx="0.3736" />
+      <item idx="311" res="1" cpx="0.3708" />
+      <item idx="1122" res="1" cpx="0.3536" />
+      <item idx="755" res="1" cpx="0.3217" />
+      <item idx="763" res="1" cpx="0.3217" />
+      <item idx="539" res="1" cpx="0.3217" />
+      <item idx="527" res="1" cpx="0.3217" />
+      <item idx="103" res="1" cpx="0.3217" />
+      <item idx="631" res="1" cpx="0.3213" />
+      <item idx="59" res="1" cpx="0.3213" />
+      <item idx="843" res="1" cpx="0.3209" />
+      <item idx="75" res="1" cpx="0.3208" />
+      <item idx="979" res="1" cpx="0.3206" />
+      <item idx="55" res="1" cpx="0.3201" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3337</blockComplexity>
+    <userAbility>0.3337</userAbility>
+    <freq m="0.1943" sd="0.1786" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.96" sd="0.102" />
+  </block>
+  <block idx="24">
+    <startTime>05/07/2016 13:35:45</startTime>
+    <endTime>05/07/2016 13:35:45</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>1</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1916" res="1" cpx="0.3848" />
+      <item idx="1506" res="1" cpx="0.3848" />
+      <item idx="2104" res="1" cpx="0.3625" />
+      <item idx="2391" res="1" cpx="0.3625" />
+      <item idx="2171" res="1" cpx="0.325" />
+      <item idx="1749" res="1" cpx="0.325" />
+      <item idx="2223" res="1" cpx="0.325" />
+      <item idx="2351" res="1" cpx="0.325" />
+      <item idx="1526" res="1" cpx="0.325" />
+      <item idx="1530" res="1" cpx="0.325" />
+      <item idx="2440" res="1" cpx="0.325" />
+      <item idx="1693" res="1" cpx="0.3226" />
+      <item idx="1494" res="1" cpx="0.3226" />
+      <item idx="1374" res="1" cpx="0.3224" />
+      <item idx="1263" res="1" cpx="0.3224" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3373</blockComplexity>
+    <userAbility>0.3373</userAbility>
+    <freq m="0.1343" sd="0.0874" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="25">
+    <startTime>05/07/2016 13:35:46</startTime>
+    <endTime>05/07/2016 13:35:46</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="659" res="1" cpx="0.3536" />
+      <item idx="163" res="1" cpx="0.352" />
+      <item idx="1214" res="1" cpx="0.3534" />
+      <item idx="607" res="1" cpx="0.3523" />
+      <item idx="1242" res="1" cpx="0.3201" />
+      <item idx="63" res="1" cpx="0.3201" />
+      <item idx="39" res="1" cpx="0.3198" />
+      <item idx="847" res="1" cpx="0.3198" />
+      <item idx="35" res="1" cpx="0.3198" />
+      <item idx="427" res="1" cpx="0.3198" />
+      <item idx="51" res="1" cpx="0.3198" />
+      <item idx="967" res="1" cpx="0.3198" />
+      <item idx="27" res="1" cpx="0.3198" />
+      <item idx="271" res="1" cpx="0.3198" />
+      <item idx="227" res="1" cpx="0.3198" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3286</blockComplexity>
+    <userAbility>0.3473</userAbility>
+    <freq m="0.1343" sd="0.0569" />
+    <conc m="0.1" sd="0" />
+    <distr m="1" sd="0" />
+  </block>
+  <block idx="26">
+    <startTime>05/07/2016 13:35:46</startTime>
+    <endTime>05/07/2016 13:35:47</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1694" res="1" cpx="0.397" />
+      <item idx="1495" res="1" cpx="0.3962" />
+      <item idx="1264" res="1" cpx="0.3968" />
+      <item idx="1375" res="1" cpx="0.3968" />
+      <item idx="1749" res="1" cpx="0.325" />
+      <item idx="2223" res="1" cpx="0.325" />
+      <item idx="2351" res="1" cpx="0.325" />
+      <item idx="1526" res="1" cpx="0.325" />
+      <item idx="1530" res="1" cpx="0.325" />
+      <item idx="2171" res="1" cpx="0.325" />
+      <item idx="2440" res="1" cpx="0.3235" />
+      <item idx="1821" res="1" cpx="0.3223" />
+      <item idx="1367" res="1" cpx="0.3217" />
+      <item idx="1610" res="1" cpx="0.3222" />
+      <item idx="1275" res="1" cpx="0.3221" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3432</blockComplexity>
+    <userAbility>0.3573</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.18" sd="0.1327" />
+  </block>
+  <block idx="27">
+    <startTime>05/07/2016 13:35:47</startTime>
+    <endTime>05/07/2016 13:35:48</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="795" res="1" cpx="0.3888" />
+      <item idx="1095" res="1" cpx="0.3888" />
+      <item idx="907" res="1" cpx="0.3888" />
+      <item idx="1111" res="1" cpx="0.3877" />
+      <item idx="895" res="1" cpx="0.3534" />
+      <item idx="1087" res="1" cpx="0.3523" />
+      <item idx="419" res="1" cpx="0.3531" />
+      <item idx="783" res="1" cpx="0.3531" />
+      <item idx="1194" res="1" cpx="0.3531" />
+      <item idx="899" res="1" cpx="0.3531" />
+      <item idx="1055" res="1" cpx="0.3531" />
+      <item idx="1103" res="1" cpx="0.3531" />
+      <item idx="515" res="1" cpx="0.3518" />
+      <item idx="814" res="1" cpx="0.3529" />
+      <item idx="318" res="1" cpx="0.352" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3623</blockComplexity>
+    <userAbility>0.3623</userAbility>
+    <freq m="0.2629" sd="0.0568" />
+    <conc m="0.14" sd="0.102" />
+    <distr m="0.96" sd="0.102" />
+  </block>
+  <block idx="28">
+    <startTime>05/07/2016 13:35:48</startTime>
+    <endTime>05/07/2016 13:35:48</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2203" res="1" cpx="0.4" />
+      <item idx="2371" res="1" cpx="0.4" />
+      <item idx="2666" res="1" cpx="0.399" />
+      <item idx="2032" res="1" cpx="0.4" />
+      <item idx="1837" res="1" cpx="0.3589" />
+      <item idx="1422" res="1" cpx="0.3583" />
+      <item idx="1630" res="1" cpx="0.3578" />
+      <item idx="1323" res="1" cpx="0.3587" />
+      <item idx="1546" res="1" cpx="0.358" />
+      <item idx="1319" res="1" cpx="0.3585" />
+      <item idx="1861" res="1" cpx="0.3579" />
+      <item idx="1542" res="1" cpx="0.3574" />
+      <item idx="1697" res="1" cpx="0.3572" />
+      <item idx="1502" res="1" cpx="0.3566" />
+      <item idx="1912" res="1" cpx="0.356" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.369</blockComplexity>
+    <userAbility>0.369</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.29" sd="0.0663" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="29">
+    <startTime>05/07/2016 13:35:49</startTime>
+    <endTime>05/07/2016 13:35:49</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>1</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="815" res="1" cpx="0.419" />
+      <item idx="319" res="1" cpx="0.419" />
+      <item idx="1149" res="1" cpx="0.3947" />
+      <item idx="779" res="1" cpx="0.3887" />
+      <item idx="795" res="1" cpx="0.3618" />
+      <item idx="1095" res="1" cpx="0.3618" />
+      <item idx="1111" res="1" cpx="0.3607" />
+      <item idx="907" res="1" cpx="0.3607" />
+      <item idx="611" res="1" cpx="0.352" />
+      <item idx="99" res="1" cpx="0.3518" />
+      <item idx="1182" res="1" cpx="0.3515" />
+      <item idx="487" res="1" cpx="0.3515" />
+      <item idx="943" res="1" cpx="0.3515" />
+      <item idx="1190" res="1" cpx="0.3515" />
+      <item idx="447" res="1" cpx="0.3515" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3685</blockComplexity>
+    <userAbility>0.379</userAbility>
+    <freq m="0.2714" sd="0.0606" />
+    <conc m="0.17" sd="0.1435" />
+    <distr m="0.98" sd="0.0748" />
+  </block>
+  <block idx="30">
+    <startTime>05/07/2016 13:35:49</startTime>
+    <endTime>05/07/2016 13:35:50</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2323" res="1" cpx="0.4" />
+      <item idx="2383" res="1" cpx="0.4" />
+      <item idx="2101" res="1" cpx="0.3987" />
+      <item idx="2552" res="1" cpx="0.4" />
+      <item idx="1466" res="1" cpx="0.3553" />
+      <item idx="1873" res="1" cpx="0.3544" />
+      <item idx="1462" res="1" cpx="0.3553" />
+      <item idx="1869" res="1" cpx="0.3547" />
+      <item idx="1654" res="1" cpx="0.3542" />
+      <item idx="1426" res="1" cpx="0.3544" />
+      <item idx="1745" res="1" cpx="0.3544" />
+      <item idx="1315" res="1" cpx="0.3544" />
+      <item idx="1470" res="1" cpx="0.3544" />
+      <item idx="1666" res="1" cpx="0.3539" />
+      <item idx="1841" res="1" cpx="0.3539" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3665</blockComplexity>
+    <userAbility>0.389</userAbility>
+    <freq m="0.1943" sd="0.0569" />
+    <conc m="0.18" sd="0.1327" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="31">
+    <startTime>05/07/2016 13:35:50</startTime>
+    <endTime>05/07/2016 13:35:51</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1059" res="1" cpx="0.44" />
+      <item idx="1210" res="1" cpx="0.425" />
+      <item idx="1011" res="1" cpx="0.4214" />
+      <item idx="651" res="1" cpx="0.4214" />
+      <item idx="779" res="1" cpx="0.3887" />
+      <item idx="1198" res="1" cpx="0.3874" />
+      <item idx="687" res="1" cpx="0.3886" />
+      <item idx="395" res="1" cpx="0.3886" />
+      <item idx="823" res="1" cpx="0.3886" />
+      <item idx="327" res="1" cpx="0.3869" />
+      <item idx="891" res="1" cpx="0.3869" />
+      <item idx="1154" res="1" cpx="0.3869" />
+      <item idx="1063" res="1" cpx="0.3884" />
+      <item idx="1099" res="1" cpx="0.3884" />
+      <item idx="903" res="1" cpx="0.3871" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.3983</blockComplexity>
+    <userAbility>0.3983</userAbility>
+    <freq m="0.3828" sd="0.084" />
+    <conc m="0.12" sd="0.0748" />
+    <distr m="1" sd="0" />
+  </block>
+  <block idx="32">
+    <startTime>05/07/2016 13:35:51</startTime>
+    <endTime>05/07/2016 13:35:51</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2151" res="1" cpx="0.4375" />
+      <item idx="2426" res="1" cpx="0.4361" />
+      <item idx="2232" res="1" cpx="0.4375" />
+      <item idx="2641" res="1" cpx="0.4375" />
+      <item idx="2080" res="1" cpx="0.3982" />
+      <item idx="1535" res="1" cpx="0.3982" />
+      <item idx="1555" res="1" cpx="0.3982" />
+      <item idx="2638" res="1" cpx="0.398" />
+      <item idx="2135" res="1" cpx="0.398" />
+      <item idx="2090" res="1" cpx="0.3976" />
+      <item idx="2571" res="1" cpx="0.3966" />
+      <item idx="2583" res="1" cpx="0.3968" />
+      <item idx="1272" res="1" cpx="0.3956" />
+      <item idx="1252" res="1" cpx="0.3954" />
+      <item idx="1762" res="1" cpx="0.3953" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4078</blockComplexity>
+    <userAbility>0.4078</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.3" sd="0.1789" />
+    <distr m="0.24" sd="0.1497" />
+  </block>
+  <block idx="33">
+    <startTime>05/07/2016 13:35:52</startTime>
+    <endTime>05/07/2016 13:35:52</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>2</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="139" res="1" cpx="0.4574" />
+      <item idx="1130" res="1" cpx="0.4574" />
+      <item idx="491" res="1" cpx="0.4536" />
+      <item idx="1226" res="1" cpx="0.4536" />
+      <item idx="1210" res="1" cpx="0.3957" />
+      <item idx="1149" res="1" cpx="0.3947" />
+      <item idx="182" res="1" cpx="0.3947" />
+      <item idx="651" res="1" cpx="0.3924" />
+      <item idx="1011" res="1" cpx="0.3921" />
+      <item idx="1019" res="1" cpx="0.3883" />
+      <item idx="587" res="1" cpx="0.3883" />
+      <item idx="671" res="1" cpx="0.3879" />
+      <item idx="187" res="1" cpx="0.3879" />
+      <item idx="1138" res="1" cpx="0.3879" />
+      <item idx="655" res="1" cpx="0.3877" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.408</blockComplexity>
+    <userAbility>0.408</userAbility>
+    <freq m="0.4" sd="0.1212" />
+    <conc m="0.2" sd="0.1612" />
+    <distr m="0.96" sd="0.102" />
+  </block>
+  <block idx="34">
+    <startTime>05/07/2016 13:35:52</startTime>
+    <endTime>05/07/2016 13:35:53</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2560" res="1" cpx="0.4375" />
+      <item idx="2279" res="1" cpx="0.4375" />
+      <item idx="2359" res="1" cpx="0.4344" />
+      <item idx="2645" res="1" cpx="0.4375" />
+      <item idx="1722" res="1" cpx="0.3953" />
+      <item idx="1364" res="1" cpx="0.3951" />
+      <item idx="1806" res="1" cpx="0.3943" />
+      <item idx="1256" res="1" cpx="0.395" />
+      <item idx="2243" res="1" cpx="0.3947" />
+      <item idx="2618" res="1" cpx="0.3947" />
+      <item idx="2211" res="1" cpx="0.3947" />
+      <item idx="2113" res="1" cpx="0.3934" />
+      <item idx="2410" res="1" cpx="0.3947" />
+      <item idx="2418" res="1" cpx="0.3947" />
+      <item idx="2363" res="1" cpx="0.3947" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4059</blockComplexity>
+    <userAbility>0.418</userAbility>
+    <freq m="0.16" sd="0.0642" />
+    <conc m="0.29" sd="0.1685" />
+    <distr m="0.18" sd="0.1327" />
+  </block>
+  <block idx="35">
+    <startTime>05/07/2016 13:35:53</startTime>
+    <endTime>05/07/2016 13:35:54</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="139" res="1" cpx="0.4574" />
+      <item idx="1130" res="1" cpx="0.4561" />
+      <item idx="491" res="1" cpx="0.4536" />
+      <item idx="1226" res="1" cpx="0.4517" />
+      <item idx="815" res="1" cpx="0.4178" />
+      <item idx="319" res="1" cpx="0.4166" />
+      <item idx="1059" res="1" cpx="0.4095" />
+      <item idx="1210" res="1" cpx="0.3934" />
+      <item idx="1149" res="1" cpx="0.3947" />
+      <item idx="182" res="1" cpx="0.3934" />
+      <item idx="651" res="1" cpx="0.3924" />
+      <item idx="1011" res="1" cpx="0.3921" />
+      <item idx="1019" res="1" cpx="0.3883" />
+      <item idx="587" res="1" cpx="0.3872" />
+      <item idx="671" res="1" cpx="0.3879" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4128</blockComplexity>
+    <userAbility>0.428</userAbility>
+    <freq m="0.4" sd="0.146" />
+    <conc m="0.24" sd="0.1685" />
+    <distr m="0.96" sd="0.102" />
+  </block>
+  <block idx="36">
+    <startTime>05/07/2016 13:35:54</startTime>
+    <endTime>05/07/2016 13:35:55</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2672" res="1" cpx="0.475" />
+      <item idx="2044" res="1" cpx="0.4727" />
+      <item idx="2067" res="1" cpx="0.475" />
+      <item idx="2660" res="1" cpx="0.475" />
+      <item idx="1794" res="1" cpx="0.4278" />
+      <item idx="1487" res="1" cpx="0.4278" />
+      <item idx="1344" res="1" cpx="0.427" />
+      <item idx="1686" res="1" cpx="0.427" />
+      <item idx="1897" res="1" cpx="0.4262" />
+      <item idx="1635" res="1" cpx="0.4275" />
+      <item idx="1878" res="1" cpx="0.4275" />
+      <item idx="1818" res="1" cpx="0.4274" />
+      <item idx="1387" res="1" cpx="0.4265" />
+      <item idx="1559" res="1" cpx="0.4257" />
+      <item idx="1324" res="1" cpx="0.4271" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4397</blockComplexity>
+    <userAbility>0.4397</userAbility>
+    <freq m="0.16" sd="0.0642" />
+    <conc m="0.3" sd="0.249" />
+    <distr m="0.32" sd="0.1327" />
+  </block>
+  <block idx="37">
+    <startTime>05/07/2016 13:35:55</startTime>
+    <endTime>05/07/2016 13:35:55</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="679" res="1" cpx="0.4664" />
+      <item idx="183" res="1" cpx="0.458" />
+      <item idx="1150" res="1" cpx="0.4561" />
+      <item idx="919" res="1" cpx="0.4517" />
+      <item idx="139" res="1" cpx="0.425" />
+      <item idx="1130" res="1" cpx="0.4239" />
+      <item idx="775" res="1" cpx="0.4214" />
+      <item idx="1027" res="1" cpx="0.4214" />
+      <item idx="811" res="1" cpx="0.4214" />
+      <item idx="1047" res="1" cpx="0.4214" />
+      <item idx="1178" res="1" cpx="0.4202" />
+      <item idx="1003" res="1" cpx="0.4214" />
+      <item idx="415" res="1" cpx="0.4214" />
+      <item idx="279" res="1" cpx="0.419" />
+      <item idx="391" res="1" cpx="0.42" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4312</blockComplexity>
+    <userAbility>0.4497</userAbility>
+    <freq m="0.4429" sd="0.1117" />
+    <conc m="0.21" sd="0.1772" />
+    <distr m="1" sd="0" />
+  </block>
+  <block idx="38">
+    <startTime>05/07/2016 13:35:56</startTime>
+    <endTime>05/07/2016 13:35:56</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2233" res="1" cpx="0.5008" />
+      <item idx="1424" res="1" cpx="0.5002" />
+      <item idx="1839" res="1" cpx="0.4991" />
+      <item idx="1632" res="1" cpx="0.4979" />
+      <item idx="1765" res="1" cpx="0.4483" />
+      <item idx="1518" res="1" cpx="0.4474" />
+      <item idx="1709" res="1" cpx="0.4465" />
+      <item idx="2044" res="1" cpx="0.443" />
+      <item idx="2672" res="1" cpx="0.4395" />
+      <item idx="1952" res="1" cpx="0.4375" />
+      <item idx="2132" res="1" cpx="0.4375" />
+      <item idx="2434" res="1" cpx="0.4375" />
+      <item idx="2451" res="1" cpx="0.4375" />
+      <item idx="2073" res="1" cpx="0.4375" />
+      <item idx="2180" res="1" cpx="0.4375" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4565</blockComplexity>
+    <userAbility>0.4565</userAbility>
+    <freq m="0.2029" sd="0.2057" />
+    <conc m="0.3" sd="0.1871" />
+    <distr m="0.36" sd="0.2417" />
+  </block>
+  <block idx="39">
+    <startTime>05/07/2016 13:35:57</startTime>
+    <endTime>05/07/2016 13:35:57</endTime>
+    <linguisticCateogry>0.1</linguisticCateogry>
+    <noiseLevel>2</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="495" res="1" cpx="0.4456" />
+      <item idx="635" res="1" cpx="0.4435" />
+      <item idx="1158" res="1" cpx="0.4392" />
+      <item idx="679" res="1" cpx="0.4304" />
+      <item idx="183" res="1" cpx="0.4243" />
+      <item idx="1150" res="1" cpx="0.4243" />
+      <item idx="1202" res="1" cpx="0.4214" />
+      <item idx="167" res="1" cpx="0.4214" />
+      <item idx="667" res="1" cpx="0.4214" />
+      <item idx="819" res="1" cpx="0.4214" />
+      <item idx="323" res="1" cpx="0.4214" />
+      <item idx="951" res="1" cpx="0.4214" />
+      <item idx="663" res="1" cpx="0.4214" />
+      <item idx="171" res="1" cpx="0.4214" />
+      <item idx="1023" res="1" cpx="0.4214" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4267</blockComplexity>
+    <userAbility>0.4665</userAbility>
+    <freq m="0.4514" sd="0.1194" />
+    <conc m="0.2" sd="0.1789" />
+    <distr m="1" sd="0" />
+  </block>
+  <block idx="40">
+    <startTime>05/07/2016 13:35:57</startTime>
+    <endTime>05/07/2016 13:35:58</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2133" res="1" cpx="0.5008" />
+      <item idx="1863" res="1" cpx="0.4996" />
+      <item idx="1544" res="1" cpx="0.4985" />
+      <item idx="1321" res="1" cpx="0.4973" />
+      <item idx="2489" res="1" cpx="0.4375" />
+      <item idx="2108" res="1" cpx="0.4375" />
+      <item idx="2599" res="1" cpx="0.4375" />
+      <item idx="2320" res="1" cpx="0.4375" />
+      <item idx="2603" res="1" cpx="0.435" />
+      <item idx="2084" res="1" cpx="0.4375" />
+      <item idx="2596" res="1" cpx="0.4375" />
+      <item idx="2236" res="1" cpx="0.4334" />
+      <item idx="2356" res="1" cpx="0.435" />
+      <item idx="2392" res="1" cpx="0.4338" />
+      <item idx="2396" res="1" cpx="0.4358" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4529</blockComplexity>
+    <userAbility>0.4765</userAbility>
+    <freq m="0.1" sd="0" />
+    <conc m="0.25" sd="0" />
+    <distr m="0.48" sd="0.1327" />
+  </block>
+  <block idx="41">
+    <startTime>05/07/2016 13:35:58</startTime>
+    <endTime>05/07/2016 13:35:59</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1348" res="1" cpx="0.5263" />
+      <item idx="1770" res="1" cpx="0.5253" />
+      <item idx="1571" res="1" cpx="0.5242" />
+      <item idx="2673" res="1" cpx="0.5254" />
+      <item idx="2191" res="1" cpx="0.475" />
+      <item idx="2454" res="1" cpx="0.4726" />
+      <item idx="2656" res="1" cpx="0.475" />
+      <item idx="2039" res="1" cpx="0.475" />
+      <item idx="2670" res="1" cpx="0.475" />
+      <item idx="2501" res="1" cpx="0.475" />
+      <item idx="2662" res="1" cpx="0.475" />
+      <item idx="2148" res="1" cpx="0.471" />
+      <item idx="2292" res="1" cpx="0.475" />
+      <item idx="2509" res="1" cpx="0.4722" />
+      <item idx="2284" res="1" cpx="0.4722" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4876</blockComplexity>
+    <userAbility>0.4876</userAbility>
+    <freq m="0.1771" sd="0.1543" />
+    <conc m="0.47" sd="0.172" />
+    <distr m="0.32" sd="0.1327" />
+  </block>
+  <block idx="42">
+    <startTime>05/07/2016 13:35:59</startTime>
+    <endTime>05/07/2016 13:36:00</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>2</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2573" res="1" cpx="0.5387" />
+      <item idx="2373" res="1" cpx="0.5387" />
+      <item idx="2092" res="1" cpx="0.5387" />
+      <item idx="1907" res="1" cpx="0.5387" />
+      <item idx="2344" res="1" cpx="0.4734" />
+      <item idx="2140" res="1" cpx="0.4734" />
+      <item idx="2532" res="1" cpx="0.4697" />
+      <item idx="2124" res="1" cpx="0.4697" />
+      <item idx="2048" res="1" cpx="0.4697" />
+      <item idx="2540" res="1" cpx="0.4697" />
+      <item idx="2331" res="1" cpx="0.4697" />
+      <item idx="2183" res="1" cpx="0.4697" />
+      <item idx="2240" res="1" cpx="0.4696" />
+      <item idx="2557" res="1" cpx="0.4696" />
+      <item idx="2248" res="1" cpx="0.4696" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4886</blockComplexity>
+    <userAbility>0.4886</userAbility>
+    <freq m="0.1772" sd="0.063" />
+    <conc m="0.41" sd="0.1393" />
+    <distr m="0.38" sd="0.2786" />
+  </block>
+  <block idx="43">
+    <startTime>05/07/2016 13:36:00</startTime>
+    <endTime>05/07/2016 13:36:00</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2045" res="1" cpx="0.527" />
+      <item idx="1443" res="1" cpx="0.525" />
+      <item idx="1643" res="1" cpx="0.5239" />
+      <item idx="1850" res="1" cpx="0.5229" />
+      <item idx="2344" res="1" cpx="0.4734" />
+      <item idx="2140" res="1" cpx="0.4716" />
+      <item idx="2532" res="1" cpx="0.4697" />
+      <item idx="2048" res="1" cpx="0.4697" />
+      <item idx="2540" res="1" cpx="0.4697" />
+      <item idx="2124" res="1" cpx="0.4681" />
+      <item idx="2183" res="1" cpx="0.4674" />
+      <item idx="2331" res="1" cpx="0.4658" />
+      <item idx="2240" res="1" cpx="0.4696" />
+      <item idx="2545" res="1" cpx="0.4696" />
+      <item idx="2557" res="1" cpx="0.4696" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.4842</blockComplexity>
+    <userAbility>0.4986</userAbility>
+    <freq m="0.28" sd="0.1744" />
+    <conc m="0.39" sd="0.1934" />
+    <distr m="0.28" sd="0.147" />
+  </block>
+  <block idx="44">
+    <startTime>05/07/2016 13:36:01</startTime>
+    <endTime>05/07/2016 13:36:01</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2249" res="1" cpx="0.5447" />
+      <item idx="2119" res="1" cpx="0.543" />
+      <item idx="2565" res="1" cpx="0.543" />
+      <item idx="2089" res="1" cpx="0.5405" />
+      <item idx="2074" res="1" cpx="0.498" />
+      <item idx="1504" res="1" cpx="0.4978" />
+      <item idx="1914" res="1" cpx="0.4966" />
+      <item idx="1699" res="1" cpx="0.4954" />
+      <item idx="1317" res="1" cpx="0.4977" />
+      <item idx="1747" res="1" cpx="0.4976" />
+      <item idx="1875" res="1" cpx="0.4974" />
+      <item idx="1468" res="1" cpx="0.4956" />
+      <item idx="1464" res="1" cpx="0.4974" />
+      <item idx="1656" res="1" cpx="0.4962" />
+      <item idx="1871" res="1" cpx="0.495" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5091</blockComplexity>
+    <userAbility>0.5091</userAbility>
+    <freq m="0.1943" sd="0.0569" />
+    <conc m="0.2" sd="0.1183" />
+    <distr m="0.68" sd="0.0748" />
+  </block>
+  <block idx="45">
+    <startTime>05/07/2016 13:36:02</startTime>
+    <endTime>05/07/2016 13:36:02</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>2</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1876" res="1" cpx="0.5593" />
+      <item idx="1469" res="1" cpx="0.5593" />
+      <item idx="1657" res="1" cpx="0.5593" />
+      <item idx="1872" res="1" cpx="0.5593" />
+      <item idx="2144" res="1" cpx="0.5091" />
+      <item idx="2106" res="1" cpx="0.5086" />
+      <item idx="1991" res="1" cpx="0.5072" />
+      <item idx="1987" res="1" cpx="0.5072" />
+      <item idx="2335" res="1" cpx="0.5072" />
+      <item idx="1979" res="1" cpx="0.5072" />
+      <item idx="2002" res="1" cpx="0.5072" />
+      <item idx="2010" res="1" cpx="0.5072" />
+      <item idx="2069" res="1" cpx="0.5072" />
+      <item idx="1994" res="1" cpx="0.5072" />
+      <item idx="2402" res="1" cpx="0.5072" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5213</blockComplexity>
+    <userAbility>0.5213</userAbility>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.5" sd="0.2665" />
+    <distr m="0.4" sd="0.395" />
+  </block>
+  <block idx="46">
+    <startTime>05/07/2016 13:36:02</startTime>
+    <endTime>05/07/2016 13:36:03</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2349" res="1" cpx="0.5426" />
+      <item idx="2078" res="1" cpx="0.5402" />
+      <item idx="2624" res="1" cpx="0.5421" />
+      <item idx="2616" res="1" cpx="0.5421" />
+      <item idx="2109" res="1" cpx="0.4973" />
+      <item idx="1925" res="1" cpx="0.4971" />
+      <item idx="1702" res="1" cpx="0.4961" />
+      <item idx="1515" res="1" cpx="0.4951" />
+      <item idx="2597" res="1" cpx="0.4968" />
+      <item idx="2399" res="1" cpx="0.4964" />
+      <item idx="1706" res="1" cpx="0.4964" />
+      <item idx="1929" res="1" cpx="0.4935" />
+      <item idx="1964" res="1" cpx="0.4964" />
+      <item idx="2110" res="1" cpx="0.4928" />
+      <item idx="1675" res="1" cpx="0.4964" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5081</blockComplexity>
+    <userAbility>0.5313</userAbility>
+    <freq m="0.3143" sd="0.146" />
+    <conc m="0.26" sd="0.1158" />
+    <distr m="0.48" sd="0.204" />
+  </block>
+  <block idx="47">
+    <startTime>05/07/2016 13:36:03</startTime>
+    <endTime>05/07/2016 13:36:04</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2123" res="1" cpx="0.5822" />
+      <item idx="2253" res="1" cpx="0.5822" />
+      <item idx="2424" res="1" cpx="0.5785" />
+      <item idx="2471" res="1" cpx="0.5796" />
+      <item idx="2125" res="1" cpx="0.5307" />
+      <item idx="2558" res="1" cpx="0.5304" />
+      <item idx="2049" res="1" cpx="0.5291" />
+      <item idx="2255" res="1" cpx="0.5286" />
+      <item idx="2438" res="1" cpx="0.5286" />
+      <item idx="2473" res="1" cpx="0.5268" />
+      <item idx="2164" res="1" cpx="0.5242" />
+      <item idx="2375" res="1" cpx="0.5286" />
+      <item idx="2430" res="1" cpx="0.5286" />
+      <item idx="1936" res="1" cpx="0.526" />
+      <item idx="2094" res="1" cpx="0.5268" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5421</blockComplexity>
+    <userAbility>0.5421</userAbility>
+    <freq m="0.4343" sd="0.1924" />
+    <conc m="0.37" sd="0.1249" />
+    <distr m="0.38" sd="0.2561" />
+  </block>
+  <block idx="48">
+    <startTime>05/07/2016 13:36:04</startTime>
+    <endTime>05/07/2016 13:36:04</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2559" res="1" cpx="0.5925" />
+      <item idx="1937" res="1" cpx="0.5924" />
+      <item idx="2126" res="1" cpx="0.5901" />
+      <item idx="2431" res="1" cpx="0.5875" />
+      <item idx="2408" res="1" cpx="0.5415" />
+      <item idx="2416" res="1" cpx="0.5412" />
+      <item idx="2612" res="1" cpx="0.5405" />
+      <item idx="1529" res="1" cpx="0.5398" />
+      <item idx="2174" res="1" cpx="0.5398" />
+      <item idx="2443" res="1" cpx="0.5355" />
+      <item idx="2226" res="1" cpx="0.5398" />
+      <item idx="1270" res="1" cpx="0.5394" />
+      <item idx="1342" res="1" cpx="0.5394" />
+      <item idx="2297" res="1" cpx="0.5393" />
+      <item idx="2014" res="1" cpx="0.5393" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5532</blockComplexity>
+    <userAbility>0.5532</userAbility>
+    <freq m="0.2457" sd="0.1684" />
+    <conc m="0.25" sd="0.1817" />
+    <distr m="0.76" sd="0.2728" />
+  </block>
+  <block idx="49">
+    <startTime>05/07/2016 13:36:05</startTime>
+    <endTime>05/07/2016 13:36:05</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2625" res="1" cpx="0.6042" />
+      <item idx="2617" res="1" cpx="0.6042" />
+      <item idx="2120" res="1" cpx="0.6038" />
+      <item idx="2613" res="1" cpx="0.6007" />
+      <item idx="2075" res="1" cpx="0.5518" />
+      <item idx="2471" res="1" cpx="0.5408" />
+      <item idx="2253" res="1" cpx="0.5384" />
+      <item idx="2424" res="1" cpx="0.5398" />
+      <item idx="2300" res="1" cpx="0.5393" />
+      <item idx="1847" res="1" cpx="0.5393" />
+      <item idx="2056" res="1" cpx="0.5372" />
+      <item idx="1944" res="1" cpx="0.5393" />
+      <item idx="2650" res="1" cpx="0.5393" />
+      <item idx="1934" res="1" cpx="0.5393" />
+      <item idx="2200" res="1" cpx="0.5362" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5569</blockComplexity>
+    <userAbility>0.5569</userAbility>
+    <freq m="0.28" sd="0.0785" />
+    <conc m="0.33" sd="0.1208" />
+    <distr m="0.68" sd="0.2315" />
+  </block>
+  <block idx="50">
+    <startTime>05/07/2016 13:36:06</startTime>
+    <endTime>05/07/2016 13:36:06</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>2</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1441" res="1" cpx="0.6078" />
+      <item idx="1338" res="1" cpx="0.6078" />
+      <item idx="1381" res="1" cpx="0.6078" />
+      <item idx="1432" res="1" cpx="0.6077" />
+      <item idx="2400" res="1" cpx="0.5549" />
+      <item idx="2111" res="1" cpx="0.5549" />
+      <item idx="2559" res="1" cpx="0.5512" />
+      <item idx="1937" res="1" cpx="0.5507" />
+      <item idx="2126" res="1" cpx="0.5461" />
+      <item idx="2431" res="1" cpx="0.5456" />
+      <item idx="2137" res="1" cpx="0.5393" />
+      <item idx="2325" res="1" cpx="0.5393" />
+      <item idx="2354" res="1" cpx="0.5392" />
+      <item idx="1752" res="1" cpx="0.5392" />
+      <item idx="1533" res="1" cpx="0.5392" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.562</blockComplexity>
+    <userAbility>0.562</userAbility>
+    <freq m="0.2971" sd="0.181" />
+    <conc m="0.29" sd="0.1685" />
+    <distr m="0.76" sd="0.2498" />
+  </block>
+  <block idx="51">
+    <startTime>05/07/2016 13:36:07</startTime>
+    <endTime>05/07/2016 13:36:07</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2409" res="1" cpx="0.6037" />
+      <item idx="2298" res="1" cpx="0.6033" />
+      <item idx="2250" res="1" cpx="0.6031" />
+      <item idx="2566" res="1" cpx="0.6027" />
+      <item idx="2137" res="1" cpx="0.5393" />
+      <item idx="2325" res="1" cpx="0.5356" />
+      <item idx="2354" res="1" cpx="0.5392" />
+      <item idx="1752" res="1" cpx="0.5392" />
+      <item idx="1533" res="1" cpx="0.5392" />
+      <item idx="1760" res="1" cpx="0.5392" />
+      <item idx="1732" res="1" cpx="0.5392" />
+      <item idx="2657" res="1" cpx="0.5389" />
+      <item idx="1776" res="1" cpx="0.5389" />
+      <item idx="1613" res="1" cpx="0.5368" />
+      <item idx="1278" res="1" cpx="0.5388" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5558</blockComplexity>
+    <userAbility>0.572</userAbility>
+    <freq m="0.1429" sd="0.0767" />
+    <conc m="0.21" sd="0.1685" />
+    <distr m="0.92" sd="0.172" />
+  </block>
+  <block idx="52">
+    <startTime>05/07/2016 13:36:08</startTime>
+    <endTime>05/07/2016 13:36:08</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1405" res="1" cpx="0.6132" />
+      <item idx="1605" res="1" cpx="0.6108" />
+      <item idx="1812" res="1" cpx="0.6085" />
+      <item idx="2374" res="1" cpx="0.6122" />
+      <item idx="2259" res="1" cpx="0.5714" />
+      <item idx="1608" res="1" cpx="0.5714" />
+      <item idx="2167" res="1" cpx="0.5714" />
+      <item idx="2591" res="1" cpx="0.5684" />
+      <item idx="1293" res="1" cpx="0.5714" />
+      <item idx="2477" res="1" cpx="0.5684" />
+      <item idx="1333" res="1" cpx="0.5714" />
+      <item idx="1484" res="1" cpx="0.5714" />
+      <item idx="1894" res="1" cpx="0.5701" />
+      <item idx="1815" res="1" cpx="0.5701" />
+      <item idx="1739" res="1" cpx="0.5699" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5813</blockComplexity>
+    <userAbility>0.5813</userAbility>
+    <freq m="0.4343" sd="0.1029" />
+    <conc m="0.28" sd="0.2638" />
+    <distr m="0.62" sd="0.337" />
+  </block>
+  <block idx="53">
+    <startTime>05/07/2016 13:36:08</startTime>
+    <endTime>05/07/2016 13:36:09</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1708" res="1" cpx="0.6315" />
+      <item idx="1931" res="1" cpx="0.6266" />
+      <item idx="2425" res="1" cpx="0.6299" />
+      <item idx="2472" res="1" cpx="0.6283" />
+      <item idx="2674" res="1" cpx="0.5812" />
+      <item idx="2453" res="1" cpx="0.5791" />
+      <item idx="2281" res="1" cpx="0.5787" />
+      <item idx="1954" res="1" cpx="0.5785" />
+      <item idx="2153" res="1" cpx="0.5777" />
+      <item idx="2428" res="1" cpx="0.5752" />
+      <item idx="1569" res="1" cpx="0.5777" />
+      <item idx="1373" res="1" cpx="0.5762" />
+      <item idx="1792" res="1" cpx="0.5777" />
+      <item idx="1832" res="1" cpx="0.5747" />
+      <item idx="1720" res="1" cpx="0.5777" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.5914</blockComplexity>
+    <userAbility>0.5914</userAbility>
+    <freq m="0.2114" sd="0.123" />
+    <conc m="0.29" sd="0.2083" />
+    <distr m="0.92" sd="0.1327" />
+  </block>
+  <block idx="54">
+    <startTime>05/07/2016 13:36:09</startTime>
+    <endTime>05/07/2016 13:36:10</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1306" res="1" cpx="0.642" />
+      <item idx="1891" res="1" cpx="0.64" />
+      <item idx="1290" res="1" cpx="0.642" />
+      <item idx="1553" res="1" cpx="0.64" />
+      <item idx="1349" res="1" cpx="0.5896" />
+      <item idx="1771" res="1" cpx="0.5883" />
+      <item idx="1572" res="1" cpx="0.587" />
+      <item idx="1644" res="1" cpx="0.5889" />
+      <item idx="1851" res="1" cpx="0.5876" />
+      <item idx="1444" res="1" cpx="0.5863" />
+      <item idx="2165" res="1" cpx="0.5881" />
+      <item idx="2318" res="1" cpx="0.5875" />
+      <item idx="2632" res="1" cpx="0.5875" />
+      <item idx="1711" res="1" cpx="0.587" />
+      <item idx="1520" res="1" cpx="0.5854" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6018</blockComplexity>
+    <userAbility>0.6018</userAbility>
+    <freq m="0.5457" sd="0.1748" />
+    <conc m="0.15" sd="0.0707" />
+    <distr m="0.76" sd="0.2245" />
+  </block>
+  <block idx="55">
+    <startTime>05/07/2016 13:36:10</startTime>
+    <endTime>05/07/2016 13:36:11</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2146" res="1" cpx="0.6522" />
+      <item idx="2495" res="1" cpx="0.6518" />
+      <item idx="1961" res="1" cpx="0.6518" />
+      <item idx="2278" res="1" cpx="0.6485" />
+      <item idx="2421" res="1" cpx="0.6018" />
+      <item idx="2413" res="1" cpx="0.6018" />
+      <item idx="2366" res="1" cpx="0.6018" />
+      <item idx="2015" res="1" cpx="0.6016" />
+      <item idx="2547" res="1" cpx="0.6" />
+      <item idx="2201" res="1" cpx="0.6" />
+      <item idx="1945" res="1" cpx="0.5959" />
+      <item idx="2246" res="1" cpx="0.5998" />
+      <item idx="2576" res="1" cpx="0.5994" />
+      <item idx="2028" res="1" cpx="0.5994" />
+      <item idx="2534" res="1" cpx="0.599" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6137</blockComplexity>
+    <userAbility>0.6137</userAbility>
+    <freq m="0.3229" sd="0.1366" />
+    <conc m="0.38" sd="0.1435" />
+    <distr m="0.8" sd="0.2366" />
+  </block>
+  <block idx="56">
+    <startTime>05/07/2016 13:36:11</startTime>
+    <endTime>05/07/2016 13:36:12</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2377" res="1" cpx="0.6644" />
+      <item idx="2096" res="1" cpx="0.6614" />
+      <item idx="2577" res="1" cpx="0.6574" />
+      <item idx="2475" res="1" cpx="0.661" />
+      <item idx="1362" res="1" cpx="0.6121" />
+      <item idx="2555" res="1" cpx="0.6121" />
+      <item idx="1780" res="1" cpx="0.6105" />
+      <item idx="1617" res="1" cpx="0.609" />
+      <item idx="1525" res="1" cpx="0.612" />
+      <item idx="1437" res="1" cpx="0.612" />
+      <item idx="2586" res="1" cpx="0.6119" />
+      <item idx="2386" res="1" cpx="0.6088" />
+      <item idx="1784" res="1" cpx="0.6117" />
+      <item idx="1903" res="1" cpx="0.6117" />
+      <item idx="1493" res="1" cpx="0.6102" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6244</blockComplexity>
+    <userAbility>0.6244</userAbility>
+    <freq m="0.3743" sd="0.1748" />
+    <conc m="0.24" sd="0.1497" />
+    <distr m="0.92" sd="0.1327" />
+  </block>
+  <block idx="57">
+    <startTime>05/07/2016 13:36:12</startTime>
+    <endTime>05/07/2016 13:36:13</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2580" res="1" cpx="0.6732" />
+      <item idx="2099" res="1" cpx="0.6705" />
+      <item idx="2380" res="1" cpx="0.6668" />
+      <item idx="1911" res="1" cpx="0.673" />
+      <item idx="1868" res="1" cpx="0.6117" />
+      <item idx="1661" res="1" cpx="0.6098" />
+      <item idx="1461" res="1" cpx="0.6079" />
+      <item idx="2206" res="1" cpx="0.6115" />
+      <item idx="2193" res="1" cpx="0.6111" />
+      <item idx="1385" res="1" cpx="0.6108" />
+      <item idx="1716" res="1" cpx="0.609" />
+      <item idx="2286" res="1" cpx="0.6106" />
+      <item idx="2503" res="1" cpx="0.6059" />
+      <item idx="2511" res="1" cpx="0.6106" />
+      <item idx="2294" res="1" cpx="0.6059" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6259</blockComplexity>
+    <userAbility>0.6259</userAbility>
+    <freq m="0.3486" sd="0.2461" />
+    <conc m="0.33" sd="0.204" />
+    <distr m="0.86" sd="0.2417" />
+  </block>
+  <block idx="58">
+    <startTime>05/07/2016 13:36:13</startTime>
+    <endTime>05/07/2016 13:36:14</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2302" res="1" cpx="0.6759" />
+      <item idx="2058" res="1" cpx="0.6725" />
+      <item idx="2194" res="1" cpx="0.6707" />
+      <item idx="1501" res="1" cpx="0.6705" />
+      <item idx="2254" res="1" cpx="0.6251" />
+      <item idx="2475" res="1" cpx="0.6168" />
+      <item idx="2096" res="1" cpx="0.6144" />
+      <item idx="2377" res="1" cpx="0.6117" />
+      <item idx="2577" res="1" cpx="0.608" />
+      <item idx="1421" res="1" cpx="0.6103" />
+      <item idx="1629" res="1" cpx="0.6087" />
+      <item idx="1836" res="1" cpx="0.6072" />
+      <item idx="1401" res="1" cpx="0.6102" />
+      <item idx="1577" res="1" cpx="0.6086" />
+      <item idx="1641" res="1" cpx="0.6101" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.628</blockComplexity>
+    <userAbility>0.628</userAbility>
+    <freq m="0.4171" sd="0.1548" />
+    <conc m="0.28" sd="0.1833" />
+    <distr m="0.92" sd="0.1327" />
+  </block>
+  <block idx="59">
+    <startTime>05/07/2016 13:36:14</startTime>
+    <endTime>05/07/2016 13:36:15</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>3</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1998" res="1" cpx="0.6786" />
+      <item idx="2655" res="1" cpx="0.6775" />
+      <item idx="2515" res="1" cpx="0.677" />
+      <item idx="2659" res="1" cpx="0.6698" />
+      <item idx="2112" res="1" cpx="0.6278" />
+      <item idx="2401" res="1" cpx="0.6278" />
+      <item idx="1911" res="1" cpx="0.625" />
+      <item idx="2380" res="1" cpx="0.6234" />
+      <item idx="2580" res="1" cpx="0.6234" />
+      <item idx="2099" res="1" cpx="0.6203" />
+      <item idx="1804" res="1" cpx="0.6099" />
+      <item idx="1601" res="1" cpx="0.6099" />
+      <item idx="1397" res="1" cpx="0.6099" />
+      <item idx="2093" res="1" cpx="0.6098" />
+      <item idx="2574" res="1" cpx="0.6098" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6333</blockComplexity>
+    <userAbility>0.6333</userAbility>
+    <freq m="0.4171" sd="0.2341" />
+    <conc m="0.43" sd="0.2522" />
+    <distr m="0.78" sd="0.2993" />
+  </block>
+  <block idx="60">
+    <startTime>05/07/2016 13:36:15</startTime>
+    <endTime>05/07/2016 13:36:16</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2515" res="1" cpx="0.677" />
+      <item idx="2659" res="1" cpx="0.6698" />
+      <item idx="2334" res="1" cpx="0.6685" />
+      <item idx="2637" res="1" cpx="0.6679" />
+      <item idx="1501" res="1" cpx="0.625" />
+      <item idx="2194" res="1" cpx="0.6226" />
+      <item idx="1804" res="1" cpx="0.6099" />
+      <item idx="1601" res="1" cpx="0.6084" />
+      <item idx="1397" res="1" cpx="0.6068" />
+      <item idx="2093" res="1" cpx="0.6098" />
+      <item idx="2574" res="1" cpx="0.6075" />
+      <item idx="1958" res="1" cpx="0.6092" />
+      <item idx="1298" res="1" cpx="0.6076" />
+      <item idx="1744" res="1" cpx="0.6061" />
+      <item idx="1665" res="1" cpx="0.6091" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.627</blockComplexity>
+    <userAbility>0.6433</userAbility>
+    <freq m="0.3314" sd="0.2003" />
+    <conc m="0.27" sd="0.2249" />
+    <distr m="0.98" sd="0.0748" />
+  </block>
+  <block idx="61">
+    <startTime>05/07/2016 13:36:16</startTime>
+    <endTime>05/07/2016 13:36:17</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>3</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2570" res="1" cpx="0.6839" />
+      <item idx="2370" res="1" cpx="0.6839" />
+      <item idx="2518" res="1" cpx="0.6839" />
+      <item idx="1972" res="1" cpx="0.6839" />
+      <item idx="2633" res="1" cpx="0.643" />
+      <item idx="2210" res="1" cpx="0.6427" />
+      <item idx="1621" res="1" cpx="0.6427" />
+      <item idx="1393" res="1" cpx="0.6427" />
+      <item idx="1788" res="1" cpx="0.6427" />
+      <item idx="2308" res="1" cpx="0.6411" />
+      <item idx="2196" res="1" cpx="0.6411" />
+      <item idx="1948" res="1" cpx="0.6411" />
+      <item idx="2265" res="1" cpx="0.6411" />
+      <item idx="2526" res="1" cpx="0.6411" />
+      <item idx="2538" res="1" cpx="0.6411" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6531</blockComplexity>
+    <userAbility>0.6531</userAbility>
+    <freq m="0.5714" sd="0.13" />
+    <conc m="0.33" sd="0.2182" />
+    <distr m="0.72" sd="0.2561" />
+  </block>
+  <block idx="62">
+    <startTime>05/07/2016 13:36:17</startTime>
+    <endTime>05/07/2016 13:36:18</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2570" res="1" cpx="0.6839" />
+      <item idx="2370" res="1" cpx="0.6788" />
+      <item idx="2518" res="1" cpx="0.6839" />
+      <item idx="2313" res="1" cpx="0.6839" />
+      <item idx="2168" res="1" cpx="0.6329" />
+      <item idx="2592" res="1" cpx="0.6291" />
+      <item idx="2478" res="1" cpx="0.6329" />
+      <item idx="2260" res="1" cpx="0.6291" />
+      <item idx="1927" res="1" cpx="0.6328" />
+      <item idx="1704" res="1" cpx="0.6311" />
+      <item idx="1517" res="1" cpx="0.6294" />
+      <item idx="2302" res="1" cpx="0.6228" />
+      <item idx="2058" res="1" cpx="0.6196" />
+      <item idx="2334" res="1" cpx="0.6223" />
+      <item idx="2637" res="1" cpx="0.6109" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6416</blockComplexity>
+    <userAbility>0.6631</userAbility>
+    <freq m="0.4257" sd="0.1617" />
+    <conc m="0.47" sd="0.1806" />
+    <distr m="0.78" sd="0.2561" />
+  </block>
+  <block idx="63">
+    <startTime>05/07/2016 13:36:18</startTime>
+    <endTime>05/07/2016 13:36:19</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2549" res="1" cpx="0.7107" />
+      <item idx="2269" res="1" cpx="0.7107" />
+      <item idx="2486" res="1" cpx="0.7076" />
+      <item idx="2340" res="1" cpx="0.7064" />
+      <item idx="2016" res="1" cpx="0.6592" />
+      <item idx="2008" res="1" cpx="0.6572" />
+      <item idx="1977" res="1" cpx="0.6572" />
+      <item idx="2020" res="1" cpx="0.6572" />
+      <item idx="1993" res="1" cpx="0.6572" />
+      <item idx="2404" res="1" cpx="0.6572" />
+      <item idx="1981" res="1" cpx="0.6572" />
+      <item idx="2608" res="1" cpx="0.6529" />
+      <item idx="2337" res="1" cpx="0.6572" />
+      <item idx="1985" res="1" cpx="0.655" />
+      <item idx="2012" res="1" cpx="0.6572" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6707</blockComplexity>
+    <userAbility>0.6707</userAbility>
+    <freq m="0.3743" sd="0.2245" />
+    <conc m="0.66" sd="0.102" />
+    <distr m="0.66" sd="0.102" />
+  </block>
+  <block idx="64">
+    <startTime>05/07/2016 13:36:19</startTime>
+    <endTime>05/07/2016 13:36:20</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2023" res="1" cpx="0.7214" />
+      <item idx="1986" res="1" cpx="0.7177" />
+      <item idx="2338" res="1" cpx="0.715" />
+      <item idx="2309" res="1" cpx="0.7161" />
+      <item idx="2157" res="1" cpx="0.6665" />
+      <item idx="1996" res="1" cpx="0.6572" />
+      <item idx="1989" res="1" cpx="0.6572" />
+      <item idx="2004" res="1" cpx="0.6572" />
+      <item idx="1768" res="1" cpx="0.6564" />
+      <item idx="2047" res="1" cpx="0.6558" />
+      <item idx="1946" res="1" cpx="0.6553" />
+      <item idx="2202" res="1" cpx="0.6502" />
+      <item idx="2257" res="1" cpx="0.6551" />
+      <item idx="2499" res="1" cpx="0.6548" />
+      <item idx="2071" res="1" cpx="0.648" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6723</blockComplexity>
+    <userAbility>0.6723</userAbility>
+    <freq m="0.3486" sd="0.1846" />
+    <conc m="0.58" sd="0.2064" />
+    <distr m="0.82" sd="0.1833" />
+  </block>
+  <block idx="65">
+    <startTime>05/07/2016 13:36:20</startTime>
+    <endTime>05/07/2016 13:36:21</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1939" res="1" cpx="0.7206" />
+      <item idx="2531" res="1" cpx="0.7195" />
+      <item idx="2390" res="1" cpx="0.7161" />
+      <item idx="2061" res="1" cpx="0.7161" />
+      <item idx="2269" res="1" cpx="0.6604" />
+      <item idx="2486" res="1" cpx="0.6575" />
+      <item idx="2549" res="1" cpx="0.6592" />
+      <item idx="2340" res="1" cpx="0.6553" />
+      <item idx="2535" res="1" cpx="0.6527" />
+      <item idx="2468" res="1" cpx="0.6518" />
+      <item idx="2218" res="1" cpx="0.6485" />
+      <item idx="2274" res="1" cpx="0.6518" />
+      <item idx="2289" res="1" cpx="0.6518" />
+      <item idx="1970" res="1" cpx="0.6452" />
+      <item idx="2506" res="1" cpx="0.6475" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6703</blockComplexity>
+    <userAbility>0.6823</userAbility>
+    <freq m="0.4943" sd="0.1905" />
+    <conc m="0.45" sd="0.1703" />
+    <distr m="0.82" sd="0.2135" />
+  </block>
+  <block idx="66">
+    <startTime>05/07/2016 13:36:21</startTime>
+    <endTime>05/07/2016 13:36:22</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2381" res="1" cpx="0.7293" />
+      <item idx="2581" res="1" cpx="0.7261" />
+      <item idx="2100" res="1" cpx="0.7194" />
+      <item idx="2158" res="1" cpx="0.7235" />
+      <item idx="1433" res="1" cpx="0.6813" />
+      <item idx="2186" res="1" cpx="0.6806" />
+      <item idx="2543" res="1" cpx="0.6755" />
+      <item idx="1998" res="1" cpx="0.6786" />
+      <item idx="2655" res="1" cpx="0.674" />
+      <item idx="2023" res="1" cpx="0.6626" />
+      <item idx="2309" res="1" cpx="0.6625" />
+      <item idx="1986" res="1" cpx="0.6619" />
+      <item idx="2338" res="1" cpx="0.6594" />
+      <item idx="2644" res="1" cpx="0.6493" />
+      <item idx="2648" res="1" cpx="0.6493" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6822</blockComplexity>
+    <userAbility>0.6923</userAbility>
+    <freq m="0.4" sd="0.2469" />
+    <conc m="0.63" sd="0.1631" />
+    <distr m="0.82" sd="0.2638" />
+  </block>
+  <block idx="67">
+    <startTime>05/07/2016 13:36:22</startTime>
+    <endTime>05/07/2016 13:36:23</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2314" res="1" cpx="0.739" />
+      <item idx="2519" res="1" cpx="0.739" />
+      <item idx="1999" res="1" cpx="0.7376" />
+      <item idx="2053" res="1" cpx="0.7161" />
+      <item idx="2169" res="1" cpx="0.6896" />
+      <item idx="2593" res="1" cpx="0.6849" />
+      <item idx="2261" res="1" cpx="0.6896" />
+      <item idx="2479" res="1" cpx="0.6849" />
+      <item idx="2043" res="1" cpx="0.6839" />
+      <item idx="1972" res="1" cpx="0.6839" />
+      <item idx="1939" res="1" cpx="0.6675" />
+      <item idx="2531" res="1" cpx="0.6658" />
+      <item idx="2390" res="1" cpx="0.6653" />
+      <item idx="2061" res="1" cpx="0.6625" />
+      <item idx="1772" res="1" cpx="0.6489" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6906</blockComplexity>
+    <userAbility>0.7023</userAbility>
+    <freq m="0.5114" sd="0.0962" />
+    <conc m="0.6" sd="0.1949" />
+    <distr m="0.78" sd="0.204" />
+  </block>
+  <block idx="68">
+    <startTime>05/07/2016 13:36:23</startTime>
+    <endTime>05/07/2016 13:36:24</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>3</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1973" res="1" cpx="0.7409" />
+      <item idx="2578" res="1" cpx="0.6978" />
+      <item idx="2330" res="1" cpx="0.7161" />
+      <item idx="1949" res="1" cpx="0.7114" />
+      <item idx="2594" res="1" cpx="0.7409" />
+      <item idx="2158" res="1" cpx="0.6702" />
+      <item idx="2270" res="1" cpx="0.7515" />
+      <item idx="2290" res="1" cpx="0.7076" />
+      <item idx="2539" res="1" cpx="0.7161" />
+      <item idx="2550" res="1" cpx="0.7489" />
+      <item idx="2072" res="1" cpx="0.6993" />
+      <item idx="2480" res="1" cpx="0.7409" />
+      <item idx="2405" res="1" cpx="0.7129" />
+      <item idx="2024" res="1" cpx="0.7441" />
+      <item idx="2031" res="1" cpx="0.6982" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.7198</blockComplexity>
+    <userAbility>0.7198</userAbility>
+    <freq m="0.5372" sd="0.1613" />
+    <conc m="0.57" sd="0.2112" />
+    <distr m="0.9" sd="0.1414" />
+  </block>
+  <block idx="69">
+    <startTime>05/07/2016 13:36:24</startTime>
+    <endTime>05/07/2016 13:36:25</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1973" res="1" cpx="0.7409" />
+      <item idx="2480" res="1" cpx="0.7409" />
+      <item idx="2262" res="1" cpx="0.7353" />
+      <item idx="2594" res="1" cpx="0.7409" />
+      <item idx="1999" res="1" cpx="0.6839" />
+      <item idx="2314" res="1" cpx="0.6813" />
+      <item idx="2519" res="1" cpx="0.6813" />
+      <item idx="2053" res="1" cpx="0.6669" />
+      <item idx="1852" res="1" cpx="0.6488" />
+      <item idx="1445" res="1" cpx="0.6471" />
+      <item idx="1645" res="1" cpx="0.6455" />
+      <item idx="2362" res="1" cpx="0.6479" />
+      <item idx="2166" res="1" cpx="0.6479" />
+      <item idx="1573" res="1" cpx="0.6473" />
+      <item idx="1350" res="1" cpx="0.6456" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6801</blockComplexity>
+    <userAbility>0.7298</userAbility>
+    <freq m="0.5114" sd="0.126" />
+    <conc m="0.47" sd="0.2891" />
+    <distr m="0.92" sd="0.172" />
+  </block>
+  <block idx="70">
+    <startTime>05/07/2016 13:36:25</startTime>
+    <endTime>05/07/2016 13:36:25</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1950" res="1" cpx="0.7807" />
+      <item idx="2582" res="1" cpx="0.7798" />
+      <item idx="2382" res="1" cpx="0.776" />
+      <item idx="2000" res="1" cpx="0.7724" />
+      <item idx="2197" res="1" cpx="0.7161" />
+      <item idx="2527" res="1" cpx="0.7161" />
+      <item idx="2330" res="1" cpx="0.7161" />
+      <item idx="2539" res="1" cpx="0.7161" />
+      <item idx="2306" res="1" cpx="0.7161" />
+      <item idx="2266" res="1" cpx="0.7161" />
+      <item idx="2634" res="1" cpx="0.7158" />
+      <item idx="2258" res="1" cpx="0.7145" />
+      <item idx="1997" res="1" cpx="0.7129" />
+      <item idx="2005" res="1" cpx="0.7129" />
+      <item idx="1978" res="1" cpx="0.7129" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.7316</blockComplexity>
+    <userAbility>0.7316</userAbility>
+    <freq m="0.58" sd="0.2017" />
+    <conc m="0.48" sd="0.2249" />
+    <distr m="0.94" sd="0.12" />
+  </block>
+  <block idx="71">
+    <startTime>05/07/2016 13:36:26</startTime>
+    <endTime>05/07/2016 13:36:26</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2198" res="1" cpx="0.7704" />
+      <item idx="2054" res="1" cpx="0.7544" />
+      <item idx="2487" res="1" cpx="0.7515" />
+      <item idx="2270" res="1" cpx="0.7477" />
+      <item idx="1982" res="1" cpx="0.7129" />
+      <item idx="2009" res="1" cpx="0.7129" />
+      <item idx="2609" res="1" cpx="0.7129" />
+      <item idx="2013" res="1" cpx="0.7129" />
+      <item idx="1990" res="1" cpx="0.7129" />
+      <item idx="2021" res="1" cpx="0.7129" />
+      <item idx="2405" res="1" cpx="0.7076" />
+      <item idx="2017" res="1" cpx="0.7111" />
+      <item idx="1962" res="1" cpx="0.7076" />
+      <item idx="2290" res="1" cpx="0.7076" />
+      <item idx="2507" res="1" cpx="0.7024" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.7225</blockComplexity>
+    <userAbility>0.7416</userAbility>
+    <freq m="0.3829" sd="0.189" />
+    <conc m="0.61" sd="0.1068" />
+    <distr m="1" sd="0" />
+  </block>
+  <block idx="72">
+    <startTime>05/07/2016 13:36:27</startTime>
+    <endTime>05/07/2016 13:36:28</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1974" res="1" cpx="0.7927" />
+      <item idx="2310" res="1" cpx="0.7499" />
+      <item idx="2062" res="1" cpx="0.7499" />
+      <item idx="2550" res="1" cpx="0.7489" />
+      <item idx="2170" res="1" cpx="0.7353" />
+      <item idx="2382" res="1" cpx="0.7225" />
+      <item idx="2582" res="1" cpx="0.7189" />
+      <item idx="1950" res="1" cpx="0.7199" />
+      <item idx="2000" res="1" cpx="0.714" />
+      <item idx="2590" res="1" cpx="0.7055" />
+      <item idx="2476" res="1" cpx="0.7013" />
+      <item idx="2072" res="1" cpx="0.6993" />
+      <item idx="2097" res="1" cpx="0.6989" />
+      <item idx="2378" res="1" cpx="0.6954" />
+      <item idx="2578" res="1" cpx="0.6907" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.7229</blockComplexity>
+    <userAbility>0.7516</userAbility>
+    <freq m="0.5972" sd="0.123" />
+    <conc m="0.57" sd="0.1887" />
+    <distr m="0.96" sd="0.102" />
+  </block>
+  <block idx="73">
+    <startTime>05/07/2016 13:36:28</startTime>
+    <endTime>05/07/2016 13:36:29</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2342" res="1" cpx="0.8148" />
+      <item idx="2551" res="1" cpx="0.7979" />
+      <item idx="2024" res="1" cpx="0.7441" />
+      <item idx="2198" res="1" cpx="0.7103" />
+      <item idx="2487" res="1" cpx="0.6963" />
+      <item idx="2270" res="1" cpx="0.6927" />
+      <item idx="2054" res="1" cpx="0.6954" />
+      <item idx="2031" res="1" cpx="0.6843" />
+      <item idx="2594" res="1" cpx="0.6828" />
+      <item idx="2480" res="1" cpx="0.6828" />
+      <item idx="2262" res="1" cpx="0.6776" />
+      <item idx="1949" res="1" cpx="0.6657" />
+      <item idx="2158" res="1" cpx="0.6702" />
+      <item idx="2266" res="1" cpx="0.6653" />
+      <item idx="1973" res="1" cpx="0.6653" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.703</blockComplexity>
+    <userAbility>0.7616</userAbility>
+    <freq m="0.6143" sd="0.105" />
+    <conc m="0.59" sd="0.1934" />
+    <distr m="0.92" sd="0.1327" />
+  </block>
+  <block idx="74">
+    <startTime>05/07/2016 13:36:29</startTime>
+    <endTime>05/07/2016 13:36:29</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>3</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2341" res="1" cpx="0.7221" />
+      <item idx="1974" res="1" cpx="0.7111" />
+      <item idx="2310" res="1" cpx="0.6911" />
+      <item idx="2062" res="1" cpx="0.6911" />
+      <item idx="2170" res="1" cpx="0.6776" />
+      <item idx="2550" res="1" cpx="0.6766" />
+      <item idx="2582" res="1" cpx="0.6674" />
+      <item idx="2382" res="1" cpx="0.6674" />
+      <item idx="2258" res="1" cpx="0.6618" />
+      <item idx="2330" res="1" cpx="0.6603" />
+      <item idx="2539" res="1" cpx="0.6603" />
+      <item idx="2306" res="1" cpx="0.6603" />
+      <item idx="2527" res="1" cpx="0.6603" />
+      <item idx="2000" res="1" cpx="0.658" />
+      <item idx="1978" res="1" cpx="0.6572" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6748</blockComplexity>
+    <userAbility>0.7716</userAbility>
+    <freq m="0.6057" sd="0.1283" />
+    <conc m="0.55" sd="0.2258" />
+    <distr m="0.94" sd="0.12" />
+  </block>
+  <block idx="75">
+    <startTime>05/07/2016 13:36:30</startTime>
+    <endTime>05/07/2016 13:36:30</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2342" res="1" cpx="0.7515" />
+      <item idx="2551" res="1" cpx="0.7356" />
+      <item idx="2024" res="1" cpx="0.6802" />
+      <item idx="2258" res="1" cpx="0.6618" />
+      <item idx="2330" res="1" cpx="0.6603" />
+      <item idx="2539" res="1" cpx="0.6603" />
+      <item idx="2306" res="1" cpx="0.6603" />
+      <item idx="2527" res="1" cpx="0.6603" />
+      <item idx="1978" res="1" cpx="0.6572" />
+      <item idx="1997" res="1" cpx="0.6572" />
+      <item idx="2005" res="1" cpx="0.6572" />
+      <item idx="2609" res="1" cpx="0.6572" />
+      <item idx="2021" res="1" cpx="0.6572" />
+      <item idx="2013" res="1" cpx="0.6572" />
+      <item idx="2009" res="1" cpx="0.6572" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6714</blockComplexity>
+    <userAbility>0.7816</userAbility>
+    <freq m="0.4429" sd="0.2082" />
+    <conc m="0.58" sd="0.2272" />
+    <distr m="0.98" sd="0.0748" />
+  </block>
+  <block idx="76">
+    <startTime>05/07/2016 13:36:31</startTime>
+    <endTime>05/07/2016 13:36:31</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="1974" res="1" cpx="0.7111" />
+      <item idx="2341" res="1" cpx="0.7005" />
+      <item idx="2310" res="1" cpx="0.6911" />
+      <item idx="2062" res="1" cpx="0.6911" />
+      <item idx="2170" res="1" cpx="0.6776" />
+      <item idx="2382" res="1" cpx="0.6674" />
+      <item idx="2582" res="1" cpx="0.6639" />
+      <item idx="2000" res="1" cpx="0.658" />
+      <item idx="1982" res="1" cpx="0.6572" />
+      <item idx="1990" res="1" cpx="0.6572" />
+      <item idx="2550" res="1" cpx="0.6517" />
+      <item idx="2590" res="1" cpx="0.6554" />
+      <item idx="2017" res="1" cpx="0.6553" />
+      <item idx="2634" res="1" cpx="0.6546" />
+      <item idx="2100" res="1" cpx="0.6464" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6692</blockComplexity>
+    <userAbility>0.7916</userAbility>
+    <freq m="0.5972" sd="0.2039" />
+    <conc m="0.62" sd="0.1887" />
+    <distr m="0.9" sd="0.1414" />
+  </block>
+  <block idx="77">
+    <startTime>05/07/2016 13:36:31</startTime>
+    <endTime>05/07/2016 13:36:32</endTime>
+    <linguisticCateogry>1</linguisticCateogry>
+    <noiseLevel>0</noiseLevel>
+    <diversityNum>0</diversityNum>
+    <challengeItemFeatures>
+      <item idx="2342" res="1" cpx="0.6716" />
+      <item idx="2551" res="1" cpx="0.6571" />
+      <item idx="2198" res="1" cpx="0.6528" />
+      <item idx="1962" res="1" cpx="0.6524" />
+      <item idx="2290" res="1" cpx="0.6524" />
+      <item idx="2507" res="1" cpx="0.6474" />
+      <item idx="2405" res="1" cpx="0.6522" />
+      <item idx="2072" res="1" cpx="0.6519" />
+      <item idx="2476" res="1" cpx="0.6494" />
+      <item idx="1950" res="1" cpx="0.6483" />
+      <item idx="1712" res="1" cpx="0.6455" />
+      <item idx="1521" res="1" cpx="0.6435" />
+      <item idx="1884" res="1" cpx="0.6446" />
+      <item idx="1282" res="1" cpx="0.6429" />
+      <item idx="1673" res="1" cpx="0.6413" />
+    </challengeItemFeatures>
+    <accuracyRate>1</accuracyRate>
+    <blockComplexity>0.6502</blockComplexity>
+    <userAbility>0.8016</userAbility>
+    <freq m="0.5029" sd="0.1617" />
+    <conc m="0.43" sd="0.2462" />
+    <distr m="1" sd="0" />
+  </block>
+</root>

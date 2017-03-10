@@ -1,0 +1,145 @@
+﻿<Window x:Class="TherapyItemRecSys.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TherapyItemRecSys"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+    
+    <Grid>
+        <TabControl x:Name="tabControl" Margin="5,5,5,5" >
+
+            <!-- TAB 0 -->
+            <TabItem Header="Tool">
+                <StackPanel>
+                    <Button x:Name="btnConvertCsvToXml" Content="Convert Csv To Xml" HorizontalAlignment="Left" Margin="10,10,0,0" Width="175" Height="22" Click="btnConvertCsvToXml_Click" VerticalAlignment="Top" />
+                    <Button x:Name="btnCalculateNeighbours" Content="Ccalculate neighbours" HorizontalAlignment="Left" Margin="10,30,0,0" Width="175" Height="22" Click="btnCalculateNeighbours_Click" VerticalAlignment="Top" />
+                    <Button x:Name="btnGenerateStarterPool" Content="Generate starter pool" HorizontalAlignment="Left" Margin="10,30,0,0" Width="175" Height="22" Click="btnGenerateStarterPool_Click" VerticalAlignment="Top" />
+                </StackPanel>
+            </TabItem>
+
+            <!-- TAB 1 -->
+            <TabItem Header="Simulation" Visibility="Hidden">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="150*"/>
+                        <ColumnDefinition Width="300*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox x:Name="tbLexicalItems" Grid.Column="0" HorizontalAlignment="Left" Height="323" Margin="10,10,0,0" AcceptsReturn="True" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="200" VerticalScrollBarVisibility="Visible"/>
+                    <TextBox x:Name="tbChallengeItems" Grid.Column="0" HorizontalAlignment="Left" Height="323" Margin="10,350,0,0" AcceptsReturn="True" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="300" VerticalScrollBarVisibility="Visible"/>
+
+                    <Button x:Name="btnNextBlock" Grid.Column="1" Content="Next block" HorizontalAlignment="Left" Margin="10,10,0,0" Width="75" Height="22"  Click="btnNextBlock_Click" VerticalAlignment="Top" />
+                    <TextBox x:Name="tbNextBlock" Grid.Column="1" HorizontalAlignment="Left" Margin="10,120,0,0" TextWrapping="Wrap" Text="" Width="300" Height="350" VerticalAlignment="Top" VerticalScrollBarVisibility="Visible"/>
+                    <Label x:Name="lbResponse" Content="Label" Grid.Column="1" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top"/>
+
+                    <!--<TextBox x:Name="tbRecCandidatesWord" Grid.Column="1" HorizontalAlignment="Left" Margin="10,480,0,0" TextWrapping="Wrap" Text="" Width="400" Height="400" VerticalAlignment="Top" VerticalScrollBarVisibility="Visible"/>
+            -->
+                    <DataGrid Grid.Column="3" AutoGenerateColumns="False" ItemsSource="{Binding}" Margin="10,10,0,0" Height="200" VerticalAlignment="Top" 
+                                      RowHeaderWidth="0" Name="dgRecCandidatesWord" SelectionMode="Single" VerticalGridLinesBrush="{x:Null}" HorizontalAlignment="Left" 
+                                      AlternatingRowBackground="PapayaWhip" AlternationCount="2" HorizontalGridLinesBrush="{x:Null}" BorderBrush="CadetBlue" 
+                                      RowHeight="25" CanUserReorderColumns="False" CanUserResizeColumns="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Idx" Binding="{Binding Idx}" IsReadOnly="True" Width="40" />
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}" IsReadOnly="True" Width="80" />
+                            <DataGridTextColumn Header="Freq" Binding="{Binding Frequency}" IsReadOnly="True" Width="40" />
+                            <DataGridTextColumn Header="Conc" Binding="{Binding Concreteness}" IsReadOnly="True" Width="40" />
+                            <DataGridTextColumn Header="Distr" Binding="{Binding DistractorNum}" IsReadOnly="True" Width="40" />
+                            <DataGridTextColumn Header="NeighbourCtr" Binding="{Binding NeighbourCtr}" IsReadOnly="True" Width="40" />
+                            <DataGridTextColumn Header="SimilarityStrength" Binding="{Binding SimilarityStrength}" IsReadOnly="True" Width="80" />
+                            <DataGridTextColumn Header="CurComplexity" Binding="{Binding CurComplexity}" IsReadOnly="True" Width="80" />
+                            <DataGridTextColumn Header="ComplexityWeight" Binding="{Binding ComplexityWeight}" IsReadOnly="True" Width="80" />
+                            <DataGridTextColumn Header="NeighbourWeight" Binding="{Binding NeighbourWeight}" IsReadOnly="True" Width="80" />
+                            <DataGridTextColumn Header="ExposureWeight" Binding="{Binding ExposureWeight}" IsReadOnly="True" Width="80" />
+                            <DataGridTextColumn Header="RecommendationStrength" Binding="{Binding RecommendationStrength}" IsReadOnly="True" Width="80" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <!--<TextBox x:Name="tbNeighbours" Grid.Column="3" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="520" VerticalScrollBarVisibility="Visible"/>
+            -->
+                    <TextBox x:Name="tbRecCandidatesESentence" Grid.Column="3" HorizontalAlignment="Left" Height="180" Margin="10,220,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="720" VerticalScrollBarVisibility="Visible"/>
+                    <TextBox x:Name="tbRecCandidatesHSentence" Grid.Column="3" HorizontalAlignment="Left" Height="180" Margin="10,430,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="720" VerticalScrollBarVisibility="Visible"/>
+                    <TextBox x:Name="tbHistory" Grid.Column="3" HorizontalAlignment="Left" Height="400" Margin="10,630,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="720" VerticalScrollBarVisibility="Visible"/>
+                </Grid>
+            </TabItem>
+
+            <!-- TAB 2 -->
+            <TabItem Header="Neighbours" Visibility="Hidden">
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Margin="15,5,5,10" Grid.Row="0" Grid.Column="0">
+                        <DataGrid AutoGenerateColumns="False" ItemsSource="{Binding}" Margin="0,0,0,0" Height="650"
+                                  RowHeaderWidth="0" Name="dgTab2_Cif" SelectionMode="Single" VerticalGridLinesBrush="{x:Null}" HorizontalAlignment="Left" 
+                                  AlternatingRowBackground="PapayaWhip" AlternationCount="2" HorizontalGridLinesBrush="{x:Null}" BorderBrush="CadetBlue" 
+                                  RowHeight="25" CanUserReorderColumns="False" CanUserResizeColumns="False" SelectionChanged="dgTab2_Cif_SelectionChanged" >
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Idx" Binding="{Binding Idx}" IsReadOnly="True" Width="40" />
+                                <DataGridTextColumn Header="Name" Binding="{Binding Name}" IsReadOnly="True" Width="250" />
+                                <DataGridTextColumn Header="Lexical item" Binding="{Binding LexicalItem}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="Freq" Binding="{Binding Frequency}" IsReadOnly="True" Width="40" />
+                                <DataGridTextColumn Header="Conc" Binding="{Binding Concreteness}" IsReadOnly="True" Width="40" />
+                                <DataGridTextColumn Header="Distr" Binding="{Binding DistractorNum}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="Ling Category" Binding="{Binding LinguisticCategory}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="Ling Type" Binding="{Binding LinguisticType}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="Complexity" Binding="{Binding ComplexityOverall}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="C Freq" Binding="{Binding ComplexityFreq}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="C Conc" Binding="{Binding ComplexityConc}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="C Distr" Binding="{Binding ComplexityDistr}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="C LType" Binding="{Binding ComplexityLT}" IsReadOnly="True" Width="80" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+
+                    <StackPanel Margin="15,5,5,10" Grid.Row="0" Grid.Column="1">
+                        <DataGrid AutoGenerateColumns="False" ItemsSource="{Binding}" Margin="0,0,0,0" Height="650"
+                                  RowHeaderWidth="0" Name="dgTab2_CifNeighbours" SelectionMode="Single" VerticalGridLinesBrush="{x:Null}" HorizontalAlignment="Left" 
+                                  AlternatingRowBackground="PapayaWhip" AlternationCount="2" HorizontalGridLinesBrush="{x:Null}" BorderBrush="CadetBlue" 
+                                  RowHeight="25" CanUserReorderColumns="False" CanUserResizeColumns="False" >
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Idx" Binding="{Binding Idx}" IsReadOnly="True" Width="40" />
+                                <DataGridTextColumn Header="Name" Binding="{Binding Name}" IsReadOnly="True" Width="250" />
+                                <DataGridTextColumn Header="Sim" Binding="{Binding Similarity}" IsReadOnly="True" Width="50" />
+                                <DataGridTextColumn Header="Lexical item" Binding="{Binding LexicalItem}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="Freq" Binding="{Binding Frequency}" IsReadOnly="True" Width="40" />
+                                <DataGridTextColumn Header="Conc" Binding="{Binding Concreteness}" IsReadOnly="True" Width="40" />
+                                <DataGridTextColumn Header="Distr" Binding="{Binding DistractorNum}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="Ling Category" Binding="{Binding LinguisticCategory}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="Ling Type" Binding="{Binding LinguisticType}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="Complexity" Binding="{Binding ComplexityOverall}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="C Freq" Binding="{Binding ComplexityFreq}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="C Conc" Binding="{Binding ComplexityConc}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="C Distr" Binding="{Binding ComplexityDistr}" IsReadOnly="True" Width="80" />
+                                <DataGridTextColumn Header="C LType" Binding="{Binding ComplexityLT}" IsReadOnly="True" Width="80" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+            <!-- TAB 2 -->
+            <TabItem Header="Forced/Trained items" Visibility="Hidden">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Margin="50,20,0,0">
+                        <Label Content="Set A:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                        <ListBox x:Name="lbForcedItemSetA" HorizontalAlignment="Left" Height="750" VerticalAlignment="Top" Width="500"  />
+                    </StackPanel>
+                    <StackPanel Margin="150,20,0,0">
+                        <Label Content="Set B:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                        <ListBox x:Name="lbForcedItemSetB" HorizontalAlignment="Left" Height="750" VerticalAlignment="Top" Width="500"  />
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+
+        </TabControl>
+        
+    </Grid>
+</Window>

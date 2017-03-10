@@ -1,0 +1,4868 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <block idx="0">
+    <sTime>03/08/2016 11:03:42</sTime>
+    <eTime>03/08/2016 11:04:21</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2195" div="0" res="1" cpx="0.1" />
+      <item idx="2287" div="0" res="1" cpx="0.1" />
+      <item idx="628" div="0" res="1" cpx="0.1322" />
+      <item idx="1411" div="0" res="1" cpx="0.1322" />
+      <item idx="1587" div="0" res="1" cpx="0.1322" />
+      <item idx="68" div="0" res="1" cpx="0.1" />
+      <item idx="544" div="0" res="1" cpx="0.1322" />
+      <item idx="624" div="0" res="1" cpx="0.1322" />
+      <item idx="1427" div="0" res="1" cpx="0.1322" />
+      <item idx="376" div="0" res="1" cpx="0.1322" />
+      <item idx="1707" div="0" res="1" cpx="0.1322" />
+      <item idx="80" div="0" res="1" cpx="0.1" />
+      <item idx="332" div="0" res="1" cpx="0.1322" />
+      <item idx="2259" div="0" res="1" cpx="0.1" />
+      <item idx="1447" div="0" res="1" cpx="0.1322" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1215</blockCpx>
+    <userAb>0.1322</userAb>
+    <userAb_TB>0.1215</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.1697</dtu>
+    <dtl>0.1</dtl>
+    <freq m="0.1857" sd="0.0606" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="1">
+    <sTime>03/08/2016 11:04:22</sTime>
+    <eTime>03/08/2016 11:04:22</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2283" div="1" res="1" cpx="0.1375" />
+      <item idx="216" div="1" res="1" cpx="0.1643" />
+      <item idx="636" div="0" res="1" cpx="0.1322" />
+      <item idx="1435" div="0" res="1" cpx="0.1322" />
+      <item idx="3698" div="0" res="1" cpx="0.1322" />
+      <item idx="952" div="0" res="1" cpx="0.1322" />
+      <item idx="400" div="0" res="1" cpx="0.1322" />
+      <item idx="2615" div="0" res="1" cpx="0.1322" />
+      <item idx="2323" div="0" res="1" cpx="0.1322" />
+      <item idx="2579" div="0" res="1" cpx="0.1322" />
+      <item idx="2643" div="0" res="1" cpx="0.1322" />
+      <item idx="4627" div="0" res="1" cpx="0.1322" />
+      <item idx="3380" div="0" res="1" cpx="0.1322" />
+      <item idx="1095" div="0" res="1" cpx="0.1" />
+      <item idx="2019" div="0" res="1" cpx="0.1" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1304</blockCpx>
+    <userAb>0.1372</userAb>
+    <userAb_TB>0.1304</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.1697</dtu>
+    <dtl>0.1</dtl>
+    <freq m="0.2114" sd="0.0641" />
+    <conc m="0.11" sd="0.0374" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="2">
+    <sTime>03/08/2016 11:04:22</sTime>
+    <eTime>03/08/2016 11:04:23</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2331" div="1" res="1" cpx="0.1375" />
+      <item idx="440" div="1" res="1" cpx="0.1643" />
+      <item idx="1407" div="0" res="1" cpx="0.1322" />
+      <item idx="1775" div="0" res="1" cpx="0.1322" />
+      <item idx="2878" div="0" res="1" cpx="0.1322" />
+      <item idx="1683" div="0" res="1" cpx="0.1322" />
+      <item idx="1711" div="0" res="1" cpx="0.1322" />
+      <item idx="1971" div="0" res="1" cpx="0.1322" />
+      <item idx="2003" div="0" res="1" cpx="0.1322" />
+      <item idx="588" div="0" res="1" cpx="0.1322" />
+      <item idx="2631" div="0" res="1" cpx="0.1322" />
+      <item idx="2874" div="0" res="1" cpx="0.1322" />
+      <item idx="1259" div="0" res="1" cpx="0.1322" />
+      <item idx="4239" div="0" res="1" cpx="0.1322" />
+      <item idx="20" div="0" res="1" cpx="0.1" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1325</blockCpx>
+    <userAb>0.1422</userAb>
+    <userAb_TB>0.1325</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.175</dtu>
+    <dtl>0.1322</dtl>
+    <freq m="0.22" sd="0.0569" />
+    <conc m="0.11" sd="0.0374" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="3">
+    <sTime>03/08/2016 11:04:23</sTime>
+    <eTime>03/08/2016 11:04:24</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2059" div="1" res="1" cpx="0.1643" />
+      <item idx="1299" div="1" res="1" cpx="0.1643" />
+      <item idx="1723" div="0" res="1" cpx="0.1322" />
+      <item idx="3666" div="0" res="1" cpx="0.1322" />
+      <item idx="1263" div="0" res="1" cpx="0.1375" />
+      <item idx="2866" div="0" res="1" cpx="0.1322" />
+      <item idx="2583" div="0" res="1" cpx="0.1322" />
+      <item idx="160" div="0" res="1" cpx="0.1375" />
+      <item idx="2815" div="0" res="1" cpx="0.1322" />
+      <item idx="1715" div="0" res="1" cpx="0.1322" />
+      <item idx="1447" div="0" res="1" cpx="0.1322" />
+      <item idx="544" div="0" res="1" cpx="0.1322" />
+      <item idx="636" div="0" res="1" cpx="0.1322" />
+      <item idx="3925" div="0" res="1" cpx="0.1322" />
+      <item idx="1435" div="0" res="1" cpx="0.1322" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1372</blockCpx>
+    <userAb>0.1472</userAb>
+    <userAb_TB>0.1372</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.175</dtu>
+    <dtl>0.1322</dtl>
+    <freq m="0.2286" sd="0.0664" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="4">
+    <sTime>03/08/2016 11:04:24</sTime>
+    <eTime>03/08/2016 11:04:25</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>1</bType>
+    <cif>
+      <item idx="884" div="0" res="1" cpx="0.2661" />
+      <item idx="888" div="0" res="1" cpx="0.2339" />
+      <item idx="892" div="0" res="1" cpx="0.1" />
+      <item idx="896" div="0" res="1" cpx="0.1" />
+      <item idx="904" div="0" res="1" cpx="0.1" />
+      <item idx="908" div="0" res="1" cpx="0.1" />
+      <item idx="912" div="0" res="1" cpx="0.1964" />
+      <item idx="916" div="0" res="1" cpx="0.2286" />
+      <item idx="920" div="0" res="1" cpx="0.2286" />
+      <item idx="924" div="0" res="1" cpx="0.1643" />
+      <item idx="928" div="0" res="1" cpx="0.2125" />
+      <item idx="1963" div="0" res="1" cpx="0.2339" />
+      <item idx="1967" div="0" res="1" cpx="0.2607" />
+      <item idx="1975" div="0" res="1" cpx="0.1" />
+      <item idx="1979" div="0" res="1" cpx="0.1" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.175</blockCpx>
+    <userAb>0.1522</userAb>
+    <userAb_TB>0.175</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.175</dtu>
+    <dtl>0.1322</dtl>
+    <freq m="0.34" sd="0.2388" />
+    <conc m="0.16" sd="0.12" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="5">
+    <sTime>03/08/2016 11:04:25</sTime>
+    <eTime>03/08/2016 11:04:25</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="3834" div="1" res="1" cpx="0.1643" />
+      <item idx="1315" div="1" res="1" cpx="0.1643" />
+      <item idx="2611" div="0" res="1" cpx="0.1322" />
+      <item idx="1679" div="0" res="1" cpx="0.1322" />
+      <item idx="2799" div="0" res="1" cpx="0.1322" />
+      <item idx="1775" div="0" res="1" cpx="0.1322" />
+      <item idx="1407" div="0" res="1" cpx="0.1322" />
+      <item idx="1655" div="0" res="1" cpx="0.1322" />
+      <item idx="2003" div="0" res="1" cpx="0.1322" />
+      <item idx="3208" div="0" res="1" cpx="0.1322" />
+      <item idx="2878" div="0" res="1" cpx="0.1322" />
+      <item idx="1683" div="0" res="1" cpx="0.1322" />
+      <item idx="1711" div="0" res="1" cpx="0.1322" />
+      <item idx="1971" div="0" res="1" cpx="0.1322" />
+      <item idx="4307" div="0" res="1" cpx="0.1322" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1365</blockCpx>
+    <userAb>0.1522</userAb>
+    <userAb_TB>0.1365</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.175</dtu>
+    <dtl>0.1322</dtl>
+    <freq m="0.2457" sd="0.0437" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="6">
+    <sTime>03/08/2016 11:04:25</sTime>
+    <eTime>03/08/2016 11:04:26</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1623" div="1" res="1" cpx="0.1643" />
+      <item idx="2731" div="1" res="1" cpx="0.1643" />
+      <item idx="2854" div="0" res="1" cpx="0.1322" />
+      <item idx="1659" div="0" res="1" cpx="0.1322" />
+      <item idx="404" div="0" res="1" cpx="0.1322" />
+      <item idx="1723" div="0" res="1" cpx="0.1322" />
+      <item idx="3666" div="0" res="1" cpx="0.1322" />
+      <item idx="1263" div="0" res="1" cpx="0.1375" />
+      <item idx="2583" div="0" res="1" cpx="0.1322" />
+      <item idx="340" div="0" res="1" cpx="0.1322" />
+      <item idx="3598" div="0" res="1" cpx="0.1322" />
+      <item idx="1231" div="0" res="1" cpx="0.1375" />
+      <item idx="2103" div="0" res="1" cpx="0.1375" />
+      <item idx="3698" div="0" res="1" cpx="0.1322" />
+      <item idx="1047" div="0" res="1" cpx="0.1375" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1379</blockCpx>
+    <userAb>0.1572</userAb>
+    <userAb_TB>0.1379</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.175</dtu>
+    <dtl>0.1322</dtl>
+    <freq m="0.2114" sd="0.0795" />
+    <conc m="0.14" sd="0.0663" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="7">
+    <sTime>03/08/2016 11:04:26</sTime>
+    <eTime>03/08/2016 11:04:29</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1551" div="1" res="1" cpx="0.1643" />
+      <item idx="2299" div="1" res="1" cpx="0.1643" />
+      <item idx="1643" div="0" res="1" cpx="0.1322" />
+      <item idx="1423" div="0" res="1" cpx="0.1322" />
+      <item idx="2862" div="0" res="1" cpx="0.1322" />
+      <item idx="1443" div="0" res="1" cpx="0.1322" />
+      <item idx="408" div="0" res="1" cpx="0.1322" />
+      <item idx="2611" div="0" res="1" cpx="0.1322" />
+      <item idx="2603" div="0" res="1" cpx="0.1322" />
+      <item idx="1651" div="0" res="1" cpx="0.1322" />
+      <item idx="1679" div="0" res="1" cpx="0.1322" />
+      <item idx="2799" div="0" res="1" cpx="0.1322" />
+      <item idx="552" div="0" res="1" cpx="0.1322" />
+      <item idx="160" div="0" res="1" cpx="0.1375" />
+      <item idx="3862" div="0" res="1" cpx="0.1322" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1368</blockCpx>
+    <userAb>0.1622</userAb>
+    <userAb_TB>0.1368</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.175</dtu>
+    <dtl>0.1322</dtl>
+    <freq m="0.2372" sd="0.0568" />
+    <conc m="0.11" sd="0.0374" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="8">
+    <sTime>03/08/2016 11:04:29</sTime>
+    <eTime>03/08/2016 11:04:33</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>1</bType>
+    <cif>
+      <item idx="1983" div="0" res="1" cpx="0.1" />
+      <item idx="1987" div="0" res="1" cpx="0.1" />
+      <item idx="1991" div="0" res="1" cpx="0.1375" />
+      <item idx="1995" div="0" res="1" cpx="0.2125" />
+      <item idx="1999" div="0" res="1" cpx="0.1643" />
+      <item idx="3212" div="0" res="1" cpx="0.1" />
+      <item idx="3216" div="0" res="1" cpx="0.2286" />
+      <item idx="3220" div="0" res="1" cpx="0.2125" />
+      <item idx="4235" div="0" res="1" cpx="0.2661" />
+      <item idx="4271" div="0" res="1" cpx="0.1" />
+      <item idx="4275" div="0" res="1" cpx="0.1322" />
+      <item idx="4279" div="0" res="1" cpx="0.1643" />
+      <item idx="4283" div="0" res="1" cpx="0.175" />
+      <item idx="4631" div="0" res="1" cpx="0.1322" />
+      <item idx="6013" div="0" res="1" cpx="0.1964" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1614</blockCpx>
+    <userAb>0.1672</userAb>
+    <userAb_TB>0.1614</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.1964</dtu>
+    <dtl>0.1375</dtl>
+    <freq m="0.2457" sd="0.187" />
+    <conc m="0.2" sd="0.1612" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="9">
+    <sTime>03/08/2016 11:04:33</sTime>
+    <eTime>03/08/2016 11:04:35</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1183" div="1" res="1" cpx="0.1643" />
+      <item idx="2393" div="1" res="1" cpx="0.1643" />
+      <item idx="596" div="0" res="1" cpx="0.1322" />
+      <item idx="2870" div="0" res="1" cpx="0.1322" />
+      <item idx="620" div="0" res="1" cpx="0.1322" />
+      <item idx="368" div="0" res="1" cpx="0.1322" />
+      <item idx="616" div="0" res="1" cpx="0.1322" />
+      <item idx="3582" div="0" res="1" cpx="0.1322" />
+      <item idx="1459" div="0" res="1" cpx="0.1322" />
+      <item idx="2854" div="0" res="1" cpx="0.1322" />
+      <item idx="1659" div="0" res="1" cpx="0.1322" />
+      <item idx="120" div="0" res="1" cpx="0.1322" />
+      <item idx="3602" div="0" res="1" cpx="0.1322" />
+      <item idx="3654" div="0" res="1" cpx="0.1322" />
+      <item idx="1655" div="0" res="1" cpx="0.1322" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1365</blockCpx>
+    <userAb>0.1672</userAb>
+    <userAb_TB>0.1365</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.1964</dtu>
+    <dtl>0.1375</dtl>
+    <freq m="0.2457" sd="0.0437" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="10">
+    <sTime>03/08/2016 11:04:35</sTime>
+    <eTime>03/08/2016 11:04:36</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="728" div="1" res="1" cpx="0.1697" />
+      <item idx="712" div="1" res="1" cpx="0.1697" />
+      <item idx="292" div="0" res="1" cpx="0.1643" />
+      <item idx="1359" div="0" res="1" cpx="0.1643" />
+      <item idx="2373" div="0" res="1" cpx="0.1643" />
+      <item idx="1319" div="0" res="1" cpx="0.1643" />
+      <item idx="2215" div="0" res="1" cpx="0.1643" />
+      <item idx="36" div="0" res="1" cpx="0.1643" />
+      <item idx="480" div="0" res="1" cpx="0.1643" />
+      <item idx="484" div="0" res="1" cpx="0.1643" />
+      <item idx="3443" div="0" res="1" cpx="0.1643" />
+      <item idx="440" div="0" res="1" cpx="0.1643" />
+      <item idx="2783" div="0" res="1" cpx="0.1643" />
+      <item idx="1623" div="0" res="1" cpx="0.1643" />
+      <item idx="1299" div="0" res="1" cpx="0.1643" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.165</blockCpx>
+    <userAb>0.1722</userAb>
+    <userAb_TB>0.165</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2018</dtu>
+    <dtl>0.1643</dtl>
+    <freq m="0.34" sd="0.0437" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="11">
+    <sTime>03/08/2016 11:04:36</sTime>
+    <eTime>03/08/2016 11:04:38</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2080" div="1" res="1" cpx="0.175" />
+      <item idx="1132" div="1" res="1" cpx="0.175" />
+      <item idx="304" div="0" res="1" cpx="0.1697" />
+      <item idx="3890" div="0" res="1" cpx="0.1697" />
+      <item idx="1747" div="0" res="1" cpx="0.1697" />
+      <item idx="3945" div="0" res="1" cpx="0.1697" />
+      <item idx="1783" div="0" res="1" cpx="0.1697" />
+      <item idx="500" div="0" res="1" cpx="0.1643" />
+      <item idx="196" div="0" res="1" cpx="0.1643" />
+      <item idx="1799" div="0" res="1" cpx="0.1697" />
+      <item idx="2827" div="0" res="1" cpx="0.1697" />
+      <item idx="1079" div="0" res="1" cpx="0.1697" />
+      <item idx="1755" div="0" res="1" cpx="0.1697" />
+      <item idx="724" div="0" res="1" cpx="0.1697" />
+      <item idx="1355" div="0" res="1" cpx="0.1643" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1693</blockCpx>
+    <userAb>0.1772</userAb>
+    <userAb_TB>0.1693</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2072</dtu>
+    <dtl>0.1697</dtl>
+    <freq m="0.2372" sd="0.0737" />
+    <conc m="0.2" sd="0.0707" />
+    <distr m="0.14" sd="0.102" />
+  </block>
+  <block idx="12">
+    <sTime>03/08/2016 11:04:38</sTime>
+    <eTime>03/08/2016 11:04:42</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>1</bType>
+    <cif>
+      <item idx="6017" div="0" res="1" cpx="0.1" />
+      <item idx="6021" div="0" res="1" cpx="0.1964" />
+      <item idx="6025" div="0" res="1" cpx="0.1964" />
+      <item idx="6029" div="0" res="1" cpx="0.2018" />
+      <item idx="6037" div="0" res="1" cpx="0.1" />
+      <item idx="6041" div="0" res="1" cpx="0.1643" />
+      <item idx="6045" div="0" res="1" cpx="0.1964" />
+      <item idx="884" div="0" res="1" cpx="0.2661" />
+      <item idx="888" div="0" res="1" cpx="0.2339" />
+      <item idx="892" div="0" res="1" cpx="0.1" />
+      <item idx="896" div="0" res="1" cpx="0.1" />
+      <item idx="900" div="0" res="1" cpx="0.1643" />
+      <item idx="904" div="0" res="1" cpx="0.1" />
+      <item idx="908" div="0" res="1" cpx="0.1" />
+      <item idx="912" div="0" res="1" cpx="0.1964" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1611</blockCpx>
+    <userAb>0.1822</userAb>
+    <userAb_TB>0.1611</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2072</dtu>
+    <dtl>0.1697</dtl>
+    <freq m="0.3143" sd="0.1858" />
+    <conc m="0.13" sd="0.06" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="13">
+    <sTime>03/08/2016 11:04:42</sTime>
+    <eTime>03/08/2016 11:04:44</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2413" div="1" res="1" cpx="0.1964" />
+      <item idx="1915" div="1" res="1" cpx="0.1964" />
+      <item idx="2024" div="0" res="1" cpx="0.175" />
+      <item idx="3241" div="0" res="1" cpx="0.175" />
+      <item idx="1128" div="0" res="1" cpx="0.175" />
+      <item idx="41" div="0" res="1" cpx="0.175" />
+      <item idx="1032" div="0" res="1" cpx="0.175" />
+      <item idx="5" div="0" res="1" cpx="0.175" />
+      <item idx="77" div="0" res="1" cpx="0.175" />
+      <item idx="85" div="0" res="1" cpx="0.175" />
+      <item idx="2192" div="0" res="1" cpx="0.175" />
+      <item idx="1092" div="0" res="1" cpx="0.175" />
+      <item idx="1088" div="0" res="1" cpx="0.175" />
+      <item idx="1156" div="0" res="1" cpx="0.175" />
+      <item idx="2016" div="0" res="1" cpx="0.175" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1779</blockCpx>
+    <userAb>0.1822</userAb>
+    <userAb_TB>0.1779</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2072</dtu>
+    <dtl>0.1697</dtl>
+    <freq m="0.1514" sd="0.1311" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.36" sd="0.102" />
+  </block>
+  <block idx="14">
+    <sTime>03/08/2016 11:04:44</sTime>
+    <eTime>03/08/2016 11:04:47</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1367" div="1" res="1" cpx="0.1964" />
+      <item idx="1895" div="1" res="1" cpx="0.1964" />
+      <item idx="1116" div="0" res="1" cpx="0.175" />
+      <item idx="3965" div="0" res="1" cpx="0.1697" />
+      <item idx="1739" div="0" res="1" cpx="0.1697" />
+      <item idx="2168" div="0" res="1" cpx="0.175" />
+      <item idx="2056" div="0" res="1" cpx="0.175" />
+      <item idx="3297" div="0" res="1" cpx="0.175" />
+      <item idx="3257" div="0" res="1" cpx="0.175" />
+      <item idx="2080" div="0" res="1" cpx="0.175" />
+      <item idx="1132" div="0" res="1" cpx="0.175" />
+      <item idx="2188" div="0" res="1" cpx="0.175" />
+      <item idx="1025" div="0" res="1" cpx="0.175" />
+      <item idx="45" div="0" res="1" cpx="0.175" />
+      <item idx="2847" div="0" res="1" cpx="0.1697" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1768</blockCpx>
+    <userAb>0.1872</userAb>
+    <userAb_TB>0.1768</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2072</dtu>
+    <dtl>0.1697</dtl>
+    <freq m="0.1771" sd="0.1311" />
+    <conc m="0.13" sd="0.06" />
+    <distr m="0.3" sd="0.1414" />
+  </block>
+  <block idx="15">
+    <sTime>03/08/2016 11:04:47</sTime>
+    <eTime>03/08/2016 11:04:57</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2027" div="1" res="1" cpx="0.1964" />
+      <item idx="1203" div="1" res="1" cpx="0.2018" />
+      <item idx="1743" div="0" res="1" cpx="0.1697" />
+      <item idx="2024" div="0" res="1" cpx="0.175" />
+      <item idx="2902" div="0" res="1" cpx="0.1697" />
+      <item idx="9" div="0" res="1" cpx="0.175" />
+      <item idx="1271" div="0" res="1" cpx="0.175" />
+      <item idx="3241" div="0" res="1" cpx="0.175" />
+      <item idx="1032" div="0" res="1" cpx="0.175" />
+      <item idx="3953" div="0" res="1" cpx="0.1697" />
+      <item idx="1112" div="0" res="1" cpx="0.175" />
+      <item idx="3293" div="0" res="1" cpx="0.175" />
+      <item idx="77" div="0" res="1" cpx="0.175" />
+      <item idx="728" div="0" res="1" cpx="0.1697" />
+      <item idx="304" div="0" res="1" cpx="0.1697" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1764</blockCpx>
+    <userAb>0.1922</userAb>
+    <userAb_TB>0.1764</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2072</dtu>
+    <dtl>0.1697</dtl>
+    <freq m="0.1857" sd="0.1118" />
+    <conc m="0.18" sd="0.0927" />
+    <distr m="0.24" sd="0.1497" />
+  </block>
+  <block idx="16">
+    <sTime>03/08/2016 11:04:57</sTime>
+    <eTime>03/08/2016 11:04:57</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>1</bType>
+    <cif>
+      <item idx="6949" div="0" res="1" cpx="0.3411" />
+      <item idx="6961" div="0" res="1" cpx="0.2768" />
+      <item idx="6965" div="0" res="1" cpx="0.2768" />
+      <item idx="6973" div="0" res="1" cpx="0.2768" />
+      <item idx="6977" div="0" res="1" cpx="0.2125" />
+      <item idx="6985" div="0" res="1" cpx="0.25" />
+      <item idx="7307" div="0" res="1" cpx="0.3089" />
+      <item idx="7311" div="0" res="1" cpx="0.2125" />
+      <item idx="11252" div="0" res="1" cpx="0.4107" />
+      <item idx="11256" div="0" res="1" cpx="0.4161" />
+      <item idx="11260" div="0" res="1" cpx="0.2125" />
+      <item idx="11264" div="0" res="1" cpx="0.3143" />
+      <item idx="11268" div="0" res="1" cpx="0.25" />
+      <item idx="11272" div="0" res="1" cpx="0.2822" />
+      <item idx="11276" div="0" res="1" cpx="0.4268" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2979</blockCpx>
+    <userAb>0.1972</userAb>
+    <userAb_TB>0.2979</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2125</dtu>
+    <dtl>0.175</dtl>
+    <freq m="0.3314" sd="0.2057" />
+    <conc m="0.21" sd="0.1594" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="17">
+    <sTime>03/08/2016 11:04:58</sTime>
+    <eTime>03/08/2016 11:04:58</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2508" div="1" res="1" cpx="0.1964" />
+      <item idx="476" div="1" res="1" cpx="0.1964" />
+      <item idx="1116" div="0" res="1" cpx="0.175" />
+      <item idx="3965" div="0" res="1" cpx="0.1697" />
+      <item idx="3890" div="0" res="1" cpx="0.1697" />
+      <item idx="2184" div="0" res="1" cpx="0.175" />
+      <item idx="85" div="0" res="1" cpx="0.175" />
+      <item idx="712" div="0" res="1" cpx="0.1697" />
+      <item idx="3273" div="0" res="1" cpx="0.175" />
+      <item idx="2288" div="0" res="1" cpx="0.175" />
+      <item idx="33" div="0" res="1" cpx="0.175" />
+      <item idx="2192" div="0" res="1" cpx="0.175" />
+      <item idx="997" div="0" res="1" cpx="0.175" />
+      <item idx="1747" div="0" res="1" cpx="0.1697" />
+      <item idx="3945" div="0" res="1" cpx="0.1697" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1761</blockCpx>
+    <userAb>0.1972</userAb>
+    <userAb_TB>0.1761</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2125</dtu>
+    <dtl>0.175</dtl>
+    <freq m="0.1943" sd="0.1283" />
+    <conc m="0.15" sd="0.0707" />
+    <distr m="0.26" sd="0.1497" />
+  </block>
+  <block idx="18">
+    <sTime>03/08/2016 11:04:58</sTime>
+    <eTime>03/08/2016 11:04:59</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="260" div="1" res="1" cpx="0.2018" />
+      <item idx="1544" div="1" res="1" cpx="0.2072" />
+      <item idx="808" div="0" res="1" cpx="0.1964" />
+      <item idx="3124" div="0" res="1" cpx="0.1964" />
+      <item idx="2413" div="0" res="1" cpx="0.1964" />
+      <item idx="1915" div="0" res="1" cpx="0.1964" />
+      <item idx="1367" div="0" res="1" cpx="0.1964" />
+      <item idx="1895" div="0" res="1" cpx="0.1964" />
+      <item idx="2027" div="0" res="1" cpx="0.1964" />
+      <item idx="3096" div="0" res="1" cpx="0.1964" />
+      <item idx="1923" div="0" res="1" cpx="0.1964" />
+      <item idx="1887" div="0" res="1" cpx="0.1964" />
+      <item idx="840" div="0" res="1" cpx="0.1964" />
+      <item idx="1919" div="0" res="1" cpx="0.1964" />
+      <item idx="1335" div="0" res="1" cpx="0.1964" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.1975</blockCpx>
+    <userAb>0.2022</userAb>
+    <userAb_TB>0.1975</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2286</dtu>
+    <dtl>0.1964</dtl>
+    <freq m="0.46" sd="0.0696" />
+    <conc m="0.11" sd="0.0374" />
+    <distr m="0.12" sd="0.0748" />
+  </block>
+  <block idx="19">
+    <sTime>03/08/2016 11:04:59</sTime>
+    <eTime>03/08/2016 11:05:00</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1843" div="1" res="1" cpx="0.2072" />
+      <item idx="2812" div="1" res="1" cpx="0.2072" />
+      <item idx="2421" div="0" res="1" cpx="0.2018" />
+      <item idx="4334" div="0" res="1" cpx="0.2018" />
+      <item idx="1203" div="0" res="1" cpx="0.2018" />
+      <item idx="2123" div="0" res="1" cpx="0.2018" />
+      <item idx="1039" div="0" res="1" cpx="0.2018" />
+      <item idx="116" div="0" res="1" cpx="0.2018" />
+      <item idx="1363" div="0" res="1" cpx="0.2018" />
+      <item idx="2791" div="0" res="1" cpx="0.2018" />
+      <item idx="276" div="0" res="1" cpx="0.2018" />
+      <item idx="2508" div="0" res="1" cpx="0.1964" />
+      <item idx="476" div="0" res="1" cpx="0.1964" />
+      <item idx="1135" div="0" res="1" cpx="0.1964" />
+      <item idx="3284" div="0" res="1" cpx="0.1964" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2011</blockCpx>
+    <userAb>0.2072</userAb>
+    <userAb_TB>0.2011</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2339</dtu>
+    <dtl>0.2018</dtl>
+    <freq m="0.3743" sd="0.0795" />
+    <conc m="0.21" sd="0.086" />
+    <distr m="0.12" sd="0.0748" />
+  </block>
+  <block idx="20">
+    <sTime>03/08/2016 11:05:00</sTime>
+    <eTime>03/08/2016 11:05:01</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="153" div="1" res="1" cpx="0.2125" />
+      <item idx="53" div="1" res="1" cpx="0.2125" />
+      <item idx="1688" div="0" res="1" cpx="0.2072" />
+      <item idx="1768" div="0" res="1" cpx="0.2072" />
+      <item idx="2520" div="0" res="1" cpx="0.2072" />
+      <item idx="4484" div="0" res="1" cpx="0.2072" />
+      <item idx="565" div="0" res="1" cpx="0.2072" />
+      <item idx="1847" div="0" res="1" cpx="0.2072" />
+      <item idx="3651" div="0" res="1" cpx="0.2072" />
+      <item idx="1764" div="0" res="1" cpx="0.2072" />
+      <item idx="417" div="0" res="1" cpx="0.2072" />
+      <item idx="1504" div="0" res="1" cpx="0.2072" />
+      <item idx="2528" div="0" res="1" cpx="0.2072" />
+      <item idx="1640" div="0" res="1" cpx="0.2072" />
+      <item idx="1432" div="0" res="1" cpx="0.2072" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2079</blockCpx>
+    <userAb>0.2122</userAb>
+    <userAb_TB>0.2079</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2339</dtu>
+    <dtl>0.2018</dtl>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.14" sd="0.086" />
+    <distr m="0.38" sd="0.0748" />
+  </block>
+  <block idx="21">
+    <sTime>03/08/2016 11:05:01</sTime>
+    <eTime>03/08/2016 11:05:01</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1268" div="1" res="1" cpx="0.2125" />
+      <item idx="4362" div="1" res="1" cpx="0.2125" />
+      <item idx="17" div="0" res="1" cpx="0.2072" />
+      <item idx="1452" div="0" res="1" cpx="0.2072" />
+      <item idx="2600" div="0" res="1" cpx="0.2072" />
+      <item idx="752" div="0" res="1" cpx="0.2072" />
+      <item idx="1815" div="0" res="1" cpx="0.2072" />
+      <item idx="2844" div="0" res="1" cpx="0.2072" />
+      <item idx="1440" div="0" res="1" cpx="0.2072" />
+      <item idx="1692" div="0" res="1" cpx="0.2072" />
+      <item idx="681" div="0" res="1" cpx="0.2072" />
+      <item idx="693" div="0" res="1" cpx="0.2072" />
+      <item idx="641" div="0" res="1" cpx="0.2072" />
+      <item idx="2576" div="0" res="1" cpx="0.2072" />
+      <item idx="413" div="0" res="1" cpx="0.2072" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2079</blockCpx>
+    <userAb>0.2172</userAb>
+    <userAb_TB>0.2079</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2393</dtu>
+    <dtl>0.2072</dtl>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.16" sd="0.1068" />
+    <distr m="0.36" sd="0.102" />
+  </block>
+  <block idx="22">
+    <sTime>03/08/2016 11:05:01</sTime>
+    <eTime>03/08/2016 11:05:02</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="7327" div="0" res="1" cpx="0.2125" />
+      <item idx="6427" div="0" res="1" cpx="0.2125" />
+      <item idx="6989" div="0" res="1" cpx="0.2125" />
+      <item idx="7177" div="0" res="1" cpx="0.2125" />
+      <item idx="6256" div="0" res="1" cpx="0.2125" />
+      <item idx="6272" div="0" res="1" cpx="0.2125" />
+      <item idx="7121" div="0" res="1" cpx="0.2125" />
+      <item idx="6232" div="0" res="1" cpx="0.2125" />
+      <item idx="6220" div="0" res="1" cpx="0.2125" />
+      <item idx="6196" div="0" res="1" cpx="0.2125" />
+      <item idx="7109" div="0" res="1" cpx="0.2125" />
+      <item idx="6236" div="0" res="1" cpx="0.2125" />
+      <item idx="6053" div="0" res="1" cpx="0.2125" />
+      <item idx="6244" div="0" res="1" cpx="0.2125" />
+      <item idx="6240" div="0" res="1" cpx="0.2125" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2125</blockCpx>
+    <userAb>0.2222</userAb>
+    <userAb_TB>0.2125</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2393</dtu>
+    <dtl>0.2072</dtl>
+    <freq m="0.1" sd="0" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="23">
+    <sTime>03/08/2016 11:05:02</sTime>
+    <eTime>03/08/2016 11:05:03</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1372" div="1" res="1" cpx="0.2393" />
+      <item idx="289" div="1" res="1" cpx="0.2393" />
+      <item idx="1960" div="0" res="1" cpx="0.2072" />
+      <item idx="2851" div="0" res="1" cpx="0.2072" />
+      <item idx="385" div="0" res="1" cpx="0.2125" />
+      <item idx="1021" div="0" res="1" cpx="0.2125" />
+      <item idx="1472" div="0" res="1" cpx="0.2125" />
+      <item idx="153" div="0" res="1" cpx="0.2125" />
+      <item idx="149" div="0" res="1" cpx="0.2125" />
+      <item idx="113" div="0" res="1" cpx="0.2125" />
+      <item idx="585" div="0" res="1" cpx="0.2072" />
+      <item idx="17" div="0" res="1" cpx="0.2072" />
+      <item idx="549" div="0" res="1" cpx="0.2072" />
+      <item idx="1244" div="0" res="1" cpx="0.2125" />
+      <item idx="1208" div="0" res="1" cpx="0.2072" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.214</blockCpx>
+    <userAb>0.2272</userAb>
+    <userAb_TB>0.214</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2393</dtu>
+    <dtl>0.2072</dtl>
+    <freq m="0.1857" sd="0.0899" />
+    <conc m="0.17" sd="0.0748" />
+    <distr m="0.4" sd="0" />
+  </block>
+  <block idx="24">
+    <sTime>03/08/2016 11:05:03</sTime>
+    <eTime>03/08/2016 11:05:03</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="6192" div="0" res="1" cpx="0.2125" />
+      <item idx="7327" div="0" res="1" cpx="0.2125" />
+      <item idx="6427" div="0" res="1" cpx="0.2125" />
+      <item idx="6240" div="0" res="1" cpx="0.2125" />
+      <item idx="10352" div="0" res="1" cpx="0.2125" />
+      <item idx="6989" div="0" res="1" cpx="0.2125" />
+      <item idx="7177" div="0" res="1" cpx="0.2125" />
+      <item idx="6256" div="0" res="1" cpx="0.2125" />
+      <item idx="6272" div="0" res="1" cpx="0.2125" />
+      <item idx="7121" div="0" res="1" cpx="0.2125" />
+      <item idx="6232" div="0" res="1" cpx="0.2125" />
+      <item idx="6220" div="0" res="1" cpx="0.2125" />
+      <item idx="6196" div="0" res="1" cpx="0.2125" />
+      <item idx="7097" div="0" res="1" cpx="0.2125" />
+      <item idx="7109" div="0" res="1" cpx="0.2125" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2125</blockCpx>
+    <userAb>0.2322</userAb>
+    <userAb_TB>0.2125</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2447</dtu>
+    <dtl>0.2125</dtl>
+    <freq m="0.1" sd="0" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="25">
+    <sTime>03/08/2016 11:05:03</sTime>
+    <eTime>03/08/2016 11:05:04</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1600" div="1" res="1" cpx="0.2393" />
+      <item idx="573" div="1" res="1" cpx="0.2393" />
+      <item idx="2755" div="0" res="1" cpx="0.2286" />
+      <item idx="3144" div="0" res="1" cpx="0.2286" />
+      <item idx="3369" div="0" res="1" cpx="0.2125" />
+      <item idx="2308" div="0" res="1" cpx="0.2125" />
+      <item idx="1268" div="0" res="1" cpx="0.2125" />
+      <item idx="2449" div="0" res="1" cpx="0.2286" />
+      <item idx="2304" div="0" res="1" cpx="0.2125" />
+      <item idx="2280" div="0" res="1" cpx="0.2125" />
+      <item idx="1056" div="0" res="1" cpx="0.2125" />
+      <item idx="53" div="0" res="1" cpx="0.2125" />
+      <item idx="1252" div="0" res="1" cpx="0.2125" />
+      <item idx="4362" div="0" res="1" cpx="0.2125" />
+      <item idx="856" div="0" res="1" cpx="0.2286" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2204</blockCpx>
+    <userAb>0.2372</userAb>
+    <userAb_TB>0.2204</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.25</dtu>
+    <dtl>0.2286</dtl>
+    <freq m="0.2714" sd="0.2235" />
+    <conc m="0.19" sd="0.0735" />
+    <distr m="0.32" sd="0.1327" />
+  </block>
+  <block idx="26">
+    <sTime>03/08/2016 11:05:04</sTime>
+    <eTime>03/08/2016 11:05:05</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2699" div="1" res="1" cpx="0.2393" />
+      <item idx="2358" div="1" res="1" cpx="0.2393" />
+      <item idx="2477" div="0" res="1" cpx="0.2286" />
+      <item idx="192" div="0" res="1" cpx="0.2339" />
+      <item idx="1963" div="0" res="1" cpx="0.2339" />
+      <item idx="512" div="0" res="1" cpx="0.2339" />
+      <item idx="2500" div="0" res="1" cpx="0.2339" />
+      <item idx="972" div="0" res="1" cpx="0.2339" />
+      <item idx="4199" div="0" res="1" cpx="0.2286" />
+      <item idx="3539" div="0" res="1" cpx="0.2286" />
+      <item idx="2119" div="0" res="1" cpx="0.2286" />
+      <item idx="3140" div="0" res="1" cpx="0.2286" />
+      <item idx="3288" div="0" res="1" cpx="0.2286" />
+      <item idx="3798" div="0" res="1" cpx="0.2286" />
+      <item idx="2227" div="0" res="1" cpx="0.2286" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2318</blockCpx>
+    <userAb>0.2422</userAb>
+    <userAb_TB>0.2318</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2607</dtu>
+    <dtl>0.2339</dtl>
+    <freq m="0.5371" sd="0.0915" />
+    <conc m="0.17" sd="0.0927" />
+    <distr m="0.12" sd="0.0748" />
+  </block>
+  <block idx="27">
+    <sTime>03/08/2016 11:05:05</sTime>
+    <eTime>03/08/2016 11:05:05</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2824" div="1" res="1" cpx="0.2447" />
+      <item idx="649" div="1" res="1" cpx="0.2447" />
+      <item idx="1400" div="0" res="1" cpx="0.2393" />
+      <item idx="1515" div="0" res="1" cpx="0.2393" />
+      <item idx="792" div="0" res="1" cpx="0.2393" />
+      <item idx="1511" div="0" res="1" cpx="0.2393" />
+      <item idx="221" div="0" res="1" cpx="0.2393" />
+      <item idx="537" div="0" res="1" cpx="0.2393" />
+      <item idx="2708" div="0" res="1" cpx="0.2393" />
+      <item idx="2410" div="0" res="1" cpx="0.2393" />
+      <item idx="201" div="0" res="1" cpx="0.2393" />
+      <item idx="1612" div="0" res="1" cpx="0.2393" />
+      <item idx="1148" div="0" res="1" cpx="0.2393" />
+      <item idx="1324" div="0" res="1" cpx="0.2393" />
+      <item idx="2354" div="0" res="1" cpx="0.2393" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.24</blockCpx>
+    <userAb>0.2472</userAb>
+    <userAb_TB>0.24</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2661</dtu>
+    <dtl>0.2393</dtl>
+    <freq m="0.34" sd="0.0437" />
+    <conc m="0.18" sd="0.1208" />
+    <distr m="0.34" sd="0.12" />
+  </block>
+  <block idx="28">
+    <sTime>03/08/2016 11:05:06</sTime>
+    <eTime>03/08/2016 11:05:06</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="6407" div="1" res="1" cpx="0.25" />
+      <item idx="6379" div="1" res="1" cpx="0.25" />
+      <item idx="6311" div="0" res="1" cpx="0.2447" />
+      <item idx="7185" div="0" res="1" cpx="0.2447" />
+      <item idx="6097" div="0" res="1" cpx="0.2447" />
+      <item idx="7315" div="0" res="1" cpx="0.2447" />
+      <item idx="7343" div="0" res="1" cpx="0.2447" />
+      <item idx="7193" div="0" res="1" cpx="0.2447" />
+      <item idx="7053" div="0" res="1" cpx="0.2447" />
+      <item idx="10442" div="0" res="1" cpx="0.2447" />
+      <item idx="6176" div="0" res="1" cpx="0.2447" />
+      <item idx="10682" div="0" res="1" cpx="0.2447" />
+      <item idx="6945" div="0" res="1" cpx="0.2447" />
+      <item idx="6399" div="0" res="1" cpx="0.2447" />
+      <item idx="6061" div="0" res="1" cpx="0.2447" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2454</blockCpx>
+    <userAb>0.2522</userAb>
+    <userAb_TB>0.2454</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2714</dtu>
+    <dtl>0.2447</dtl>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="29">
+    <sTime>03/08/2016 11:05:06</sTime>
+    <eTime>03/08/2016 11:05:07</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="868" div="1" res="1" cpx="0.2661" />
+      <item idx="1340" div="1" res="1" cpx="0.2714" />
+      <item idx="1010" div="0" res="1" cpx="0.25" />
+      <item idx="2101" div="0" res="1" cpx="0.25" />
+      <item idx="3302" div="0" res="1" cpx="0.25" />
+      <item idx="2049" div="0" res="1" cpx="0.25" />
+      <item idx="1018" div="0" res="1" cpx="0.25" />
+      <item idx="717" div="0" res="1" cpx="0.2447" />
+      <item idx="1220" div="0" res="1" cpx="0.25" />
+      <item idx="934" div="0" res="1" cpx="0.25" />
+      <item idx="1556" div="0" res="1" cpx="0.2447" />
+      <item idx="1989" div="0" res="1" cpx="0.25" />
+      <item idx="4852" div="0" res="1" cpx="0.2447" />
+      <item idx="2077" div="0" res="1" cpx="0.25" />
+      <item idx="82" div="0" res="1" cpx="0.25" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2514</blockCpx>
+    <userAb>0.2572</userAb>
+    <userAb_TB>0.2514</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2714</dtu>
+    <dtl>0.2447</dtl>
+    <freq m="0.1857" sd="0.1533" />
+    <conc m="0.16" sd="0.0917" />
+    <distr m="0.56" sd="0.1855" />
+  </block>
+  <block idx="30">
+    <sTime>03/08/2016 11:05:07</sTime>
+    <eTime>03/08/2016 11:05:08</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="10478" div="0" res="1" cpx="0.2447" />
+      <item idx="6391" div="0" res="1" cpx="0.25" />
+      <item idx="6407" div="0" res="1" cpx="0.25" />
+      <item idx="6379" div="0" res="1" cpx="0.25" />
+      <item idx="6299" div="0" res="1" cpx="0.25" />
+      <item idx="6311" div="0" res="1" cpx="0.2447" />
+      <item idx="7185" div="0" res="1" cpx="0.2447" />
+      <item idx="6383" div="0" res="1" cpx="0.25" />
+      <item idx="6097" div="0" res="1" cpx="0.2447" />
+      <item idx="10337" div="0" res="1" cpx="0.2447" />
+      <item idx="7205" div="0" res="1" cpx="0.25" />
+      <item idx="6339" div="0" res="1" cpx="0.25" />
+      <item idx="10643" div="0" res="1" cpx="0.25" />
+      <item idx="6077" div="0" res="1" cpx="0.25" />
+      <item idx="7315" div="0" res="1" cpx="0.2447" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2479</blockCpx>
+    <userAb>0.2622</userAb>
+    <userAb_TB>0.2479</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2768</dtu>
+    <dtl>0.25</dtl>
+    <freq m="0.1514" sd="0.063" />
+    <conc m="0.19" sd="0.0735" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="31">
+    <sTime>03/08/2016 11:05:08</sTime>
+    <eTime>03/08/2016 11:05:08</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="868" div="1" res="1" cpx="0.2661" />
+      <item idx="2208" div="1" res="1" cpx="0.2714" />
+      <item idx="1010" div="0" res="1" cpx="0.25" />
+      <item idx="1883" div="0" res="1" cpx="0.2607" />
+      <item idx="6007" div="0" res="1" cpx="0.25" />
+      <item idx="2045" div="0" res="1" cpx="0.25" />
+      <item idx="2165" div="0" res="1" cpx="0.25" />
+      <item idx="3302" div="0" res="1" cpx="0.25" />
+      <item idx="1879" div="0" res="1" cpx="0.2607" />
+      <item idx="14" div="0" res="1" cpx="0.25" />
+      <item idx="5959" div="0" res="1" cpx="0.25" />
+      <item idx="5243" div="0" res="1" cpx="0.25" />
+      <item idx="2049" div="0" res="1" cpx="0.25" />
+      <item idx="910" div="0" res="1" cpx="0.25" />
+      <item idx="934" div="0" res="1" cpx="0.25" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2539</blockCpx>
+    <userAb>0.2672</userAb>
+    <userAb_TB>0.2539</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2822</dtu>
+    <dtl>0.2607</dtl>
+    <freq m="0.2457" sd="0.2478" />
+    <conc m="0.11" sd="0.0374" />
+    <distr m="0.56" sd="0.2417" />
+  </block>
+  <block idx="32">
+    <sTime>03/08/2016 11:05:09</sTime>
+    <eTime>03/08/2016 11:05:09</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="825" div="1" res="1" cpx="0.2714" />
+      <item idx="1532" div="1" res="1" cpx="0.2714" />
+      <item idx="2683" div="0" res="1" cpx="0.2661" />
+      <item idx="1951" div="0" res="1" cpx="0.2661" />
+      <item idx="3156" div="0" res="1" cpx="0.2661" />
+      <item idx="1955" div="0" res="1" cpx="0.2661" />
+      <item idx="3722" div="0" res="1" cpx="0.2661" />
+      <item idx="3164" div="0" res="1" cpx="0.2661" />
+      <item idx="3738" div="0" res="1" cpx="0.2661" />
+      <item idx="2663" div="0" res="1" cpx="0.2661" />
+      <item idx="2767" div="0" res="1" cpx="0.2661" />
+      <item idx="884" div="0" res="1" cpx="0.2661" />
+      <item idx="1947" div="0" res="1" cpx="0.2661" />
+      <item idx="2429" div="0" res="1" cpx="0.2661" />
+      <item idx="3726" div="0" res="1" cpx="0.2661" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2668</blockCpx>
+    <userAb>0.2722</userAb>
+    <userAb_TB>0.2668</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2875</dtu>
+    <dtl>0.2661</dtl>
+    <freq m="0.5972" sd="0.0437" />
+    <conc m="0.23" sd="0.051" />
+    <distr m="0.14" sd="0.102" />
+  </block>
+  <block idx="33">
+    <sTime>03/08/2016 11:05:10</sTime>
+    <eTime>03/08/2016 11:05:10</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1469" div="1" res="1" cpx="0.2822" />
+      <item idx="745" div="1" res="1" cpx="0.2822" />
+      <item idx="3571" div="0" res="1" cpx="0.2714" />
+      <item idx="1180" div="0" res="1" cpx="0.2714" />
+      <item idx="1340" div="0" res="1" cpx="0.2714" />
+      <item idx="1892" div="0" res="1" cpx="0.2714" />
+      <item idx="3085" div="0" res="1" cpx="0.2714" />
+      <item idx="829" div="0" res="1" cpx="0.2714" />
+      <item idx="49" div="0" res="1" cpx="0.2714" />
+      <item idx="833" div="0" res="1" cpx="0.2714" />
+      <item idx="1900" div="0" res="1" cpx="0.2714" />
+      <item idx="2208" div="0" res="1" cpx="0.2714" />
+      <item idx="1580" div="0" res="1" cpx="0.2714" />
+      <item idx="249" div="0" res="1" cpx="0.2714" />
+      <item idx="4959" div="0" res="1" cpx="0.2714" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2728</blockCpx>
+    <userAb>0.2772</userAb>
+    <userAb_TB>0.2728</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2929</dtu>
+    <dtl>0.2714</dtl>
+    <freq m="0.4514" sd="0.0874" />
+    <conc m="0.12" sd="0.0748" />
+    <distr m="0.42" sd="0.0748" />
+  </block>
+  <block idx="34">
+    <sTime>03/08/2016 11:05:10</sTime>
+    <eTime>03/08/2016 11:05:11</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="10881" div="1" res="1" cpx="0.2875" />
+      <item idx="10368" div="1" res="1" cpx="0.2875" />
+      <item idx="11288" div="0" res="1" cpx="0.2768" />
+      <item idx="6180" div="0" res="1" cpx="0.2768" />
+      <item idx="7009" div="0" res="1" cpx="0.2768" />
+      <item idx="6615" div="0" res="1" cpx="0.2768" />
+      <item idx="7339" div="0" res="1" cpx="0.2768" />
+      <item idx="6583" div="0" res="1" cpx="0.2768" />
+      <item idx="6643" div="0" res="1" cpx="0.2768" />
+      <item idx="6639" div="0" res="1" cpx="0.2768" />
+      <item idx="6567" div="0" res="1" cpx="0.2768" />
+      <item idx="6144" div="0" res="1" cpx="0.2768" />
+      <item idx="6475" div="0" res="1" cpx="0.2768" />
+      <item idx="6347" div="0" res="1" cpx="0.2768" />
+      <item idx="6539" div="0" res="1" cpx="0.2768" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2782</blockCpx>
+    <userAb>0.2822</userAb>
+    <userAb_TB>0.2782</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2982</dtu>
+    <dtl>0.2768</dtl>
+    <freq m="0.3228" sd="0.0874" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.14" sd="0.102" />
+  </block>
+  <block idx="35">
+    <sTime>03/08/2016 11:05:11</sTime>
+    <eTime>03/08/2016 11:05:12</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="150" div="1" res="1" cpx="0.2875" />
+      <item idx="1201" div="1" res="1" cpx="0.2875" />
+      <item idx="781" div="0" res="1" cpx="0.2822" />
+      <item idx="3712" div="0" res="1" cpx="0.2822" />
+      <item idx="4868" div="0" res="1" cpx="0.2822" />
+      <item idx="2809" div="0" res="1" cpx="0.2822" />
+      <item idx="761" div="0" res="1" cpx="0.2822" />
+      <item idx="2549" div="0" res="1" cpx="0.2822" />
+      <item idx="1649" div="0" res="1" cpx="0.2822" />
+      <item idx="2931" div="0" res="1" cpx="0.2822" />
+      <item idx="1856" div="0" res="1" cpx="0.2822" />
+      <item idx="1840" div="0" res="1" cpx="0.2822" />
+      <item idx="1820" div="0" res="1" cpx="0.2822" />
+      <item idx="1469" div="0" res="1" cpx="0.2822" />
+      <item idx="686" div="0" res="1" cpx="0.2822" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2829</blockCpx>
+    <userAb>0.2872</userAb>
+    <userAb_TB>0.2829</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.2982</dtu>
+    <dtl>0.2768</dtl>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.26" sd="0.1393" />
+    <distr m="0.56" sd="0.1497" />
+  </block>
+  <block idx="36">
+    <sTime>03/08/2016 11:05:12</sTime>
+    <eTime>03/08/2016 11:05:13</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12385" div="1" res="1" cpx="0.2875" />
+      <item idx="10881" div="1" res="1" cpx="0.2875" />
+      <item idx="12462" div="0" res="1" cpx="0.2768" />
+      <item idx="11288" div="0" res="1" cpx="0.2768" />
+      <item idx="6180" div="0" res="1" cpx="0.2768" />
+      <item idx="7009" div="0" res="1" cpx="0.2768" />
+      <item idx="6615" div="0" res="1" cpx="0.2768" />
+      <item idx="7339" div="0" res="1" cpx="0.2768" />
+      <item idx="6583" div="0" res="1" cpx="0.2768" />
+      <item idx="7017" div="0" res="1" cpx="0.2768" />
+      <item idx="10841" div="0" res="1" cpx="0.2822" />
+      <item idx="6643" div="0" res="1" cpx="0.2768" />
+      <item idx="6639" div="0" res="1" cpx="0.2768" />
+      <item idx="6567" div="0" res="1" cpx="0.2768" />
+      <item idx="6144" div="0" res="1" cpx="0.2768" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2786</blockCpx>
+    <userAb>0.2922</userAb>
+    <userAb_TB>0.2786</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3036</dtu>
+    <dtl>0.2822</dtl>
+    <freq m="0.3143" sd="0.0899" />
+    <conc m="0.13" sd="0.0812" />
+    <distr m="0.12" sd="0.0748" />
+  </block>
+  <block idx="37">
+    <sTime>03/08/2016 11:05:13</sTime>
+    <eTime>03/08/2016 11:05:13</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2982" div="1" res="1" cpx="0.3036" />
+      <item idx="3137" div="1" res="1" cpx="0.3036" />
+      <item idx="141" div="0" res="1" cpx="0.2875" />
+      <item idx="2160" div="0" res="1" cpx="0.2822" />
+      <item idx="2333" div="0" res="1" cpx="0.2875" />
+      <item idx="1417" div="0" res="1" cpx="0.2822" />
+      <item idx="1501" div="0" res="1" cpx="0.2822" />
+      <item idx="745" div="0" res="1" cpx="0.2822" />
+      <item idx="1057" div="0" res="1" cpx="0.2875" />
+      <item idx="3632" div="0" res="1" cpx="0.2822" />
+      <item idx="346" div="0" res="1" cpx="0.2822" />
+      <item idx="2852" div="0" res="1" cpx="0.2822" />
+      <item idx="781" div="0" res="1" cpx="0.2822" />
+      <item idx="1493" div="0" res="1" cpx="0.2822" />
+      <item idx="1693" div="0" res="1" cpx="0.2822" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2861</blockCpx>
+    <userAb>0.2972</userAb>
+    <userAb_TB>0.2861</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3089</dtu>
+    <dtl>0.2875</dtl>
+    <freq m="0.2543" sd="0.1499" />
+    <conc m="0.23" sd="0.1536" />
+    <distr m="0.56" sd="0.1855" />
+  </block>
+  <block idx="38">
+    <sTime>03/08/2016 11:05:14</sTime>
+    <eTime>03/08/2016 11:05:14</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="7351" div="1" res="1" cpx="0.3089" />
+      <item idx="6559" div="1" res="1" cpx="0.3089" />
+      <item idx="10368" div="0" res="1" cpx="0.2875" />
+      <item idx="12385" div="0" res="1" cpx="0.2875" />
+      <item idx="6261" div="0" res="1" cpx="0.2875" />
+      <item idx="6189" div="0" res="1" cpx="0.2875" />
+      <item idx="7230" div="0" res="1" cpx="0.2875" />
+      <item idx="6323" div="0" res="1" cpx="0.2875" />
+      <item idx="10881" div="0" res="1" cpx="0.2875" />
+      <item idx="6058" div="0" res="1" cpx="0.2875" />
+      <item idx="6217" div="0" res="1" cpx="0.2875" />
+      <item idx="7094" div="0" res="1" cpx="0.2875" />
+      <item idx="7110" div="0" res="1" cpx="0.2875" />
+      <item idx="6233" div="0" res="1" cpx="0.2875" />
+      <item idx="10593" div="0" res="1" cpx="0.2875" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2904</blockCpx>
+    <userAb>0.3022</userAb>
+    <userAb_TB>0.2904</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3143</dtu>
+    <dtl>0.2929</dtl>
+    <freq m="0.1514" sd="0.1311" />
+    <conc m="0.14" sd="0.102" />
+    <distr m="0.32" sd="0.1327" />
+  </block>
+  <block idx="39">
+    <sTime>03/08/2016 11:05:15</sTime>
+    <eTime>03/08/2016 11:05:15</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="5575" div="1" res="1" cpx="0.3036" />
+      <item idx="2974" div="1" res="1" cpx="0.3036" />
+      <item idx="3026" div="0" res="1" cpx="0.2982" />
+      <item idx="4065" div="0" res="1" cpx="0.2929" />
+      <item idx="4922" div="0" res="1" cpx="0.2929" />
+      <item idx="796" div="0" res="1" cpx="0.2982" />
+      <item idx="700" div="0" res="1" cpx="0.2982" />
+      <item idx="1779" div="0" res="1" cpx="0.2982" />
+      <item idx="4069" div="0" res="1" cpx="0.2929" />
+      <item idx="5615" div="0" res="1" cpx="0.2929" />
+      <item idx="3018" div="0" res="1" cpx="0.2929" />
+      <item idx="4085" div="0" res="1" cpx="0.2982" />
+      <item idx="3547" div="0" res="1" cpx="0.2929" />
+      <item idx="2994" div="0" res="1" cpx="0.2929" />
+      <item idx="5611" div="0" res="1" cpx="0.2929" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.2961</blockCpx>
+    <userAb>0.3072</userAb>
+    <userAb_TB>0.2961</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3197</dtu>
+    <dtl>0.2982</dtl>
+    <freq m="0.7943" sd="0.0915" />
+    <conc m="0.19" sd="0.1068" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="40">
+    <sTime>03/08/2016 11:05:15</sTime>
+    <eTime>03/08/2016 11:05:16</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="106" div="1" res="1" cpx="0.3143" />
+      <item idx="2724" div="1" res="1" cpx="0.3143" />
+      <item idx="2982" div="0" res="1" cpx="0.3036" />
+      <item idx="3137" div="0" res="1" cpx="0.3036" />
+      <item idx="2458" div="0" res="1" cpx="0.3036" />
+      <item idx="2970" div="0" res="1" cpx="0.3036" />
+      <item idx="788" div="0" res="1" cpx="0.3036" />
+      <item idx="265" div="0" res="1" cpx="0.3036" />
+      <item idx="860" div="0" res="1" cpx="0.3036" />
+      <item idx="1939" div="0" res="1" cpx="0.3036" />
+      <item idx="3217" div="0" res="1" cpx="0.3036" />
+      <item idx="1863" div="0" res="1" cpx="0.3036" />
+      <item idx="3133" div="0" res="1" cpx="0.3036" />
+      <item idx="4192" div="0" res="1" cpx="0.3036" />
+      <item idx="857" div="0" res="1" cpx="0.3036" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.305</blockCpx>
+    <userAb>0.3122</userAb>
+    <userAb_TB>0.305</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.325</dtu>
+    <dtl>0.3036</dtl>
+    <freq m="0.58" sd="0.0874" />
+    <conc m="0.24" sd="0.1497" />
+    <distr m="0.3" sd="0.1789" />
+  </block>
+  <block idx="41">
+    <sTime>03/08/2016 11:05:16</sTime>
+    <eTime>03/08/2016 11:05:17</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12420" div="1" res="1" cpx="0.325" />
+      <item idx="11000" div="1" res="1" cpx="0.325" />
+      <item idx="6563" div="0" res="1" cpx="0.3089" />
+      <item idx="6559" div="0" res="1" cpx="0.3089" />
+      <item idx="7351" div="0" res="1" cpx="0.3089" />
+      <item idx="7061" div="0" res="1" cpx="0.3089" />
+      <item idx="6503" div="0" res="1" cpx="0.3089" />
+      <item idx="7209" div="0" res="1" cpx="0.3089" />
+      <item idx="6865" div="0" res="1" cpx="0.3089" />
+      <item idx="6893" div="0" res="1" cpx="0.3089" />
+      <item idx="6941" div="0" res="1" cpx="0.3089" />
+      <item idx="6881" div="0" res="1" cpx="0.3089" />
+      <item idx="6849" div="0" res="1" cpx="0.3089" />
+      <item idx="6124" div="0" res="1" cpx="0.3089" />
+      <item idx="6877" div="0" res="1" cpx="0.3089" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.311</blockCpx>
+    <userAb>0.3172</userAb>
+    <userAb_TB>0.311</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3304</dtu>
+    <dtl>0.3089</dtl>
+    <freq m="0.4343" sd="0.1311" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.14" sd="0.102" />
+  </block>
+  <block idx="42">
+    <sTime>03/08/2016 11:05:17</sTime>
+    <eTime>03/08/2016 11:05:18</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="734" div="1" res="1" cpx="0.3197" />
+      <item idx="2841" div="1" res="1" cpx="0.3197" />
+      <item idx="298" div="0" res="1" cpx="0.3143" />
+      <item idx="1385" div="0" res="1" cpx="0.3143" />
+      <item idx="3445" div="0" res="1" cpx="0.3143" />
+      <item idx="1512" div="0" res="1" cpx="0.3143" />
+      <item idx="106" div="0" res="1" cpx="0.3143" />
+      <item idx="1389" div="0" res="1" cpx="0.3143" />
+      <item idx="2379" div="0" res="1" cpx="0.3143" />
+      <item idx="2648" div="0" res="1" cpx="0.3143" />
+      <item idx="2724" div="0" res="1" cpx="0.3143" />
+      <item idx="3788" div="0" res="1" cpx="0.3143" />
+      <item idx="226" div="0" res="1" cpx="0.3143" />
+      <item idx="433" div="0" res="1" cpx="0.3143" />
+      <item idx="3848" div="0" res="1" cpx="0.3143" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.315</blockCpx>
+    <userAb>0.3222</userAb>
+    <userAb_TB>0.315</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3357</dtu>
+    <dtl>0.3143</dtl>
+    <freq m="0.34" sd="0.0437" />
+    <conc m="0.2" sd="0.1304" />
+    <distr m="0.62" sd="0.1327" />
+  </block>
+  <block idx="43">
+    <sTime>03/08/2016 11:05:18</sTime>
+    <eTime>03/08/2016 11:05:19</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12321" div="1" res="1" cpx="0.325" />
+      <item idx="12426" div="1" res="1" cpx="0.325" />
+      <item idx="10491" div="0" res="1" cpx="0.3197" />
+      <item idx="7022" div="0" res="1" cpx="0.3197" />
+      <item idx="6400" div="0" res="1" cpx="0.3197" />
+      <item idx="10809" div="0" res="1" cpx="0.3197" />
+      <item idx="10901" div="0" res="1" cpx="0.3143" />
+      <item idx="7186" div="0" res="1" cpx="0.3197" />
+      <item idx="6512" div="0" res="1" cpx="0.3197" />
+      <item idx="6998" div="0" res="1" cpx="0.3197" />
+      <item idx="6308" div="0" res="1" cpx="0.3197" />
+      <item idx="6312" div="0" res="1" cpx="0.3197" />
+      <item idx="6062" div="0" res="1" cpx="0.3197" />
+      <item idx="6121" div="0" res="1" cpx="0.3197" />
+      <item idx="6946" div="0" res="1" cpx="0.3197" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.32</blockCpx>
+    <userAb>0.3272</userAb>
+    <userAb_TB>0.32</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3411</dtu>
+    <dtl>0.3197</dtl>
+    <freq m="0.22" sd="0.0569" />
+    <conc m="0.17" sd="0.1536" />
+    <distr m="0.34" sd="0.12" />
+  </block>
+  <block idx="44">
+    <sTime>03/08/2016 11:05:19</sTime>
+    <eTime>03/08/2016 11:05:19</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12052" div="0" res="1" cpx="0.325" />
+      <item idx="9217" div="0" res="1" cpx="0.325" />
+      <item idx="9126" div="0" res="1" cpx="0.325" />
+      <item idx="8083" div="0" res="1" cpx="0.325" />
+      <item idx="8112" div="0" res="1" cpx="0.325" />
+      <item idx="8229" div="0" res="1" cpx="0.325" />
+      <item idx="9081" div="0" res="1" cpx="0.325" />
+      <item idx="8135" div="0" res="1" cpx="0.325" />
+      <item idx="8885" div="0" res="1" cpx="0.325" />
+      <item idx="7998" div="0" res="1" cpx="0.325" />
+      <item idx="9213" div="0" res="1" cpx="0.325" />
+      <item idx="8033" div="0" res="1" cpx="0.325" />
+      <item idx="8272" div="0" res="1" cpx="0.325" />
+      <item idx="8102" div="0" res="1" cpx="0.325" />
+      <item idx="8283" div="0" res="1" cpx="0.325" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.325</blockCpx>
+    <userAb>0.3322</userAb>
+    <userAb_TB>0.325</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3464</dtu>
+    <dtl>0.325</dtl>
+    <freq m="0.1" sd="0" />
+    <conc m="0.1" sd="0" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="45">
+    <sTime>03/08/2016 11:05:20</sTime>
+    <eTime>03/08/2016 11:05:20</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="3082" div="1" res="1" cpx="0.3357" />
+      <item idx="3034" div="1" res="1" cpx="0.3357" />
+      <item idx="3239" div="0" res="1" cpx="0.325" />
+      <item idx="2178" div="0" res="1" cpx="0.325" />
+      <item idx="1213" div="0" res="1" cpx="0.325" />
+      <item idx="3202" div="0" res="1" cpx="0.325" />
+      <item idx="2258" div="0" res="1" cpx="0.325" />
+      <item idx="907" div="0" res="1" cpx="0.325" />
+      <item idx="1011" div="0" res="1" cpx="0.325" />
+      <item idx="2058" div="0" res="1" cpx="0.325" />
+      <item idx="1217" div="0" res="1" cpx="0.325" />
+      <item idx="2290" div="0" res="1" cpx="0.325" />
+      <item idx="3251" div="0" res="1" cpx="0.325" />
+      <item idx="3235" div="0" res="1" cpx="0.325" />
+      <item idx="1982" div="0" res="1" cpx="0.325" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3264</blockCpx>
+    <userAb>0.3372</userAb>
+    <userAb_TB>0.3264</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3518</dtu>
+    <dtl>0.3304</dtl>
+    <freq m="0.1857" sd="0.2185" />
+    <conc m="0.16" sd="0.12" />
+    <distr m="0.86" sd="0.2154" />
+  </block>
+  <block idx="46">
+    <sTime>03/08/2016 11:05:21</sTime>
+    <eTime>03/08/2016 11:05:30</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="3169" div="1" res="1" cpx="0.3411" />
+      <item idx="2966" div="1" res="1" cpx="0.3411" />
+      <item idx="5693" div="0" res="1" cpx="0.3357" />
+      <item idx="5675" div="0" res="1" cpx="0.3357" />
+      <item idx="4122" div="0" res="1" cpx="0.3357" />
+      <item idx="801" div="0" res="1" cpx="0.3357" />
+      <item idx="3492" div="0" res="1" cpx="0.3357" />
+      <item idx="2442" div="0" res="1" cpx="0.3357" />
+      <item idx="3037" div="0" res="1" cpx="0.3357" />
+      <item idx="3031" div="0" res="1" cpx="0.3357" />
+      <item idx="3074" div="0" res="1" cpx="0.3357" />
+      <item idx="2434" div="0" res="1" cpx="0.3357" />
+      <item idx="1880" div="0" res="1" cpx="0.3357" />
+      <item idx="4104" div="0" res="1" cpx="0.3357" />
+      <item idx="2716" div="0" res="1" cpx="0.3357" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3364</blockCpx>
+    <userAb>0.3422</userAb>
+    <userAb_TB>0.3364</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3572</dtu>
+    <dtl>0.3357</dtl>
+    <freq m="0.7258" sd="0.0437" />
+    <conc m="0.14" sd="0.1158" />
+    <distr m="0.38" sd="0.0748" />
+  </block>
+  <block idx="47">
+    <sTime>03/08/2016 11:05:30</sTime>
+    <eTime>03/08/2016 11:05:31</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="3873" div="1" res="1" cpx="0.3572" />
+      <item idx="490" div="1" res="1" cpx="0.3464" />
+      <item idx="3049" div="0" res="1" cpx="0.3357" />
+      <item idx="3082" div="0" res="1" cpx="0.3357" />
+      <item idx="3034" div="0" res="1" cpx="0.3357" />
+      <item idx="3161" div="0" res="1" cpx="0.3411" />
+      <item idx="2672" div="0" res="1" cpx="0.3411" />
+      <item idx="3512" div="0" res="1" cpx="0.3411" />
+      <item idx="2688" div="0" res="1" cpx="0.3411" />
+      <item idx="2768" div="0" res="1" cpx="0.3411" />
+      <item idx="2454" div="0" res="1" cpx="0.3411" />
+      <item idx="1952" div="0" res="1" cpx="0.3411" />
+      <item idx="4025" div="0" res="1" cpx="0.3411" />
+      <item idx="2668" div="0" res="1" cpx="0.3411" />
+      <item idx="3747" div="0" res="1" cpx="0.3411" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3414</blockCpx>
+    <userAb>0.3472</userAb>
+    <userAb_TB>0.3414</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3625</dtu>
+    <dtl>0.3411</dtl>
+    <freq m="0.6057" sd="0.1194" />
+    <conc m="0.22" sd="0.1122" />
+    <distr m="0.44" sd="0.1855" />
+  </block>
+  <block idx="48">
+    <sTime>03/08/2016 11:05:31</sTime>
+    <eTime>03/08/2016 11:05:32</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12497" div="1" res="1" cpx="0.3625" />
+      <item idx="6552" div="1" res="1" cpx="0.3518" />
+      <item idx="6148" div="0" res="1" cpx="0.3411" />
+      <item idx="6949" div="0" res="1" cpx="0.3411" />
+      <item idx="6515" div="0" res="1" cpx="0.3411" />
+      <item idx="7221" div="0" res="1" cpx="0.3411" />
+      <item idx="6547" div="0" res="1" cpx="0.3411" />
+      <item idx="7181" div="0" res="1" cpx="0.3411" />
+      <item idx="6599" div="0" res="1" cpx="0.3411" />
+      <item idx="7005" div="0" res="1" cpx="0.3464" />
+      <item idx="6160" div="0" res="1" cpx="0.3411" />
+      <item idx="11206" div="0" res="1" cpx="0.3411" />
+      <item idx="6603" div="0" res="1" cpx="0.3464" />
+      <item idx="7269" div="0" res="1" cpx="0.3464" />
+      <item idx="6591" div="0" res="1" cpx="0.3411" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3443</blockCpx>
+    <userAb>0.3522</userAb>
+    <userAb_TB>0.3443</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3678</dtu>
+    <dtl>0.3464</dtl>
+    <freq m="0.5371" sd="0.1393" />
+    <conc m="0.15" sd="0.0894" />
+    <distr m="0.14" sd="0.102" />
+  </block>
+  <block idx="49">
+    <sTime>03/08/2016 11:05:32</sTime>
+    <eTime>03/08/2016 11:05:33</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="643" div="1" res="1" cpx="0.3572" />
+      <item idx="1853" div="1" res="1" cpx="0.3572" />
+      <item idx="2423" div="0" res="1" cpx="0.3518" />
+      <item idx="2467" div="0" res="1" cpx="0.3518" />
+      <item idx="5735" div="0" res="1" cpx="0.3464" />
+      <item idx="5815" div="0" res="1" cpx="0.3464" />
+      <item idx="3110" div="0" res="1" cpx="0.3464" />
+      <item idx="834" div="0" res="1" cpx="0.3464" />
+      <item idx="1181" div="0" res="1" cpx="0.3464" />
+      <item idx="3122" div="0" res="1" cpx="0.3464" />
+      <item idx="490" div="0" res="1" cpx="0.3464" />
+      <item idx="2797" div="0" res="1" cpx="0.3464" />
+      <item idx="1345" div="0" res="1" cpx="0.3464" />
+      <item idx="1073" div="0" res="1" cpx="0.3464" />
+      <item idx="3481" div="0" res="1" cpx="0.3518" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3489</blockCpx>
+    <userAb>0.3572</userAb>
+    <userAb_TB>0.3489</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3732</dtu>
+    <dtl>0.3518</dtl>
+    <freq m="0.4257" sd="0.0923" />
+    <conc m="0.15" sd="0.0894" />
+    <distr m="0.72" sd="0.0748" />
+  </block>
+  <block idx="50">
+    <sTime>03/08/2016 11:05:33</sTime>
+    <eTime>03/08/2016 11:05:34</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12497" div="1" res="1" cpx="0.3625" />
+      <item idx="12258" div="1" res="1" cpx="0.3625" />
+      <item idx="11238" div="0" res="1" cpx="0.3572" />
+      <item idx="11178" div="0" res="1" cpx="0.3572" />
+      <item idx="12229" div="0" res="1" cpx="0.3572" />
+      <item idx="7142" div="0" res="1" cpx="0.3518" />
+      <item idx="6552" div="0" res="1" cpx="0.3518" />
+      <item idx="10545" div="0" res="1" cpx="0.3518" />
+      <item idx="10395" div="0" res="1" cpx="0.3518" />
+      <item idx="12626" div="0" res="1" cpx="0.3518" />
+      <item idx="6165" div="0" res="1" cpx="0.3518" />
+      <item idx="7359" div="0" res="1" cpx="0.3518" />
+      <item idx="10359" div="0" res="1" cpx="0.3518" />
+      <item idx="6532" div="0" res="1" cpx="0.3572" />
+      <item idx="6496" div="0" res="1" cpx="0.3518" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3547</blockCpx>
+    <userAb>0.3622</userAb>
+    <userAb_TB>0.3547</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3732</dtu>
+    <dtl>0.3518</dtl>
+    <freq m="0.2886" sd="0.0923" />
+    <conc m="0.22" sd="0.147" />
+    <distr m="0.36" sd="0.102" />
+  </block>
+  <block idx="51">
+    <sTime>03/08/2016 11:05:34</sTime>
+    <eTime>03/08/2016 11:05:34</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11901" div="1" res="1" cpx="0.3625" />
+      <item idx="8352" div="1" res="1" cpx="0.3625" />
+      <item idx="12030" div="0" res="1" cpx="0.3572" />
+      <item idx="12191" div="0" res="1" cpx="0.3572" />
+      <item idx="11663" div="0" res="1" cpx="0.3572" />
+      <item idx="7643" div="0" res="1" cpx="0.3572" />
+      <item idx="8430" div="0" res="1" cpx="0.3572" />
+      <item idx="8071" div="0" res="1" cpx="0.3572" />
+      <item idx="8329" div="0" res="1" cpx="0.3572" />
+      <item idx="8960" div="0" res="1" cpx="0.3572" />
+      <item idx="7962" div="0" res="1" cpx="0.3572" />
+      <item idx="8426" div="0" res="1" cpx="0.3572" />
+      <item idx="7970" div="0" res="1" cpx="0.3572" />
+      <item idx="8988" div="0" res="1" cpx="0.3572" />
+      <item idx="8044" div="0" res="1" cpx="0.3572" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3579</blockCpx>
+    <userAb>0.3672</userAb>
+    <userAb_TB>0.3579</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3786</dtu>
+    <dtl>0.3572</dtl>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="52">
+    <sTime>03/08/2016 11:05:35</sTime>
+    <eTime>03/08/2016 11:05:35</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>1</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11901" div="1" res="1" cpx="0.3625" />
+      <item idx="12689" div="1" res="1" cpx="0.3625" />
+      <item idx="12030" div="0" res="1" cpx="0.3572" />
+      <item idx="7643" div="0" res="1" cpx="0.3572" />
+      <item idx="12191" div="0" res="1" cpx="0.3572" />
+      <item idx="11663" div="0" res="1" cpx="0.3572" />
+      <item idx="8071" div="0" res="1" cpx="0.3572" />
+      <item idx="8329" div="0" res="1" cpx="0.3572" />
+      <item idx="8960" div="0" res="1" cpx="0.3572" />
+      <item idx="8430" div="0" res="1" cpx="0.3572" />
+      <item idx="7962" div="0" res="1" cpx="0.3572" />
+      <item idx="8426" div="0" res="1" cpx="0.3572" />
+      <item idx="7558" div="0" res="1" cpx="0.3572" />
+      <item idx="7970" div="0" res="1" cpx="0.3572" />
+      <item idx="8486" div="0" res="1" cpx="0.3572" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3579</blockCpx>
+    <userAb>0.3722</userAb>
+    <userAb_TB>0.3579</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3839</dtu>
+    <dtl>0.3625</dtl>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="53">
+    <sTime>03/08/2016 11:05:36</sTime>
+    <eTime>03/08/2016 11:05:36</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="4382" div="1" res="1" cpx="0.3786" />
+      <item idx="4074" div="1" res="1" cpx="0.3678" />
+      <item idx="1481" div="0" res="1" cpx="0.3625" />
+      <item idx="2590" div="0" res="1" cpx="0.3572" />
+      <item idx="2928" div="0" res="1" cpx="0.3572" />
+      <item idx="2986" div="0" res="1" cpx="0.3625" />
+      <item idx="3873" div="0" res="1" cpx="0.3572" />
+      <item idx="2558" div="0" res="1" cpx="0.3572" />
+      <item idx="2618" div="0" res="1" cpx="0.3572" />
+      <item idx="2566" div="0" res="1" cpx="0.3572" />
+      <item idx="2137" div="0" res="1" cpx="0.3625" />
+      <item idx="643" div="0" res="1" cpx="0.3572" />
+      <item idx="159" div="0" res="1" cpx="0.3625" />
+      <item idx="1706" div="0" res="1" cpx="0.3572" />
+      <item idx="1853" div="0" res="1" cpx="0.3572" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3607</blockCpx>
+    <userAb>0.3722</userAb>
+    <userAb_TB>0.3607</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3839</dtu>
+    <dtl>0.3625</dtl>
+    <freq m="0.3229" sd="0.2675" />
+    <conc m="0.24" sd="0.1685" />
+    <distr m="0.78" sd="0.2786" />
+  </block>
+  <block idx="54">
+    <sTime>03/08/2016 11:05:37</sTime>
+    <eTime>03/08/2016 11:05:38</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="6890" div="1" res="1" cpx="0.3839" />
+      <item idx="6808" div="1" res="1" cpx="0.3732" />
+      <item idx="12566" div="0" res="1" cpx="0.3625" />
+      <item idx="10720" div="0" res="1" cpx="0.3625" />
+      <item idx="12258" div="0" res="1" cpx="0.3625" />
+      <item idx="10779" div="0" res="1" cpx="0.3625" />
+      <item idx="10669" div="0" res="1" cpx="0.3625" />
+      <item idx="12497" div="0" res="1" cpx="0.3625" />
+      <item idx="10414" div="0" res="1" cpx="0.3625" />
+      <item idx="12515" div="0" res="1" cpx="0.3625" />
+      <item idx="12386" div="0" res="1" cpx="0.3625" />
+      <item idx="10672" div="0" res="1" cpx="0.3625" />
+      <item idx="10561" div="0" res="1" cpx="0.3625" />
+      <item idx="10699" div="0" res="1" cpx="0.3625" />
+      <item idx="6059" div="0" res="1" cpx="0.3625" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3646</blockCpx>
+    <userAb>0.3772</userAb>
+    <userAb_TB>0.3646</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3893</dtu>
+    <dtl>0.3678</dtl>
+    <freq m="0.1686" sd="0.181" />
+    <conc m="0.26" sd="0.2154" />
+    <distr m="0.48" sd="0.2315" />
+  </block>
+  <block idx="55">
+    <sTime>03/08/2016 11:05:38</sTime>
+    <eTime>03/08/2016 11:05:39</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>1</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12389" div="1" res="1" cpx="0.3839" />
+      <item idx="6890" div="1" res="1" cpx="0.3839" />
+      <item idx="12327" div="0" res="1" cpx="0.3625" />
+      <item idx="12566" div="0" res="1" cpx="0.3625" />
+      <item idx="12258" div="0" res="1" cpx="0.3625" />
+      <item idx="12515" div="0" res="1" cpx="0.3625" />
+      <item idx="12497" div="0" res="1" cpx="0.3625" />
+      <item idx="10414" div="0" res="1" cpx="0.3625" />
+      <item idx="6258" div="0" res="1" cpx="0.3625" />
+      <item idx="12386" div="0" res="1" cpx="0.3625" />
+      <item idx="6059" div="0" res="1" cpx="0.3625" />
+      <item idx="10543" div="0" res="1" cpx="0.3625" />
+      <item idx="10720" div="0" res="1" cpx="0.3625" />
+      <item idx="10525" div="0" res="1" cpx="0.3625" />
+      <item idx="10779" div="0" res="1" cpx="0.3625" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3654</blockCpx>
+    <userAb>0.3822</userAb>
+    <userAb_TB>0.3654</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3947</dtu>
+    <dtl>0.3732</dtl>
+    <freq m="0.1514" sd="0.1311" />
+    <conc m="0.32" sd="0.2315" />
+    <distr m="0.44" sd="0.2417" />
+  </block>
+  <block idx="56">
+    <sTime>03/08/2016 11:05:39</sTime>
+    <eTime>03/08/2016 11:05:40</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1330" div="1" res="1" cpx="0.3893" />
+      <item idx="4326" div="1" res="1" cpx="0.3893" />
+      <item idx="797" div="0" res="1" cpx="0.3732" />
+      <item idx="1780" div="0" res="1" cpx="0.3732" />
+      <item idx="4082" div="0" res="1" cpx="0.3732" />
+      <item idx="4074" div="0" res="1" cpx="0.3678" />
+      <item idx="5663" div="0" res="1" cpx="0.3678" />
+      <item idx="3023" div="0" res="1" cpx="0.3732" />
+      <item idx="3548" div="0" res="1" cpx="0.3678" />
+      <item idx="4939" div="0" res="1" cpx="0.3732" />
+      <item idx="4577" div="0" res="1" cpx="0.3678" />
+      <item idx="3027" div="0" res="1" cpx="0.3732" />
+      <item idx="701" div="0" res="1" cpx="0.3732" />
+      <item idx="3003" div="0" res="1" cpx="0.3678" />
+      <item idx="4573" div="0" res="1" cpx="0.3678" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3732</blockCpx>
+    <userAb>0.3822</userAb>
+    <userAb_TB>0.3732</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.3947</dtu>
+    <dtl>0.3732</dtl>
+    <freq m="0.7429" sd="0.1626" />
+    <conc m="0.17" sd="0.0748" />
+    <distr m="0.48" sd="0.204" />
+  </block>
+  <block idx="57">
+    <sTime>03/08/2016 11:05:40</sTime>
+    <eTime>03/08/2016 11:05:41</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12466" div="1" res="1" cpx="0.3947" />
+      <item idx="6468" div="1" res="1" cpx="0.3893" />
+      <item idx="6172" div="0" res="1" cpx="0.3732" />
+      <item idx="6808" div="0" res="1" cpx="0.3732" />
+      <item idx="6781" div="0" res="1" cpx="0.3732" />
+      <item idx="6829" div="0" res="1" cpx="0.3732" />
+      <item idx="7285" div="0" res="1" cpx="0.3732" />
+      <item idx="11126" div="0" res="1" cpx="0.3786" />
+      <item idx="6607" div="0" res="1" cpx="0.3786" />
+      <item idx="6800" div="0" res="1" cpx="0.3732" />
+      <item idx="6784" div="0" res="1" cpx="0.3732" />
+      <item idx="7225" div="0" res="1" cpx="0.3732" />
+      <item idx="6818" div="0" res="1" cpx="0.3732" />
+      <item idx="6841" div="0" res="1" cpx="0.3732" />
+      <item idx="6833" div="0" res="1" cpx="0.3732" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3764</blockCpx>
+    <userAb>0.3872</userAb>
+    <userAb_TB>0.3764</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4</dtu>
+    <dtl>0.3786</dtl>
+    <freq m="0.6657" sd="0.1543" />
+    <conc m="0.17" sd="0.1536" />
+    <distr m="0.12" sd="0.0748" />
+  </block>
+  <block idx="58">
+    <sTime>03/08/2016 11:05:42</sTime>
+    <eTime>03/08/2016 11:05:42</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="426" div="1" res="1" cpx="0.3893" />
+      <item idx="3760" div="1" res="1" cpx="0.3893" />
+      <item idx="194" div="0" res="1" cpx="0.3839" />
+      <item idx="890" div="0" res="1" cpx="0.3839" />
+      <item idx="2229" div="0" res="1" cpx="0.3786" />
+      <item idx="2487" div="0" res="1" cpx="0.3786" />
+      <item idx="5580" div="0" res="1" cpx="0.3786" />
+      <item idx="4382" div="0" res="1" cpx="0.3786" />
+      <item idx="3545" div="0" res="1" cpx="0.3786" />
+      <item idx="3816" div="0" res="1" cpx="0.3786" />
+      <item idx="4535" div="0" res="1" cpx="0.3786" />
+      <item idx="3138" div="0" res="1" cpx="0.3786" />
+      <item idx="2757" div="0" res="1" cpx="0.3786" />
+      <item idx="2946" div="0" res="1" cpx="0.3786" />
+      <item idx="2950" div="0" res="1" cpx="0.3786" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3807</blockCpx>
+    <userAb>0.3922</userAb>
+    <userAb_TB>0.3807</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4054</dtu>
+    <dtl>0.3839</dtl>
+    <freq m="0.5629" sd="0.0915" />
+    <conc m="0.3" sd="0.2025" />
+    <distr m="0.56" sd="0.2154" />
+  </block>
+  <block idx="59">
+    <sTime>03/08/2016 11:05:43</sTime>
+    <eTime>03/08/2016 11:05:43</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12537" div="1" res="1" cpx="0.4" />
+      <item idx="12466" div="1" res="1" cpx="0.3947" />
+      <item idx="6468" div="0" res="1" cpx="0.3893" />
+      <item idx="6882" div="0" res="1" cpx="0.3839" />
+      <item idx="6878" div="0" res="1" cpx="0.3839" />
+      <item idx="12389" div="0" res="1" cpx="0.3839" />
+      <item idx="6890" div="0" res="1" cpx="0.3839" />
+      <item idx="6942" div="0" res="1" cpx="0.3839" />
+      <item idx="7348" div="0" res="1" cpx="0.3839" />
+      <item idx="10883" div="0" res="1" cpx="0.3893" />
+      <item idx="6862" div="0" res="1" cpx="0.3839" />
+      <item idx="6086" div="0" res="1" cpx="0.3839" />
+      <item idx="6500" div="0" res="1" cpx="0.3839" />
+      <item idx="6157" div="0" res="1" cpx="0.3839" />
+      <item idx="6918" div="0" res="1" cpx="0.3839" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3864</blockCpx>
+    <userAb>0.3972</userAb>
+    <userAb_TB>0.3864</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4107</dtu>
+    <dtl>0.3893</dtl>
+    <freq m="0.4257" sd="0.1137" />
+    <conc m="0.23" sd="0.204" />
+    <distr m="0.34" sd="0.12" />
+  </block>
+  <block idx="60">
+    <sTime>03/08/2016 11:05:44</sTime>
+    <eTime>03/08/2016 11:05:46</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11776" div="1" res="1" cpx="0.4" />
+      <item idx="11481" div="1" res="1" cpx="0.4" />
+      <item idx="8526" div="0" res="1" cpx="0.3893" />
+      <item idx="12083" div="0" res="1" cpx="0.3947" />
+      <item idx="7954" div="0" res="1" cpx="0.3893" />
+      <item idx="11921" div="0" res="1" cpx="0.3893" />
+      <item idx="8048" div="0" res="1" cpx="0.3893" />
+      <item idx="8538" div="0" res="1" cpx="0.3893" />
+      <item idx="8775" div="0" res="1" cpx="0.3893" />
+      <item idx="8952" div="0" res="1" cpx="0.3893" />
+      <item idx="7573" div="0" res="1" cpx="0.3893" />
+      <item idx="7667" div="0" res="1" cpx="0.3893" />
+      <item idx="8837" div="0" res="1" cpx="0.3893" />
+      <item idx="8819" div="0" res="1" cpx="0.3893" />
+      <item idx="7518" div="0" res="1" cpx="0.3893" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3911</blockCpx>
+    <userAb>0.4022</userAb>
+    <userAb_TB>0.3911</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4161</dtu>
+    <dtl>0.3947</dtl>
+    <freq m="0.3143" sd="0.0899" />
+    <conc m="0.15" sd="0.1049" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="61">
+    <sTime>03/08/2016 11:05:46</sTime>
+    <eTime>03/08/2016 11:05:47</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>1</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11776" div="1" res="1" cpx="0.4" />
+      <item idx="11481" div="1" res="1" cpx="0.4" />
+      <item idx="8526" div="0" res="1" cpx="0.3893" />
+      <item idx="12083" div="0" res="1" cpx="0.3947" />
+      <item idx="11921" div="0" res="1" cpx="0.3893" />
+      <item idx="8048" div="0" res="1" cpx="0.3893" />
+      <item idx="8775" div="0" res="1" cpx="0.3893" />
+      <item idx="11477" div="0" res="1" cpx="0.3947" />
+      <item idx="7954" div="0" res="1" cpx="0.3893" />
+      <item idx="8538" div="0" res="1" cpx="0.3893" />
+      <item idx="8952" div="0" res="1" cpx="0.3893" />
+      <item idx="8336" div="0" res="1" cpx="0.3893" />
+      <item idx="7542" div="0" res="1" cpx="0.3893" />
+      <item idx="7667" div="0" res="1" cpx="0.3893" />
+      <item idx="8837" div="0" res="1" cpx="0.3893" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3914</blockCpx>
+    <userAb>0.4072</userAb>
+    <userAb_TB>0.3914</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4214</dtu>
+    <dtl>0.4</dtl>
+    <freq m="0.3057" sd="0.0915" />
+    <conc m="0.16" sd="0.1068" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="62">
+    <sTime>03/08/2016 11:05:48</sTime>
+    <eTime>03/08/2016 11:05:49</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2959" div="1" res="1" cpx="0.4161" />
+      <item idx="4213" div="1" res="1" cpx="0.4161" />
+      <item idx="1790" div="0" res="1" cpx="0.3947" />
+      <item idx="655" div="0" res="1" cpx="0.3947" />
+      <item idx="1742" div="0" res="1" cpx="0.3947" />
+      <item idx="3530" div="0" res="1" cpx="0.3947" />
+      <item idx="2905" div="0" res="1" cpx="0.3947" />
+      <item idx="1798" div="0" res="1" cpx="0.3947" />
+      <item idx="3960" div="0" res="1" cpx="0.3947" />
+      <item idx="723" div="0" res="1" cpx="0.3947" />
+      <item idx="3897" div="0" res="1" cpx="0.3947" />
+      <item idx="2826" div="0" res="1" cpx="0.3947" />
+      <item idx="2921" div="0" res="1" cpx="0.3947" />
+      <item idx="3889" div="0" res="1" cpx="0.3947" />
+      <item idx="2822" div="0" res="1" cpx="0.3947" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3976</blockCpx>
+    <userAb>0.4072</userAb>
+    <userAb_TB>0.3976</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4214</dtu>
+    <dtl>0.4</dtl>
+    <freq m="0.28" sd="0.1311" />
+    <conc m="0.27" sd="0.0748" />
+    <distr m="0.94" sd="0.1625" />
+  </block>
+  <block idx="63">
+    <sTime>03/08/2016 11:05:49</sTime>
+    <eTime>03/08/2016 11:05:50</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11195" div="1" res="1" cpx="0.4214" />
+      <item idx="11353" div="1" res="1" cpx="0.4214" />
+      <item idx="6719" div="0" res="1" cpx="0.4054" />
+      <item idx="12577" div="0" res="1" cpx="0.4" />
+      <item idx="12537" div="0" res="1" cpx="0.4" />
+      <item idx="11115" div="0" res="1" cpx="0.4" />
+      <item idx="12667" div="0" res="1" cpx="0.4" />
+      <item idx="6734" div="0" res="1" cpx="0.4054" />
+      <item idx="12582" div="0" res="1" cpx="0.4" />
+      <item idx="7250" div="0" res="1" cpx="0.4" />
+      <item idx="6297" div="0" res="1" cpx="0.4" />
+      <item idx="6416" div="0" res="1" cpx="0.4" />
+      <item idx="7242" div="0" res="1" cpx="0.4" />
+      <item idx="12446" div="0" res="1" cpx="0.4" />
+      <item idx="6452" div="0" res="1" cpx="0.4" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4036</blockCpx>
+    <userAb>0.4122</userAb>
+    <userAb_TB>0.4036</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4268</dtu>
+    <dtl>0.4054</dtl>
+    <freq m="0.2543" sd="0.2745" />
+    <conc m="0.45" sd="0.2025" />
+    <distr m="0.36" sd="0.1497" />
+  </block>
+  <block idx="64">
+    <sTime>03/08/2016 11:05:50</sTime>
+    <eTime>03/08/2016 11:05:51</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="3115" div="1" res="1" cpx="0.4214" />
+      <item idx="2959" div="1" res="1" cpx="0.4161" />
+      <item idx="3067" div="0" res="1" cpx="0.4107" />
+      <item idx="3042" div="0" res="1" cpx="0.4107" />
+      <item idx="1877" div="0" res="1" cpx="0.4107" />
+      <item idx="1969" div="0" res="1" cpx="0.4107" />
+      <item idx="4948" div="0" res="1" cpx="0.4107" />
+      <item idx="3057" div="0" res="1" cpx="0.4107" />
+      <item idx="4094" div="0" res="1" cpx="0.4107" />
+      <item idx="2717" div="0" res="1" cpx="0.4107" />
+      <item idx="4101" div="0" res="1" cpx="0.4107" />
+      <item idx="4123" div="0" res="1" cpx="0.4107" />
+      <item idx="4097" div="0" res="1" cpx="0.4107" />
+      <item idx="4126" div="0" res="1" cpx="0.4107" />
+      <item idx="3061" div="0" res="1" cpx="0.4107" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4118</blockCpx>
+    <userAb>0.4172</userAb>
+    <userAb_TB>0.4118</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4322</dtu>
+    <dtl>0.4107</dtl>
+    <freq m="0.7172" sd="0.0697" />
+    <conc m="0.13" sd="0.1122" />
+    <distr m="0.7" sd="0.1095" />
+  </block>
+  <block idx="65">
+    <sTime>03/08/2016 11:05:52</sTime>
+    <eTime>03/08/2016 11:05:54</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12623" div="1" res="1" cpx="0.4268" />
+      <item idx="12279" div="1" res="1" cpx="0.4322" />
+      <item idx="10988" div="0" res="1" cpx="0.4161" />
+      <item idx="11256" div="0" res="1" cpx="0.4161" />
+      <item idx="6679" div="0" res="1" cpx="0.4161" />
+      <item idx="11162" div="0" res="1" cpx="0.4161" />
+      <item idx="6516" div="0" res="1" cpx="0.4161" />
+      <item idx="6695" div="0" res="1" cpx="0.4161" />
+      <item idx="6774" div="0" res="1" cpx="0.4107" />
+      <item idx="6766" div="0" res="1" cpx="0.4107" />
+      <item idx="10752" div="0" res="1" cpx="0.4161" />
+      <item idx="6161" div="0" res="1" cpx="0.4161" />
+      <item idx="7182" div="0" res="1" cpx="0.4161" />
+      <item idx="6592" div="0" res="1" cpx="0.4161" />
+      <item idx="7222" div="0" res="1" cpx="0.4161" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4172</blockCpx>
+    <userAb>0.4222</userAb>
+    <userAb_TB>0.4172</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4375</dtu>
+    <dtl>0.4161</dtl>
+    <freq m="0.5886" sd="0.126" />
+    <conc m="0.25" sd="0.1549" />
+    <distr m="0.28" sd="0.147" />
+  </block>
+  <block idx="66">
+    <sTime>03/08/2016 11:05:55</sTime>
+    <eTime>03/08/2016 11:05:56</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>1</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11365" div="1" res="1" cpx="0.4214" />
+      <item idx="12351" div="1" res="1" cpx="0.4268" />
+      <item idx="10988" div="0" res="1" cpx="0.4161" />
+      <item idx="11256" div="0" res="1" cpx="0.4161" />
+      <item idx="6679" div="0" res="1" cpx="0.4161" />
+      <item idx="11162" div="0" res="1" cpx="0.4161" />
+      <item idx="6516" div="0" res="1" cpx="0.4161" />
+      <item idx="6774" div="0" res="1" cpx="0.4107" />
+      <item idx="6695" div="0" res="1" cpx="0.4161" />
+      <item idx="6766" div="0" res="1" cpx="0.4107" />
+      <item idx="10752" div="0" res="1" cpx="0.4161" />
+      <item idx="6770" div="0" res="1" cpx="0.4107" />
+      <item idx="6161" div="0" res="1" cpx="0.4161" />
+      <item idx="7182" div="0" res="1" cpx="0.4161" />
+      <item idx="6691" div="0" res="1" cpx="0.4161" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4161</blockCpx>
+    <userAb>0.4272</userAb>
+    <userAb_TB>0.4161</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4428</dtu>
+    <dtl>0.4214</dtl>
+    <freq m="0.6143" sd="0.0939" />
+    <conc m="0.26" sd="0.1281" />
+    <distr m="0.24" sd="0.1497" />
+  </block>
+  <block idx="67">
+    <sTime>03/08/2016 11:05:56</sTime>
+    <eTime>03/08/2016 11:05:57</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11897" div="1" res="1" cpx="0.4268" />
+      <item idx="11411" div="1" res="1" cpx="0.4375" />
+      <item idx="8956" div="0" res="1" cpx="0.4214" />
+      <item idx="8752" div="0" res="1" cpx="0.4214" />
+      <item idx="7891" div="0" res="1" cpx="0.4214" />
+      <item idx="7907" div="0" res="1" cpx="0.4214" />
+      <item idx="7457" div="0" res="1" cpx="0.4214" />
+      <item idx="8182" div="0" res="1" cpx="0.4214" />
+      <item idx="7687" div="0" res="1" cpx="0.4214" />
+      <item idx="8174" div="0" res="1" cpx="0.4214" />
+      <item idx="8198" div="0" res="1" cpx="0.4214" />
+      <item idx="7903" div="0" res="1" cpx="0.4214" />
+      <item idx="9190" div="0" res="1" cpx="0.4214" />
+      <item idx="7718" div="0" res="1" cpx="0.4214" />
+      <item idx="8363" div="0" res="1" cpx="0.4214" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4228</blockCpx>
+    <userAb>0.4272</userAb>
+    <userAb_TB>0.4228</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4428</dtu>
+    <dtl>0.4214</dtl>
+    <freq m="0.4514" sd="0.0992" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.12" sd="0.0748" />
+  </block>
+  <block idx="68">
+    <sTime>03/08/2016 11:05:57</sTime>
+    <eTime>03/08/2016 11:05:58</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="3992" div="1" res="1" cpx="0.4322" />
+      <item idx="2622" div="1" res="1" cpx="0.4375" />
+      <item idx="4762" div="0" res="1" cpx="0.4268" />
+      <item idx="4154" div="0" res="1" cpx="0.4214" />
+      <item idx="3115" div="0" res="1" cpx="0.4214" />
+      <item idx="251" div="0" res="1" cpx="0.4214" />
+      <item idx="263" div="0" res="1" cpx="0.4268" />
+      <item idx="2298" div="0" res="1" cpx="0.4214" />
+      <item idx="4957" div="0" res="1" cpx="0.4214" />
+      <item idx="3359" div="0" res="1" cpx="0.4214" />
+      <item idx="1342" div="0" res="1" cpx="0.4214" />
+      <item idx="3474" div="0" res="1" cpx="0.4214" />
+      <item idx="5029" div="0" res="1" cpx="0.4214" />
+      <item idx="815" div="0" res="1" cpx="0.4214" />
+      <item idx="1538" div="0" res="1" cpx="0.4214" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4239</blockCpx>
+    <userAb>0.4322</userAb>
+    <userAb_TB>0.4239</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4429</dtu>
+    <dtl>0.4268</dtl>
+    <freq m="0.4257" sd="0.1137" />
+    <conc m="0.21" sd="0.2154" />
+    <distr m="0.96" sd="0.1497" />
+  </block>
+  <block idx="69">
+    <sTime>03/08/2016 11:05:59</sTime>
+    <eTime>03/08/2016 11:06:00</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12310" div="1" res="1" cpx="0.4375" />
+      <item idx="12499" div="1" res="1" cpx="0.4375" />
+      <item idx="12279" div="0" res="1" cpx="0.4322" />
+      <item idx="12623" div="0" res="1" cpx="0.4268" />
+      <item idx="6629" div="0" res="1" cpx="0.4268" />
+      <item idx="12351" div="0" res="1" cpx="0.4268" />
+      <item idx="12383" div="0" res="1" cpx="0.4322" />
+      <item idx="12371" div="0" res="1" cpx="0.4268" />
+      <item idx="6473" div="0" res="1" cpx="0.4268" />
+      <item idx="11243" div="0" res="1" cpx="0.4322" />
+      <item idx="6597" div="0" res="1" cpx="0.4268" />
+      <item idx="6963" div="0" res="1" cpx="0.4268" />
+      <item idx="10510" div="0" res="1" cpx="0.4268" />
+      <item idx="10582" div="0" res="1" cpx="0.4268" />
+      <item idx="12639" div="0" res="1" cpx="0.4322" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4297</blockCpx>
+    <userAb>0.4372</userAb>
+    <userAb_TB>0.4297</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4429</dtu>
+    <dtl>0.4268</dtl>
+    <freq m="0.2886" sd="0.0923" />
+    <conc m="0.34" sd="0.2498" />
+    <distr m="0.54" sd="0.1855" />
+  </block>
+  <block idx="70">
+    <sTime>03/08/2016 11:06:00</sTime>
+    <eTime>03/08/2016 11:06:01</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>1</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12644" div="1" res="1" cpx="0.4375" />
+      <item idx="12310" div="1" res="1" cpx="0.4375" />
+      <item idx="12652" div="0" res="1" cpx="0.4268" />
+      <item idx="12279" div="0" res="1" cpx="0.4322" />
+      <item idx="12623" div="0" res="1" cpx="0.4268" />
+      <item idx="12363" div="0" res="1" cpx="0.4268" />
+      <item idx="6629" div="0" res="1" cpx="0.4268" />
+      <item idx="12351" div="0" res="1" cpx="0.4268" />
+      <item idx="12371" div="0" res="1" cpx="0.4268" />
+      <item idx="6473" div="0" res="1" cpx="0.4268" />
+      <item idx="12383" div="0" res="1" cpx="0.4322" />
+      <item idx="11243" div="0" res="1" cpx="0.4322" />
+      <item idx="6597" div="0" res="1" cpx="0.4268" />
+      <item idx="7147" div="0" res="1" cpx="0.4268" />
+      <item idx="6146" div="0" res="1" cpx="0.4268" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4293</blockCpx>
+    <userAb>0.4422</userAb>
+    <userAb_TB>0.4293</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4482</dtu>
+    <dtl>0.4322</dtl>
+    <freq m="0.2971" sd="0.0923" />
+    <conc m="0.33" sd="0.2441" />
+    <distr m="0.54" sd="0.1855" />
+  </block>
+  <block idx="71">
+    <sTime>03/08/2016 11:06:01</sTime>
+    <eTime>03/08/2016 11:06:02</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11414" div="1" res="1" cpx="0.4375" />
+      <item idx="11917" div="1" res="1" cpx="0.4375" />
+      <item idx="12697" div="0" res="1" cpx="0.4322" />
+      <item idx="11897" div="0" res="1" cpx="0.4268" />
+      <item idx="8905" div="0" res="1" cpx="0.4268" />
+      <item idx="8804" div="0" res="1" cpx="0.4322" />
+      <item idx="8427" div="0" res="1" cpx="0.4322" />
+      <item idx="8989" div="0" res="1" cpx="0.4322" />
+      <item idx="9175" div="0" res="1" cpx="0.4322" />
+      <item idx="7940" div="0" res="1" cpx="0.4322" />
+      <item idx="11586" div="0" res="1" cpx="0.4322" />
+      <item idx="7987" div="0" res="1" cpx="0.4322" />
+      <item idx="8075" div="0" res="1" cpx="0.4268" />
+      <item idx="7624" div="0" res="1" cpx="0.4322" />
+      <item idx="8072" div="0" res="1" cpx="0.4322" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4318</blockCpx>
+    <userAb>0.4422</userAb>
+    <userAb_TB>0.4318</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4482</dtu>
+    <dtl>0.4322</dtl>
+    <freq m="0.2372" sd="0.0737" />
+    <conc m="0.21" sd="0.1594" />
+    <distr m="0.28" sd="0.147" />
+  </block>
+  <block idx="72">
+    <sTime>03/08/2016 11:06:03</sTime>
+    <eTime>03/08/2016 11:06:03</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="4913" div="1" res="1" cpx="0.4428" />
+      <item idx="2996" div="1" res="1" cpx="0.4428" />
+      <item idx="1478" div="0" res="1" cpx="0.4375" />
+      <item idx="2338" div="0" res="1" cpx="0.4375" />
+      <item idx="2622" div="0" res="1" cpx="0.4375" />
+      <item idx="3992" div="0" res="1" cpx="0.4322" />
+      <item idx="759" div="0" res="1" cpx="0.4322" />
+      <item idx="4517" div="0" res="1" cpx="0.4322" />
+      <item idx="751" div="0" res="1" cpx="0.4322" />
+      <item idx="1830" div="0" res="1" cpx="0.4322" />
+      <item idx="4796" div="0" res="1" cpx="0.4375" />
+      <item idx="3996" div="0" res="1" cpx="0.4322" />
+      <item idx="1054" div="0" res="1" cpx="0.4375" />
+      <item idx="743" div="0" res="1" cpx="0.4322" />
+      <item idx="1834" div="0" res="1" cpx="0.4322" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4354</blockCpx>
+    <userAb>0.4472</userAb>
+    <userAb_TB>0.4354</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4589</dtu>
+    <dtl>0.4428</dtl>
+    <freq m="0.2714" sd="0.2424" />
+    <conc m="0.41" sd="0.1393" />
+    <distr m="0.96" sd="0.102" />
+  </block>
+  <block idx="73">
+    <sTime>03/08/2016 11:06:04</sTime>
+    <eTime>03/08/2016 11:06:05</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1946" div="1" res="1" cpx="0.4536" />
+      <item idx="2657" div="1" res="1" cpx="0.4536" />
+      <item idx="2463" div="0" res="1" cpx="0.4428" />
+      <item idx="5629" div="0" res="1" cpx="0.4428" />
+      <item idx="5652" div="0" res="1" cpx="0.4428" />
+      <item idx="3549" div="0" res="1" cpx="0.4428" />
+      <item idx="4932" div="0" res="1" cpx="0.4428" />
+      <item idx="5617" div="0" res="1" cpx="0.4428" />
+      <item idx="4563" div="0" res="1" cpx="0.4428" />
+      <item idx="4059" div="0" res="1" cpx="0.4428" />
+      <item idx="4063" div="0" res="1" cpx="0.4428" />
+      <item idx="4055" div="0" res="1" cpx="0.4428" />
+      <item idx="4067" div="0" res="1" cpx="0.4428" />
+      <item idx="5621" div="0" res="1" cpx="0.4428" />
+      <item idx="3020" div="0" res="1" cpx="0.4428" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4442</blockCpx>
+    <userAb>0.4522</userAb>
+    <userAb_TB>0.4442</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4643</dtu>
+    <dtl>0.4429</dtl>
+    <freq m="0.8371" sd="0.0874" />
+    <conc m="0.12" sd="0.0748" />
+    <distr m="0.72" sd="0.0748" />
+  </block>
+  <block idx="74">
+    <sTime>03/08/2016 11:06:05</sTime>
+    <eTime>03/08/2016 11:06:06</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11048" div="1" res="1" cpx="0.4536" />
+      <item idx="11202" div="1" res="1" cpx="0.4536" />
+      <item idx="6823" div="0" res="1" cpx="0.4482" />
+      <item idx="6793" div="0" res="1" cpx="0.4482" />
+      <item idx="6816" div="0" res="1" cpx="0.4482" />
+      <item idx="6819" div="0" res="1" cpx="0.4482" />
+      <item idx="7282" div="0" res="1" cpx="0.4482" />
+      <item idx="6834" div="0" res="1" cpx="0.4482" />
+      <item idx="7286" div="0" res="1" cpx="0.4482" />
+      <item idx="6797" div="0" res="1" cpx="0.4482" />
+      <item idx="10355" div="0" res="1" cpx="0.4429" />
+      <item idx="6838" div="0" res="1" cpx="0.4482" />
+      <item idx="6801" div="0" res="1" cpx="0.4482" />
+      <item idx="6805" div="0" res="1" cpx="0.4482" />
+      <item idx="6789" div="0" res="1" cpx="0.4482" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4486</blockCpx>
+    <userAb>0.4572</userAb>
+    <userAb_TB>0.4486</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4696</dtu>
+    <dtl>0.4482</dtl>
+    <freq m="0.7343" sd="0.0569" />
+    <conc m="0.15" sd="0.1183" />
+    <distr m="0.36" sd="0.102" />
+  </block>
+  <block idx="75">
+    <sTime>03/08/2016 11:06:06</sTime>
+    <eTime>03/08/2016 11:06:07</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11983" div="1" res="1" cpx="0.4589" />
+      <item idx="11449" div="1" res="1" cpx="0.4589" />
+      <item idx="9146" div="0" res="1" cpx="0.4536" />
+      <item idx="8909" div="0" res="1" cpx="0.4536" />
+      <item idx="8869" div="0" res="1" cpx="0.4536" />
+      <item idx="7409" div="0" res="1" cpx="0.4536" />
+      <item idx="8865" div="0" res="1" cpx="0.4536" />
+      <item idx="8877" div="0" res="1" cpx="0.4536" />
+      <item idx="8948" div="0" res="1" cpx="0.4536" />
+      <item idx="9158" div="0" res="1" cpx="0.4536" />
+      <item idx="8972" div="0" res="1" cpx="0.4536" />
+      <item idx="7421" div="0" res="1" cpx="0.4536" />
+      <item idx="8322" div="0" res="1" cpx="0.4536" />
+      <item idx="8395" div="0" res="1" cpx="0.4536" />
+      <item idx="8241" div="0" res="1" cpx="0.4536" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4543</blockCpx>
+    <userAb>0.4622</userAb>
+    <userAb_TB>0.4543</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4697</dtu>
+    <dtl>0.4536</dtl>
+    <freq m="0.5972" sd="0.0437" />
+    <conc m="0.12" sd="0.051" />
+    <distr m="0.1" sd="0" />
+  </block>
+  <block idx="76">
+    <sTime>03/08/2016 11:06:08</sTime>
+    <eTime>03/08/2016 11:06:08</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="2694" div="1" res="1" cpx="0.4643" />
+      <item idx="4780" div="1" res="1" cpx="0.4643" />
+      <item idx="1946" div="0" res="1" cpx="0.4536" />
+      <item idx="3147" div="0" res="1" cpx="0.4536" />
+      <item idx="3510" div="0" res="1" cpx="0.4536" />
+      <item idx="2657" div="0" res="1" cpx="0.4536" />
+      <item idx="5585" div="0" res="1" cpx="0.4536" />
+      <item idx="4889" div="0" res="1" cpx="0.4536" />
+      <item idx="786" div="0" res="1" cpx="0.4536" />
+      <item idx="2503" div="0" res="1" cpx="0.4589" />
+      <item idx="2972" div="0" res="1" cpx="0.4536" />
+      <item idx="2976" div="0" res="1" cpx="0.4536" />
+      <item idx="867" div="0" res="1" cpx="0.4536" />
+      <item idx="975" div="0" res="1" cpx="0.4589" />
+      <item idx="195" div="0" res="1" cpx="0.4589" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4561</blockCpx>
+    <userAb>0.4672</userAb>
+    <userAb_TB>0.4561</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.475</dtu>
+    <dtl>0.4589</dtl>
+    <freq m="0.5543" sd="0.0923" />
+    <conc m="0.29" sd="0.1281" />
+    <distr m="0.88" sd="0.147" />
+  </block>
+  <block idx="77">
+    <sTime>03/08/2016 11:06:09</sTime>
+    <eTime>03/08/2016 11:06:10</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12665" div="1" res="1" cpx="0.475" />
+      <item idx="12535" div="1" res="1" cpx="0.475" />
+      <item idx="12266" div="0" res="1" cpx="0.4643" />
+      <item idx="11043" div="0" res="1" cpx="0.4589" />
+      <item idx="6091" div="0" res="1" cpx="0.4589" />
+      <item idx="6847" div="0" res="1" cpx="0.4589" />
+      <item idx="11131" div="0" res="1" cpx="0.4589" />
+      <item idx="6489" div="0" res="1" cpx="0.4589" />
+      <item idx="6935" div="0" res="1" cpx="0.4589" />
+      <item idx="6907" div="0" res="1" cpx="0.4589" />
+      <item idx="6887" div="0" res="1" cpx="0.4589" />
+      <item idx="6867" div="0" res="1" cpx="0.4589" />
+      <item idx="7309" div="0" res="1" cpx="0.4589" />
+      <item idx="6943" div="0" res="1" cpx="0.4589" />
+      <item idx="6959" div="0" res="1" cpx="0.4589" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4614</blockCpx>
+    <userAb>0.4722</userAb>
+    <userAb_TB>0.4614</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4857</dtu>
+    <dtl>0.4696</dtl>
+    <freq m="0.4257" sd="0.1317" />
+    <conc m="0.25" sd="0.2449" />
+    <distr m="0.62" sd="0.2315" />
+  </block>
+  <block idx="78">
+    <sTime>03/08/2016 11:06:10</sTime>
+    <eTime>03/08/2016 11:06:11</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11771" div="1" res="1" cpx="0.475" />
+      <item idx="12037" div="1" res="1" cpx="0.475" />
+      <item idx="11944" div="0" res="1" cpx="0.4696" />
+      <item idx="11474" div="0" res="1" cpx="0.4696" />
+      <item idx="11594" div="0" res="1" cpx="0.4697" />
+      <item idx="8367" div="0" res="1" cpx="0.4697" />
+      <item idx="12108" div="0" res="1" cpx="0.4696" />
+      <item idx="11817" div="0" res="1" cpx="0.4696" />
+      <item idx="12131" div="0" res="1" cpx="0.4697" />
+      <item idx="12166" div="0" res="1" cpx="0.4697" />
+      <item idx="11508" div="0" res="1" cpx="0.4697" />
+      <item idx="11862" div="0" res="1" cpx="0.4697" />
+      <item idx="11647" div="0" res="1" cpx="0.4697" />
+      <item idx="8015" div="0" res="1" cpx="0.4696" />
+      <item idx="12155" div="0" res="1" cpx="0.4696" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4704</blockCpx>
+    <userAb>0.4772</userAb>
+    <userAb_TB>0.4704</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4911</dtu>
+    <dtl>0.4697</dtl>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.43" sd="0.1568" />
+    <distr m="0.24" sd="0.1497" />
+  </block>
+  <block idx="79">
+    <sTime>03/08/2016 11:06:11</sTime>
+    <eTime>03/08/2016 11:06:16</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>2</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11771" div="1" res="1" cpx="0.475" />
+      <item idx="9184" div="1" res="1" cpx="0.475" />
+      <item idx="11944" div="0" res="1" cpx="0.4696" />
+      <item idx="11474" div="0" res="1" cpx="0.4696" />
+      <item idx="11594" div="0" res="1" cpx="0.4697" />
+      <item idx="8367" div="0" res="1" cpx="0.4697" />
+      <item idx="12108" div="0" res="1" cpx="0.4696" />
+      <item idx="11817" div="0" res="1" cpx="0.4696" />
+      <item idx="8015" div="0" res="1" cpx="0.4696" />
+      <item idx="12166" div="0" res="1" cpx="0.4697" />
+      <item idx="12131" div="0" res="1" cpx="0.4697" />
+      <item idx="11647" div="0" res="1" cpx="0.4697" />
+      <item idx="11508" div="0" res="1" cpx="0.4697" />
+      <item idx="11478" div="0" res="1" cpx="0.4696" />
+      <item idx="11470" div="0" res="1" cpx="0.4696" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4704</blockCpx>
+    <userAb>0.4822</userAb>
+    <userAb_TB>0.4704</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4964</dtu>
+    <dtl>0.475</dtl>
+    <freq m="0.2115" sd="0.0437" />
+    <conc m="0.37" sd="0.1568" />
+    <distr m="0.3" sd="0.1789" />
+  </block>
+  <block idx="80">
+    <sTime>03/08/2016 11:06:16</sTime>
+    <eTime>03/08/2016 11:06:17</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="6739" div="1" res="1" cpx="0.4804" />
+      <item idx="9734" div="1" res="1" cpx="0.4911" />
+      <item idx="12601" div="0" res="1" cpx="0.475" />
+      <item idx="12586" div="0" res="1" cpx="0.475" />
+      <item idx="11113" div="0" res="1" cpx="0.475" />
+      <item idx="12665" div="0" res="1" cpx="0.475" />
+      <item idx="12414" div="0" res="1" cpx="0.475" />
+      <item idx="12535" div="0" res="1" cpx="0.475" />
+      <item idx="12252" div="0" res="1" cpx="0.475" />
+      <item idx="11314" div="0" res="1" cpx="0.4697" />
+      <item idx="11271" div="0" res="1" cpx="0.475" />
+      <item idx="11061" div="0" res="1" cpx="0.475" />
+      <item idx="11311" div="0" res="1" cpx="0.475" />
+      <item idx="12583" div="0" res="1" cpx="0.475" />
+      <item idx="6298" div="0" res="1" cpx="0.475" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4761</blockCpx>
+    <userAb>0.4822</userAb>
+    <userAb_TB>0.4761</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4964</dtu>
+    <dtl>0.475</dtl>
+    <freq m="0.1943" sd="0.2225" />
+    <conc m="0.44" sd="0.201" />
+    <distr m="0.72" sd="0.2561" />
+  </block>
+  <block idx="81">
+    <sTime>03/08/2016 11:06:18</sTime>
+    <eTime>03/08/2016 11:06:19</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>2</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="6739" div="1" res="1" cpx="0.4804" />
+      <item idx="11040" div="1" res="1" cpx="0.4911" />
+      <item idx="10981" div="0" res="1" cpx="0.475" />
+      <item idx="12234" div="0" res="1" cpx="0.4697" />
+      <item idx="12601" div="0" res="1" cpx="0.475" />
+      <item idx="12586" div="0" res="1" cpx="0.475" />
+      <item idx="11113" div="0" res="1" cpx="0.475" />
+      <item idx="12665" div="0" res="1" cpx="0.475" />
+      <item idx="12414" div="0" res="1" cpx="0.475" />
+      <item idx="11061" div="0" res="1" cpx="0.475" />
+      <item idx="12535" div="0" res="1" cpx="0.475" />
+      <item idx="12252" div="0" res="1" cpx="0.475" />
+      <item idx="11314" div="0" res="1" cpx="0.4697" />
+      <item idx="11271" div="0" res="1" cpx="0.475" />
+      <item idx="7243" div="0" res="1" cpx="0.475" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4757</blockCpx>
+    <userAb>0.4872</userAb>
+    <userAb_TB>0.4757</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5018</dtu>
+    <dtl>0.4804</dtl>
+    <freq m="0.2029" sd="0.2212" />
+    <conc m="0.45" sd="0.1789" />
+    <distr m="0.7" sd="0.1897" />
+  </block>
+  <block idx="82">
+    <sTime>03/08/2016 11:06:19</sTime>
+    <eTime>03/08/2016 11:06:20</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11434" div="1" res="1" cpx="0.4911" />
+      <item idx="11558" div="1" res="1" cpx="0.4911" />
+      <item idx="12073" div="0" res="1" cpx="0.475" />
+      <item idx="12037" div="0" res="1" cpx="0.475" />
+      <item idx="8993" div="0" res="1" cpx="0.475" />
+      <item idx="8104" div="0" res="1" cpx="0.475" />
+      <item idx="11771" div="0" res="1" cpx="0.475" />
+      <item idx="12011" div="0" res="1" cpx="0.475" />
+      <item idx="9184" div="0" res="1" cpx="0.475" />
+      <item idx="7649" div="0" res="1" cpx="0.475" />
+      <item idx="9215" div="0" res="1" cpx="0.475" />
+      <item idx="12701" div="0" res="1" cpx="0.475" />
+      <item idx="8100" div="0" res="1" cpx="0.475" />
+      <item idx="9087" div="0" res="1" cpx="0.475" />
+      <item idx="7579" div="0" res="1" cpx="0.475" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4771</blockCpx>
+    <userAb>0.4872</userAb>
+    <userAb_TB>0.4771</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5018</dtu>
+    <dtl>0.4804</dtl>
+    <freq m="0.1686" sd="0.1748" />
+    <conc m="0.3" sd="0.2302" />
+    <distr m="0.44" sd="0.2653" />
+  </block>
+  <block idx="83">
+    <sTime>03/08/2016 11:06:21</sTime>
+    <eTime>03/08/2016 11:06:21</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="871" div="1" res="1" cpx="0.4911" />
+      <item idx="3490" div="1" res="1" cpx="0.4911" />
+      <item idx="3054" div="0" res="1" cpx="0.4857" />
+      <item idx="2444" div="0" res="1" cpx="0.4857" />
+      <item idx="4113" div="0" res="1" cpx="0.4857" />
+      <item idx="3068" div="0" res="1" cpx="0.4857" />
+      <item idx="2274" div="0" res="1" cpx="0.4857" />
+      <item idx="3502" div="0" res="1" cpx="0.4857" />
+      <item idx="4556" div="0" res="1" cpx="0.4804" />
+      <item idx="4590" div="0" res="1" cpx="0.4857" />
+      <item idx="3566" div="0" res="1" cpx="0.4857" />
+      <item idx="4139" div="0" res="1" cpx="0.4857" />
+      <item idx="1882" div="0" res="1" cpx="0.4857" />
+      <item idx="4106" div="0" res="1" cpx="0.4857" />
+      <item idx="5732" div="0" res="1" cpx="0.4857" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4861</blockCpx>
+    <userAb>0.4922</userAb>
+    <userAb_TB>0.4861</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5072</dtu>
+    <dtl>0.4857</dtl>
+    <freq m="0.7343" sd="0.0569" />
+    <conc m="0.15" sd="0.0894" />
+    <distr m="0.96" sd="0.102" />
+  </block>
+  <block idx="84">
+    <sTime>03/08/2016 11:06:22</sTime>
+    <eTime>03/08/2016 11:06:23</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="9305" div="1" res="1" cpx="0.4964" />
+      <item idx="11337" div="1" res="1" cpx="0.5018" />
+      <item idx="9734" div="0" res="1" cpx="0.4911" />
+      <item idx="11040" div="0" res="1" cpx="0.4911" />
+      <item idx="9732" div="0" res="1" cpx="0.4911" />
+      <item idx="11122" div="0" res="1" cpx="0.4857" />
+      <item idx="10989" div="0" res="1" cpx="0.4911" />
+      <item idx="6676" div="0" res="1" cpx="0.4911" />
+      <item idx="9716" div="0" res="1" cpx="0.4911" />
+      <item idx="11257" div="0" res="1" cpx="0.4911" />
+      <item idx="6672" div="0" res="1" cpx="0.4911" />
+      <item idx="6700" div="0" res="1" cpx="0.4911" />
+      <item idx="6684" div="0" res="1" cpx="0.4911" />
+      <item idx="6668" div="0" res="1" cpx="0.4911" />
+      <item idx="9738" div="0" res="1" cpx="0.4911" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4918</blockCpx>
+    <userAb>0.4972</userAb>
+    <userAb_TB>0.4918</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5125</dtu>
+    <dtl>0.4911</dtl>
+    <freq m="0.5972" sd="0.0795" />
+    <conc m="0.52" sd="0.1913" />
+    <distr m="0.3" sd="0.1789" />
+  </block>
+  <block idx="85">
+    <sTime>03/08/2016 11:06:23</sTime>
+    <eTime>03/08/2016 11:06:24</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11719" div="1" res="1" cpx="0.5072" />
+      <item idx="11660" div="1" res="1" cpx="0.5072" />
+      <item idx="12718" div="0" res="1" cpx="0.4964" />
+      <item idx="11573" div="0" res="1" cpx="0.4911" />
+      <item idx="11516" div="0" res="1" cpx="0.4964" />
+      <item idx="11524" div="0" res="1" cpx="0.4964" />
+      <item idx="11434" div="0" res="1" cpx="0.4911" />
+      <item idx="11558" div="0" res="1" cpx="0.4911" />
+      <item idx="8195" div="0" res="1" cpx="0.4964" />
+      <item idx="11403" div="0" res="1" cpx="0.4911" />
+      <item idx="11430" div="0" res="1" cpx="0.4911" />
+      <item idx="7612" div="0" res="1" cpx="0.4964" />
+      <item idx="9115" div="0" res="1" cpx="0.4964" />
+      <item idx="7386" div="0" res="1" cpx="0.4964" />
+      <item idx="7504" div="0" res="1" cpx="0.4964" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.4961</blockCpx>
+    <userAb>0.5022</userAb>
+    <userAb_TB>0.4961</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5178</dtu>
+    <dtl>0.4964</dtl>
+    <freq m="0.4943" sd="0.1194" />
+    <conc m="0.27" sd="0.1631" />
+    <distr m="0.22" sd="0.147" />
+  </block>
+  <block idx="86">
+    <sTime>03/08/2016 11:06:25</sTime>
+    <eTime>03/08/2016 11:06:25</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11038" div="1" res="1" cpx="0.5072" />
+      <item idx="12571" div="1" res="1" cpx="0.5125" />
+      <item idx="11013" div="0" res="1" cpx="0.5018" />
+      <item idx="11167" div="0" res="1" cpx="0.5018" />
+      <item idx="11159" div="0" res="1" cpx="0.5018" />
+      <item idx="12612" div="0" res="1" cpx="0.5018" />
+      <item idx="11216" div="0" res="1" cpx="0.5018" />
+      <item idx="9622" div="0" res="1" cpx="0.4964" />
+      <item idx="11337" div="0" res="1" cpx="0.5018" />
+      <item idx="11298" div="0" res="1" cpx="0.5018" />
+      <item idx="9383" div="0" res="1" cpx="0.4964" />
+      <item idx="9359" div="0" res="1" cpx="0.4964" />
+      <item idx="6622" div="0" res="1" cpx="0.5018" />
+      <item idx="9370" div="0" res="1" cpx="0.4964" />
+      <item idx="9377" div="0" res="1" cpx="0.4964" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5011</blockCpx>
+    <userAb>0.5072</userAb>
+    <userAb_TB>0.5011</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5232</dtu>
+    <dtl>0.5018</dtl>
+    <freq m="0.3743" sd="0.1036" />
+    <conc m="0.62" sd="0.2619" />
+    <distr m="0.46" sd="0.3137" />
+  </block>
+  <block idx="87">
+    <sTime>03/08/2016 11:06:26</sTime>
+    <eTime>03/08/2016 11:06:27</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11391" div="1" res="1" cpx="0.5125" />
+      <item idx="12097" div="1" res="1" cpx="0.5125" />
+      <item idx="11715" div="0" res="1" cpx="0.5072" />
+      <item idx="11719" div="0" res="1" cpx="0.5072" />
+      <item idx="11660" div="0" res="1" cpx="0.5072" />
+      <item idx="12028" div="0" res="1" cpx="0.5072" />
+      <item idx="12013" div="0" res="1" cpx="0.5018" />
+      <item idx="11727" div="0" res="1" cpx="0.5072" />
+      <item idx="11734" div="0" res="1" cpx="0.5072" />
+      <item idx="8298" div="0" res="1" cpx="0.5018" />
+      <item idx="7952" div="0" res="1" cpx="0.5072" />
+      <item idx="11758" div="0" res="1" cpx="0.5072" />
+      <item idx="7536" div="0" res="1" cpx="0.5072" />
+      <item idx="8970" div="0" res="1" cpx="0.5072" />
+      <item idx="12045" div="0" res="1" cpx="0.5018" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5068</blockCpx>
+    <userAb>0.5122</userAb>
+    <userAb_TB>0.5068</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5232</dtu>
+    <dtl>0.5018</dtl>
+    <freq m="0.2372" sd="0.0737" />
+    <conc m="0.47" sd="0.2249" />
+    <distr m="0.32" sd="0.2561" />
+  </block>
+  <block idx="88">
+    <sTime>03/08/2016 11:06:27</sTime>
+    <eTime>03/08/2016 11:06:28</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>2</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="8507" div="1" res="1" cpx="0.5125" />
+      <item idx="11391" div="1" res="1" cpx="0.5125" />
+      <item idx="11715" div="0" res="1" cpx="0.5072" />
+      <item idx="11719" div="0" res="1" cpx="0.5072" />
+      <item idx="12013" div="0" res="1" cpx="0.5018" />
+      <item idx="11660" div="0" res="1" cpx="0.5072" />
+      <item idx="12028" div="0" res="1" cpx="0.5072" />
+      <item idx="11727" div="0" res="1" cpx="0.5072" />
+      <item idx="11734" div="0" res="1" cpx="0.5072" />
+      <item idx="8298" div="0" res="1" cpx="0.5018" />
+      <item idx="7952" div="0" res="1" cpx="0.5072" />
+      <item idx="11758" div="0" res="1" cpx="0.5072" />
+      <item idx="7625" div="0" res="1" cpx="0.5072" />
+      <item idx="8970" div="0" res="1" cpx="0.5072" />
+      <item idx="11703" div="0" res="1" cpx="0.5018" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5068</blockCpx>
+    <userAb>0.5172</userAb>
+    <userAb_TB>0.5068</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5286</dtu>
+    <dtl>0.5072</dtl>
+    <freq m="0.2372" sd="0.0737" />
+    <conc m="0.47" sd="0.2249" />
+    <distr m="0.32" sd="0.2561" />
+  </block>
+  <block idx="89">
+    <sTime>03/08/2016 11:06:28</sTime>
+    <eTime>03/08/2016 11:06:29</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12593" div="1" res="1" cpx="0.5125" />
+      <item idx="12670" div="1" res="1" cpx="0.5125" />
+      <item idx="12222" div="0" res="1" cpx="0.5072" />
+      <item idx="11030" div="0" res="1" cpx="0.5072" />
+      <item idx="12269" div="0" res="1" cpx="0.5018" />
+      <item idx="12612" div="0" res="1" cpx="0.5018" />
+      <item idx="11013" div="0" res="1" cpx="0.5018" />
+      <item idx="11167" div="0" res="1" cpx="0.5018" />
+      <item idx="11159" div="0" res="1" cpx="0.5018" />
+      <item idx="11216" div="0" res="1" cpx="0.5018" />
+      <item idx="6654" div="0" res="1" cpx="0.5018" />
+      <item idx="11341" div="0" res="1" cpx="0.5018" />
+      <item idx="11038" div="0" res="1" cpx="0.5072" />
+      <item idx="11298" div="0" res="1" cpx="0.5018" />
+      <item idx="11282" div="0" res="1" cpx="0.5072" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5047</blockCpx>
+    <userAb>0.5172</userAb>
+    <userAb_TB>0.5047</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5286</dtu>
+    <dtl>0.5072</dtl>
+    <freq m="0.2886" sd="0.0923" />
+    <conc m="0.56" sd="0.2764" />
+    <distr m="0.62" sd="0.2561" />
+  </block>
+  <block idx="90">
+    <sTime>03/08/2016 11:06:30</sTime>
+    <eTime>03/08/2016 11:06:30</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11883" div="1" res="1" cpx="0.5286" />
+      <item idx="11539" div="1" res="1" cpx="0.5286" />
+      <item idx="9167" div="0" res="1" cpx="0.5125" />
+      <item idx="12097" div="0" res="1" cpx="0.5125" />
+      <item idx="11571" div="0" res="1" cpx="0.5125" />
+      <item idx="11412" div="0" res="1" cpx="0.5125" />
+      <item idx="9010" div="0" res="1" cpx="0.5125" />
+      <item idx="8507" div="0" res="1" cpx="0.5125" />
+      <item idx="8902" div="0" res="1" cpx="0.5125" />
+      <item idx="11391" div="0" res="1" cpx="0.5125" />
+      <item idx="11800" div="0" res="1" cpx="0.5125" />
+      <item idx="11715" div="0" res="1" cpx="0.5072" />
+      <item idx="8524" div="0" res="1" cpx="0.5125" />
+      <item idx="9235" div="0" res="1" cpx="0.5125" />
+      <item idx="11635" div="0" res="1" cpx="0.5125" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5143</blockCpx>
+    <userAb>0.5222</userAb>
+    <userAb_TB>0.5143</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5339</dtu>
+    <dtl>0.5125</dtl>
+    <freq m="0.1771" sd="0.1744" />
+    <conc m="0.36" sd="0.1855" />
+    <distr m="0.52" sd="0.1833" />
+  </block>
+  <block idx="91">
+    <sTime>03/08/2016 11:06:31</sTime>
+    <eTime>03/08/2016 11:06:44</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>2</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11990" div="1" res="1" cpx="0.5178" />
+      <item idx="12162" div="1" res="1" cpx="0.5286" />
+      <item idx="12097" div="0" res="1" cpx="0.5125" />
+      <item idx="9038" div="0" res="1" cpx="0.5125" />
+      <item idx="11571" div="0" res="1" cpx="0.5125" />
+      <item idx="11412" div="0" res="1" cpx="0.5125" />
+      <item idx="11719" div="0" res="1" cpx="0.5072" />
+      <item idx="12042" div="0" res="1" cpx="0.5125" />
+      <item idx="9010" div="0" res="1" cpx="0.5125" />
+      <item idx="8507" div="0" res="1" cpx="0.5125" />
+      <item idx="11381" div="0" res="1" cpx="0.5125" />
+      <item idx="11391" div="0" res="1" cpx="0.5125" />
+      <item idx="9167" div="0" res="1" cpx="0.5125" />
+      <item idx="11800" div="0" res="1" cpx="0.5125" />
+      <item idx="11715" div="0" res="1" cpx="0.5072" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5132</blockCpx>
+    <userAb>0.5272</userAb>
+    <userAb_TB>0.5132</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5393</dtu>
+    <dtl>0.5178</dtl>
+    <freq m="0.2029" sd="0.2212" />
+    <conc m="0.43" sd="0.1833" />
+    <distr m="0.42" sd="0.2315" />
+  </block>
+  <block idx="92">
+    <sTime>03/08/2016 11:06:44</sTime>
+    <eTime>03/08/2016 11:06:45</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="791" div="1" res="1" cpx="0.5286" />
+      <item idx="4553" div="1" res="1" cpx="0.5286" />
+      <item idx="4583" div="0" res="1" cpx="0.5178" />
+      <item idx="4060" div="0" res="1" cpx="0.5178" />
+      <item idx="4052" div="0" res="1" cpx="0.5178" />
+      <item idx="3001" div="0" res="1" cpx="0.5178" />
+      <item idx="5649" div="0" res="1" cpx="0.5178" />
+      <item idx="4068" div="0" res="1" cpx="0.5178" />
+      <item idx="5637" div="0" res="1" cpx="0.5178" />
+      <item idx="2464" div="0" res="1" cpx="0.5178" />
+      <item idx="5665" div="0" res="1" cpx="0.5178" />
+      <item idx="3522" div="0" res="1" cpx="0.5178" />
+      <item idx="4575" div="0" res="1" cpx="0.5178" />
+      <item idx="3013" div="0" res="1" cpx="0.5178" />
+      <item idx="5626" div="0" res="1" cpx="0.5178" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5192</blockCpx>
+    <userAb>0.5272</userAb>
+    <userAb_TB>0.5192</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5393</dtu>
+    <dtl>0.5178</dtl>
+    <freq m="0.8371" sd="0.0874" />
+    <conc m="0.14" sd="0.102" />
+    <distr m="1" sd="0" />
+  </block>
+  <block idx="93">
+    <sTime>03/08/2016 11:06:46</sTime>
+    <eTime>03/08/2016 11:06:47</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="9552" div="1" res="1" cpx="0.5286" />
+      <item idx="9542" div="1" res="1" cpx="0.5286" />
+      <item idx="11052" div="0" res="1" cpx="0.5232" />
+      <item idx="6814" div="0" res="1" cpx="0.5232" />
+      <item idx="7227" div="0" res="1" cpx="0.5232" />
+      <item idx="6820" div="0" res="1" cpx="0.5232" />
+      <item idx="6827" div="0" res="1" cpx="0.5232" />
+      <item idx="10428" div="0" res="1" cpx="0.5178" />
+      <item idx="11211" div="0" res="1" cpx="0.5232" />
+      <item idx="6708" div="0" res="1" cpx="0.5178" />
+      <item idx="6786" div="0" res="1" cpx="0.5232" />
+      <item idx="7278" div="0" res="1" cpx="0.5232" />
+      <item idx="6839" div="0" res="1" cpx="0.5232" />
+      <item idx="6798" div="0" res="1" cpx="0.5232" />
+      <item idx="6802" div="0" res="1" cpx="0.5232" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5232</blockCpx>
+    <userAb>0.5322</userAb>
+    <userAb_TB>0.5232</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5447</dtu>
+    <dtl>0.5232</dtl>
+    <freq m="0.7429" sd="0.0664" />
+    <conc m="0.28" sd="0.2522" />
+    <distr m="0.52" sd="0.2135" />
+  </block>
+  <block idx="94">
+    <sTime>03/08/2016 11:06:47</sTime>
+    <eTime>03/08/2016 11:06:48</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11850" div="1" res="1" cpx="0.5393" />
+      <item idx="11676" div="1" res="1" cpx="0.5393" />
+      <item idx="11765" div="0" res="1" cpx="0.5286" />
+      <item idx="11883" div="0" res="1" cpx="0.5286" />
+      <item idx="12162" div="0" res="1" cpx="0.5286" />
+      <item idx="11539" div="0" res="1" cpx="0.5286" />
+      <item idx="11933" div="0" res="1" cpx="0.5286" />
+      <item idx="7664" div="0" res="1" cpx="0.5286" />
+      <item idx="8242" div="0" res="1" cpx="0.5286" />
+      <item idx="8910" div="0" res="1" cpx="0.5286" />
+      <item idx="8620" div="0" res="1" cpx="0.5232" />
+      <item idx="11384" div="0" res="1" cpx="0.5286" />
+      <item idx="7772" div="0" res="1" cpx="0.5232" />
+      <item idx="9159" div="0" res="1" cpx="0.5286" />
+      <item idx="8380" div="0" res="1" cpx="0.5286" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5293</blockCpx>
+    <userAb>0.5372</userAb>
+    <userAb_TB>0.5293</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.55</dtu>
+    <dtl>0.5286</dtl>
+    <freq m="0.5972" sd="0.1036" />
+    <conc m="0.24" sd="0.1772" />
+    <distr m="0.28" sd="0.147" />
+  </block>
+  <block idx="95">
+    <sTime>03/08/2016 11:06:48</sTime>
+    <eTime>03/08/2016 11:06:49</eTime>
+    <rIdx>0</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="1606" div="1" res="1" cpx="0.5393" />
+      <item idx="5526" div="1" res="1" cpx="0.5393" />
+      <item idx="791" div="0" res="1" cpx="0.5286" />
+      <item idx="4890" div="0" res="1" cpx="0.5286" />
+      <item idx="4016" div="0" res="1" cpx="0.5286" />
+      <item idx="4741" div="0" res="1" cpx="0.5286" />
+      <item idx="4541" div="0" res="1" cpx="0.5286" />
+      <item idx="2658" div="0" res="1" cpx="0.5286" />
+      <item idx="4553" div="0" res="1" cpx="0.5286" />
+      <item idx="2977" div="0" res="1" cpx="0.5286" />
+      <item idx="4032" div="0" res="1" cpx="0.5286" />
+      <item idx="5570" div="0" res="1" cpx="0.5286" />
+      <item idx="4388" div="0" res="1" cpx="0.5286" />
+      <item idx="2957" div="0" res="1" cpx="0.5286" />
+      <item idx="2948" div="0" res="1" cpx="0.5286" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.53</blockCpx>
+    <userAb>0.5422</userAb>
+    <userAb_TB>0.53</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5554</dtu>
+    <dtl>0.5339</dtl>
+    <freq m="0.58" sd="0.0874" />
+    <conc m="0.46" sd="0.12" />
+    <distr m="0.98" sd="0.0748" />
+  </block>
+  <block idx="96">
+    <sTime>03/08/2016 11:06:50</sTime>
+    <eTime>03/08/2016 11:06:51</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12326" div="1" res="1" cpx="0.5447" />
+      <item idx="12558" div="1" res="1" cpx="0.5447" />
+      <item idx="11199" div="0" res="1" cpx="0.5393" />
+      <item idx="9457" div="0" res="1" cpx="0.5339" />
+      <item idx="9405" div="0" res="1" cpx="0.5339" />
+      <item idx="12683" div="0" res="1" cpx="0.5393" />
+      <item idx="9579" div="0" res="1" cpx="0.5339" />
+      <item idx="9441" div="0" res="1" cpx="0.5339" />
+      <item idx="11058" div="0" res="1" cpx="0.5393" />
+      <item idx="11220" div="0" res="1" cpx="0.5339" />
+      <item idx="12238" div="0" res="1" cpx="0.5339" />
+      <item idx="12527" div="0" res="1" cpx="0.5393" />
+      <item idx="12452" div="0" res="1" cpx="0.5393" />
+      <item idx="9469" div="0" res="1" cpx="0.5339" />
+      <item idx="12274" div="0" res="1" cpx="0.5339" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5371</blockCpx>
+    <userAb>0.5472</userAb>
+    <userAb_TB>0.5371</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5607</dtu>
+    <dtl>0.5393</dtl>
+    <freq m="0.4086" sd="0.0915" />
+    <conc m="0.67" sd="0.2804" />
+    <distr m="0.52" sd="0.3429" />
+  </block>
+  <block idx="97">
+    <sTime>03/08/2016 11:06:52</sTime>
+    <eTime>03/08/2016 11:06:52</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11895" div="1" res="1" cpx="0.55" />
+      <item idx="12152" div="1" res="1" cpx="0.55" />
+      <item idx="11754" div="0" res="1" cpx="0.5393" />
+      <item idx="11930" div="0" res="1" cpx="0.5393" />
+      <item idx="11844" div="0" res="1" cpx="0.5393" />
+      <item idx="12001" div="0" res="1" cpx="0.5393" />
+      <item idx="11969" div="0" res="1" cpx="0.5393" />
+      <item idx="11954" div="0" res="1" cpx="0.5393" />
+      <item idx="12126" div="0" res="1" cpx="0.5393" />
+      <item idx="12114" div="0" res="1" cpx="0.5393" />
+      <item idx="11850" div="0" res="1" cpx="0.5393" />
+      <item idx="11676" div="0" res="1" cpx="0.5393" />
+      <item idx="11627" div="0" res="1" cpx="0.5447" />
+      <item idx="11636" div="0" res="1" cpx="0.5393" />
+      <item idx="11926" div="0" res="1" cpx="0.5393" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5411</blockCpx>
+    <userAb>0.5522</userAb>
+    <userAb_TB>0.5411</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5661</dtu>
+    <dtl>0.5447</dtl>
+    <freq m="0.3143" sd="0.0899" />
+    <conc m="0.53" sd="0.1631" />
+    <distr m="0.32" sd="0.2315" />
+  </block>
+  <block idx="98">
+    <sTime>03/08/2016 11:06:53</sTime>
+    <eTime>03/08/2016 11:06:54</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>2</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12094" div="1" res="1" cpx="0.55" />
+      <item idx="12694" div="1" res="1" cpx="0.55" />
+      <item idx="11754" div="0" res="1" cpx="0.5393" />
+      <item idx="11930" div="0" res="1" cpx="0.5393" />
+      <item idx="12001" div="0" res="1" cpx="0.5393" />
+      <item idx="11969" div="0" res="1" cpx="0.5393" />
+      <item idx="11652" div="0" res="1" cpx="0.5447" />
+      <item idx="12209" div="0" res="1" cpx="0.5393" />
+      <item idx="8859" div="0" res="1" cpx="0.5393" />
+      <item idx="11980" div="0" res="1" cpx="0.5393" />
+      <item idx="11684" div="0" res="1" cpx="0.5393" />
+      <item idx="12126" div="0" res="1" cpx="0.5393" />
+      <item idx="11850" div="0" res="1" cpx="0.5393" />
+      <item idx="11844" div="0" res="1" cpx="0.5393" />
+      <item idx="11977" div="0" res="1" cpx="0.5393" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5411</blockCpx>
+    <userAb>0.5572</userAb>
+    <userAb_TB>0.5411</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5714</dtu>
+    <dtl>0.55</dtl>
+    <freq m="0.3143" sd="0.0899" />
+    <conc m="0.45" sd="0.1871" />
+    <distr m="0.4" sd="0.2191" />
+  </block>
+  <block idx="99">
+    <sTime>03/08/2016 11:06:54</sTime>
+    <eTime>03/08/2016 11:06:55</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="9778" div="1" res="1" cpx="0.5607" />
+      <item idx="9768" div="1" res="1" cpx="0.5607" />
+      <item idx="12336" div="0" res="1" cpx="0.55" />
+      <item idx="12591" div="0" res="1" cpx="0.55" />
+      <item idx="12448" div="0" res="1" cpx="0.55" />
+      <item idx="12587" div="0" res="1" cpx="0.55" />
+      <item idx="12429" div="0" res="1" cpx="0.55" />
+      <item idx="11117" div="0" res="1" cpx="0.55" />
+      <item idx="12326" div="0" res="1" cpx="0.5447" />
+      <item idx="12344" div="0" res="1" cpx="0.55" />
+      <item idx="12550" div="0" res="1" cpx="0.5447" />
+      <item idx="12558" div="0" res="1" cpx="0.5447" />
+      <item idx="10982" div="0" res="1" cpx="0.55" />
+      <item idx="12656" div="0" res="1" cpx="0.5447" />
+      <item idx="12584" div="0" res="1" cpx="0.55" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.55</blockCpx>
+    <userAb>0.5572</userAb>
+    <userAb_TB>0.55</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5714</dtu>
+    <dtl>0.55</dtl>
+    <freq m="0.22" sd="0.2124" />
+    <conc m="0.65" sd="0.1789" />
+    <distr m="0.78" sd="0.2993" />
+  </block>
+  <block idx="100">
+    <sTime>03/08/2016 11:06:56</sTime>
+    <eTime>03/08/2016 11:06:56</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11599" div="1" res="1" cpx="0.5661" />
+      <item idx="11461" div="1" res="1" cpx="0.5714" />
+      <item idx="11895" div="0" res="1" cpx="0.55" />
+      <item idx="12152" div="0" res="1" cpx="0.55" />
+      <item idx="12094" div="0" res="1" cpx="0.55" />
+      <item idx="11393" div="0" res="1" cpx="0.55" />
+      <item idx="11619" div="0" res="1" cpx="0.55" />
+      <item idx="12694" div="0" res="1" cpx="0.55" />
+      <item idx="12017" div="0" res="1" cpx="0.55" />
+      <item idx="11592" div="0" res="1" cpx="0.55" />
+      <item idx="12074" div="0" res="1" cpx="0.55" />
+      <item idx="12012" div="0" res="1" cpx="0.55" />
+      <item idx="12004" div="0" res="1" cpx="0.55" />
+      <item idx="11798" div="0" res="1" cpx="0.55" />
+      <item idx="11483" div="0" res="1" cpx="0.55" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5525</blockCpx>
+    <userAb>0.5622</userAb>
+    <userAb_TB>0.5525</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5768</dtu>
+    <dtl>0.5554</dtl>
+    <freq m="0.16" sd="0.1548" />
+    <conc m="0.51" sd="0.1594" />
+    <distr m="0.54" sd="0.1855" />
+  </block>
+  <block idx="101">
+    <sTime>03/08/2016 11:06:57</sTime>
+    <eTime>03/08/2016 11:06:58</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12214" div="1" res="1" cpx="0.5714" />
+      <item idx="12375" div="1" res="1" cpx="0.5768" />
+      <item idx="11293" div="0" res="1" cpx="0.5607" />
+      <item idx="11123" div="0" res="1" cpx="0.5607" />
+      <item idx="9778" div="0" res="1" cpx="0.5607" />
+      <item idx="9768" div="0" res="1" cpx="0.5607" />
+      <item idx="9762" div="0" res="1" cpx="0.5607" />
+      <item idx="9775" div="0" res="1" cpx="0.5607" />
+      <item idx="9784" div="0" res="1" cpx="0.5607" />
+      <item idx="10576" div="0" res="1" cpx="0.5607" />
+      <item idx="6736" div="0" res="1" cpx="0.5554" />
+      <item idx="9765" div="0" res="1" cpx="0.5607" />
+      <item idx="6768" div="0" res="1" cpx="0.5607" />
+      <item idx="6760" div="0" res="1" cpx="0.5554" />
+      <item idx="10828" div="0" res="1" cpx="0.5607" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5618</blockCpx>
+    <userAb>0.5672</userAb>
+    <userAb_TB>0.5618</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5822</dtu>
+    <dtl>0.5607</dtl>
+    <freq m="0.7172" sd="0.126" />
+    <conc m="0.58" sd="0.3059" />
+    <distr m="0.4" sd="0.2683" />
+  </block>
+  <block idx="102">
+    <sTime>03/08/2016 11:06:58</sTime>
+    <eTime>03/08/2016 11:06:59</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>3</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="9336" div="1" res="1" cpx="0.5714" />
+      <item idx="12522" div="1" res="1" cpx="0.5714" />
+      <item idx="11293" div="0" res="1" cpx="0.5607" />
+      <item idx="11123" div="0" res="1" cpx="0.5607" />
+      <item idx="10576" div="0" res="1" cpx="0.5607" />
+      <item idx="6736" div="0" res="1" cpx="0.5554" />
+      <item idx="9778" div="0" res="1" cpx="0.5607" />
+      <item idx="9768" div="0" res="1" cpx="0.5607" />
+      <item idx="6768" div="0" res="1" cpx="0.5607" />
+      <item idx="11254" div="0" res="1" cpx="0.5607" />
+      <item idx="9762" div="0" res="1" cpx="0.5607" />
+      <item idx="6760" div="0" res="1" cpx="0.5554" />
+      <item idx="7275" div="0" res="1" cpx="0.5554" />
+      <item idx="10828" div="0" res="1" cpx="0.5607" />
+      <item idx="10504" div="0" res="1" cpx="0.5554" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5607</blockCpx>
+    <userAb>0.5722</userAb>
+    <userAb_TB>0.5607</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5875</dtu>
+    <dtl>0.5661</dtl>
+    <freq m="0.7429" sd="0.115" />
+    <conc m="0.45" sd="0.313" />
+    <distr m="0.5" sd="0.2366" />
+  </block>
+  <block idx="103">
+    <sTime>03/08/2016 11:07:00</sTime>
+    <eTime>03/08/2016 11:07:00</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11461" div="1" res="1" cpx="0.5714" />
+      <item idx="11874" div="1" res="1" cpx="0.5714" />
+      <item idx="11562" div="0" res="1" cpx="0.5661" />
+      <item idx="11599" div="0" res="1" cpx="0.5661" />
+      <item idx="11879" div="0" res="1" cpx="0.5661" />
+      <item idx="7833" div="0" res="1" cpx="0.5607" />
+      <item idx="11488" div="0" res="1" cpx="0.5661" />
+      <item idx="12067" div="0" res="1" cpx="0.5661" />
+      <item idx="11404" div="0" res="1" cpx="0.5661" />
+      <item idx="11435" div="0" res="1" cpx="0.5661" />
+      <item idx="11458" div="0" res="1" cpx="0.5661" />
+      <item idx="11559" div="0" res="1" cpx="0.5661" />
+      <item idx="11406" div="0" res="1" cpx="0.5607" />
+      <item idx="11767" div="0" res="1" cpx="0.5607" />
+      <item idx="11536" div="0" res="1" cpx="0.5661" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5657</blockCpx>
+    <userAb>0.5722</userAb>
+    <userAb_TB>0.5657</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5875</dtu>
+    <dtl>0.5661</dtl>
+    <freq m="0.6229" sd="0.0738" />
+    <conc m="0.38" sd="0.1631" />
+    <distr m="0.26" sd="0.1497" />
+  </block>
+  <block idx="104">
+    <sTime>03/08/2016 11:07:01</sTime>
+    <eTime>03/08/2016 11:07:02</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12565" div="1" res="1" cpx="0.5822" />
+      <item idx="12649" div="1" res="1" cpx="0.5822" />
+      <item idx="12214" div="0" res="1" cpx="0.5714" />
+      <item idx="11121" div="0" res="1" cpx="0.5714" />
+      <item idx="11251" div="0" res="1" cpx="0.5714" />
+      <item idx="9336" div="0" res="1" cpx="0.5714" />
+      <item idx="12522" div="0" res="1" cpx="0.5714" />
+      <item idx="9318" div="0" res="1" cpx="0.5714" />
+      <item idx="9344" div="0" res="1" cpx="0.5714" />
+      <item idx="9321" div="0" res="1" cpx="0.5714" />
+      <item idx="9306" div="0" res="1" cpx="0.5714" />
+      <item idx="9314" div="0" res="1" cpx="0.5714" />
+      <item idx="9310" div="0" res="1" cpx="0.5714" />
+      <item idx="12276" div="0" res="1" cpx="0.5714" />
+      <item idx="9298" div="0" res="1" cpx="0.5714" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5728</blockCpx>
+    <userAb>0.5772</userAb>
+    <userAb_TB>0.5728</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5928</dtu>
+    <dtl>0.5714</dtl>
+    <freq m="0.4514" sd="0.0874" />
+    <conc m="0.71" sd="0.2154" />
+    <distr m="0.58" sd="0.2638" />
+  </block>
+  <block idx="105">
+    <sTime>03/08/2016 11:07:02</sTime>
+    <eTime>03/08/2016 11:07:03</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11998" div="1" res="1" cpx="0.5875" />
+      <item idx="11382" div="1" res="1" cpx="0.5875" />
+      <item idx="11419" div="0" res="1" cpx="0.5768" />
+      <item idx="11704" div="0" res="1" cpx="0.5768" />
+      <item idx="10961" div="0" res="1" cpx="0.5714" />
+      <item idx="10943" div="0" res="1" cpx="0.5714" />
+      <item idx="10170" div="0" res="1" cpx="0.5714" />
+      <item idx="12112" div="0" res="1" cpx="0.5714" />
+      <item idx="12106" div="0" res="1" cpx="0.5768" />
+      <item idx="11551" div="0" res="1" cpx="0.5714" />
+      <item idx="11461" div="0" res="1" cpx="0.5714" />
+      <item idx="11874" div="0" res="1" cpx="0.5714" />
+      <item idx="10972" div="0" res="1" cpx="0.5714" />
+      <item idx="12135" div="0" res="1" cpx="0.5714" />
+      <item idx="10927" div="0" res="1" cpx="0.5714" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5746</blockCpx>
+    <userAb>0.5822</userAb>
+    <userAb_TB>0.5746</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5929</dtu>
+    <dtl>0.5768</dtl>
+    <freq m="0.4086" sd="0.1311" />
+    <conc m="0.53" sd="0.1631" />
+    <distr m="0.36" sd="0.2653" />
+  </block>
+  <block idx="106">
+    <sTime>03/08/2016 11:07:04</sTime>
+    <eTime>03/08/2016 11:07:04</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11225" div="1" res="1" cpx="0.5875" />
+      <item idx="12437" div="1" res="1" cpx="0.5875" />
+      <item idx="12649" div="0" res="1" cpx="0.5822" />
+      <item idx="12223" div="0" res="1" cpx="0.5822" />
+      <item idx="12565" div="0" res="1" cpx="0.5822" />
+      <item idx="12477" div="0" res="1" cpx="0.5822" />
+      <item idx="12631" div="0" res="1" cpx="0.5768" />
+      <item idx="12375" div="0" res="1" cpx="0.5768" />
+      <item idx="11217" div="0" res="1" cpx="0.5768" />
+      <item idx="11303" div="0" res="1" cpx="0.5822" />
+      <item idx="11342" div="0" res="1" cpx="0.5768" />
+      <item idx="12519" div="0" res="1" cpx="0.5768" />
+      <item idx="11283" div="0" res="1" cpx="0.5822" />
+      <item idx="11160" div="0" res="1" cpx="0.5768" />
+      <item idx="12609" div="0" res="1" cpx="0.5768" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5804</blockCpx>
+    <userAb>0.5872</userAb>
+    <userAb_TB>0.5804</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5929</dtu>
+    <dtl>0.5768</dtl>
+    <freq m="0.2714" sd="0.0899" />
+    <conc m="0.66" sd="0.1934" />
+    <distr m="0.84" sd="0.2417" />
+  </block>
+  <block idx="107">
+    <sTime>03/08/2016 11:07:05</sTime>
+    <eTime>03/08/2016 11:07:11</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11998" div="1" res="1" cpx="0.5875" />
+      <item idx="12025" div="1" res="1" cpx="0.5875" />
+      <item idx="11419" div="0" res="1" cpx="0.5768" />
+      <item idx="11704" div="0" res="1" cpx="0.5768" />
+      <item idx="8302" div="0" res="1" cpx="0.5822" />
+      <item idx="11728" div="0" res="1" cpx="0.5822" />
+      <item idx="11899" div="0" res="1" cpx="0.5768" />
+      <item idx="11724" div="0" res="1" cpx="0.5822" />
+      <item idx="12106" div="0" res="1" cpx="0.5768" />
+      <item idx="11716" div="0" res="1" cpx="0.5822" />
+      <item idx="12071" div="0" res="1" cpx="0.5822" />
+      <item idx="8907" div="0" res="1" cpx="0.5768" />
+      <item idx="7440" div="0" res="1" cpx="0.5822" />
+      <item idx="11743" div="0" res="1" cpx="0.5822" />
+      <item idx="12172" div="0" res="1" cpx="0.5822" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5811</blockCpx>
+    <userAb>0.5922</userAb>
+    <userAb_TB>0.5811</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.5982</dtu>
+    <dtl>0.5822</dtl>
+    <freq m="0.2543" sd="0.084" />
+    <conc m="0.53" sd="0.2315" />
+    <distr m="0.54" sd="0.2154" />
+  </block>
+  <block idx="108">
+    <sTime>03/08/2016 11:07:12</sTime>
+    <eTime>03/08/2016 11:07:12</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>3</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="7513" div="1" res="1" cpx="0.5875" />
+      <item idx="11998" div="1" res="1" cpx="0.5875" />
+      <item idx="11704" div="0" res="1" cpx="0.5768" />
+      <item idx="11419" div="0" res="1" cpx="0.5768" />
+      <item idx="8302" div="0" res="1" cpx="0.5822" />
+      <item idx="11728" div="0" res="1" cpx="0.5822" />
+      <item idx="11899" div="0" res="1" cpx="0.5768" />
+      <item idx="11724" div="0" res="1" cpx="0.5822" />
+      <item idx="12106" div="0" res="1" cpx="0.5768" />
+      <item idx="11716" div="0" res="1" cpx="0.5822" />
+      <item idx="12071" div="0" res="1" cpx="0.5822" />
+      <item idx="8907" div="0" res="1" cpx="0.5768" />
+      <item idx="7989" div="0" res="1" cpx="0.5822" />
+      <item idx="8429" div="0" res="1" cpx="0.5822" />
+      <item idx="7440" div="0" res="1" cpx="0.5822" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5811</blockCpx>
+    <userAb>0.5972</userAb>
+    <userAb_TB>0.5811</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6089</dtu>
+    <dtl>0.5928</dtl>
+    <freq m="0.2543" sd="0.084" />
+    <conc m="0.47" sd="0.2676" />
+    <distr m="0.6" sd="0.2608" />
+  </block>
+  <block idx="109">
+    <sTime>03/08/2016 11:07:13</sTime>
+    <eTime>03/08/2016 11:07:14</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="9692" div="1" res="1" cpx="0.5982" />
+      <item idx="9680" div="1" res="1" cpx="0.5982" />
+      <item idx="12437" div="0" res="1" cpx="0.5875" />
+      <item idx="11225" div="0" res="1" cpx="0.5875" />
+      <item idx="12580" div="0" res="1" cpx="0.5875" />
+      <item idx="12219" div="0" res="1" cpx="0.5875" />
+      <item idx="12565" div="0" res="1" cpx="0.5822" />
+      <item idx="12306" div="0" res="1" cpx="0.5875" />
+      <item idx="12649" div="0" res="1" cpx="0.5822" />
+      <item idx="12501" div="0" res="1" cpx="0.5875" />
+      <item idx="12418" div="0" res="1" cpx="0.5875" />
+      <item idx="12569" div="0" res="1" cpx="0.5875" />
+      <item idx="12223" div="0" res="1" cpx="0.5822" />
+      <item idx="12477" div="0" res="1" cpx="0.5822" />
+      <item idx="11303" div="0" res="1" cpx="0.5822" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5872</blockCpx>
+    <userAb>0.5972</userAb>
+    <userAb_TB>0.5872</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6089</dtu>
+    <dtl>0.5928</dtl>
+    <freq m="0.2286" sd="0.21" />
+    <conc m="0.77" sd="0.1965" />
+    <distr m="0.8" sd="0.3033" />
+  </block>
+  <block idx="110">
+    <sTime>03/08/2016 11:07:14</sTime>
+    <eTime>03/08/2016 11:07:15</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>3</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11099" div="1" res="1" cpx="0.5982" />
+      <item idx="9692" div="1" res="1" cpx="0.5982" />
+      <item idx="12437" div="0" res="1" cpx="0.5875" />
+      <item idx="11225" div="0" res="1" cpx="0.5875" />
+      <item idx="12580" div="0" res="1" cpx="0.5875" />
+      <item idx="12306" div="0" res="1" cpx="0.5875" />
+      <item idx="12565" div="0" res="1" cpx="0.5822" />
+      <item idx="12649" div="0" res="1" cpx="0.5822" />
+      <item idx="12501" div="0" res="1" cpx="0.5875" />
+      <item idx="12418" div="0" res="1" cpx="0.5875" />
+      <item idx="12504" div="0" res="1" cpx="0.5822" />
+      <item idx="12219" div="0" res="1" cpx="0.5875" />
+      <item idx="11283" div="0" res="1" cpx="0.5822" />
+      <item idx="11347" div="0" res="1" cpx="0.5822" />
+      <item idx="12569" div="0" res="1" cpx="0.5875" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5872</blockCpx>
+    <userAb>0.6022</userAb>
+    <userAb_TB>0.5872</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6143</dtu>
+    <dtl>0.5929</dtl>
+    <freq m="0.2286" sd="0.21" />
+    <conc m="0.77" sd="0.1806" />
+    <distr m="0.8" sd="0.2608" />
+  </block>
+  <block idx="111">
+    <sTime>03/08/2016 11:07:15</sTime>
+    <eTime>03/08/2016 11:07:16</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="10941" div="1" res="1" cpx="0.6036" />
+      <item idx="10950" div="1" res="1" cpx="0.6036" />
+      <item idx="11991" div="0" res="1" cpx="0.5928" />
+      <item idx="9097" div="0" res="1" cpx="0.5928" />
+      <item idx="7766" div="0" res="1" cpx="0.5928" />
+      <item idx="9100" div="0" res="1" cpx="0.5928" />
+      <item idx="7759" div="0" res="1" cpx="0.5928" />
+      <item idx="8599" div="0" res="1" cpx="0.5928" />
+      <item idx="8583" div="0" res="1" cpx="0.5928" />
+      <item idx="8606" div="0" res="1" cpx="0.5928" />
+      <item idx="8603" div="0" res="1" cpx="0.5928" />
+      <item idx="7739" div="0" res="1" cpx="0.5928" />
+      <item idx="8610" div="0" res="1" cpx="0.5928" />
+      <item idx="8575" div="0" res="1" cpx="0.5928" />
+      <item idx="9093" div="0" res="1" cpx="0.5928" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5942</blockCpx>
+    <userAb>0.6022</userAb>
+    <userAb_TB>0.5942</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6143</dtu>
+    <dtl>0.5929</dtl>
+    <freq m="0.8371" sd="0.0874" />
+    <conc m="0.18" sd="0.204" />
+    <distr m="0.36" sd="0.102" />
+  </block>
+  <block idx="112">
+    <sTime>03/08/2016 11:07:16</sTime>
+    <eTime>03/08/2016 11:07:17</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="9290" div="1" res="1" cpx="0.6089" />
+      <item idx="9266" div="1" res="1" cpx="0.6089" />
+      <item idx="11099" div="0" res="1" cpx="0.5982" />
+      <item idx="9692" div="0" res="1" cpx="0.5982" />
+      <item idx="9680" div="0" res="1" cpx="0.5982" />
+      <item idx="9664" div="0" res="1" cpx="0.5982" />
+      <item idx="9672" div="0" res="1" cpx="0.5982" />
+      <item idx="11212" div="0" res="1" cpx="0.5982" />
+      <item idx="9675" div="0" res="1" cpx="0.5982" />
+      <item idx="9668" div="0" res="1" cpx="0.5982" />
+      <item idx="9688" div="0" res="1" cpx="0.5982" />
+      <item idx="10393" div="0" res="1" cpx="0.5929" />
+      <item idx="9684" div="0" res="1" cpx="0.5982" />
+      <item idx="6791" div="0" res="1" cpx="0.5982" />
+      <item idx="6821" div="0" res="1" cpx="0.5982" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.5993</blockCpx>
+    <userAb>0.6072</userAb>
+    <userAb_TB>0.5993</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6196</dtu>
+    <dtl>0.5982</dtl>
+    <freq m="0.7172" sd="0.0962" />
+    <conc m="0.77" sd="0.3501" />
+    <distr m="0.36" sd="0.3262" />
+  </block>
+  <block idx="113">
+    <sTime>03/08/2016 11:07:18</sTime>
+    <eTime>03/08/2016 11:07:18</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11567" div="1" res="1" cpx="0.6089" />
+      <item idx="10158" div="1" res="1" cpx="0.6089" />
+      <item idx="11679" div="0" res="1" cpx="0.5982" />
+      <item idx="10977" div="0" res="1" cpx="0.6036" />
+      <item idx="10941" div="0" res="1" cpx="0.6036" />
+      <item idx="10950" div="0" res="1" cpx="0.6036" />
+      <item idx="11497" div="0" res="1" cpx="0.6036" />
+      <item idx="11766" div="0" res="1" cpx="0.6036" />
+      <item idx="11671" div="0" res="1" cpx="0.5982" />
+      <item idx="11396" div="0" res="1" cpx="0.6036" />
+      <item idx="11385" div="0" res="1" cpx="0.6036" />
+      <item idx="11810" div="0" res="1" cpx="0.5982" />
+      <item idx="10277" div="0" res="1" cpx="0.6036" />
+      <item idx="10264" div="0" res="1" cpx="0.6036" />
+      <item idx="10235" div="0" res="1" cpx="0.6036" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6032</blockCpx>
+    <userAb>0.6122</userAb>
+    <userAb_TB>0.6032</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.625</dtu>
+    <dtl>0.6036</dtl>
+    <freq m="0.6229" sd="0.0738" />
+    <conc m="0.57" sd="0.1806" />
+    <distr m="0.22" sd="0.1833" />
+  </block>
+  <block idx="114">
+    <sTime>03/08/2016 11:07:19</sTime>
+    <eTime>03/08/2016 11:07:19</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12453" div="1" res="1" cpx="0.6143" />
+      <item idx="11228" div="1" res="1" cpx="0.6196" />
+      <item idx="9599" div="0" res="1" cpx="0.6089" />
+      <item idx="9398" div="0" res="1" cpx="0.6089" />
+      <item idx="9418" div="0" res="1" cpx="0.6089" />
+      <item idx="9523" div="0" res="1" cpx="0.6036" />
+      <item idx="11171" div="0" res="1" cpx="0.6036" />
+      <item idx="9590" div="0" res="1" cpx="0.6089" />
+      <item idx="9580" div="0" res="1" cpx="0.6089" />
+      <item idx="9402" div="0" res="1" cpx="0.6089" />
+      <item idx="9290" div="0" res="1" cpx="0.6089" />
+      <item idx="9533" div="0" res="1" cpx="0.6036" />
+      <item idx="9539" div="0" res="1" cpx="0.6036" />
+      <item idx="9572" div="0" res="1" cpx="0.6036" />
+      <item idx="9560" div="0" res="1" cpx="0.6036" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6079</blockCpx>
+    <userAb>0.6172</userAb>
+    <userAb_TB>0.6079</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6304</dtu>
+    <dtl>0.6089</dtl>
+    <freq m="0.5114" sd="0.1071" />
+    <conc m="0.91" sd="0.12" />
+    <distr m="0.46" sd="0.1625" />
+  </block>
+  <block idx="115">
+    <sTime>03/08/2016 11:07:20</sTime>
+    <eTime>03/08/2016 11:07:21</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12009" div="1" res="1" cpx="0.625" />
+      <item idx="11831" div="1" res="1" cpx="0.625" />
+      <item idx="11861" div="0" res="1" cpx="0.6143" />
+      <item idx="11854" div="0" res="1" cpx="0.6143" />
+      <item idx="12123" div="0" res="1" cpx="0.6143" />
+      <item idx="11711" div="0" res="1" cpx="0.6089" />
+      <item idx="11780" div="0" res="1" cpx="0.6089" />
+      <item idx="11567" div="0" res="1" cpx="0.6089" />
+      <item idx="11669" div="0" res="1" cpx="0.6089" />
+      <item idx="11604" div="0" res="1" cpx="0.6089" />
+      <item idx="12159" div="0" res="1" cpx="0.6143" />
+      <item idx="12184" div="0" res="1" cpx="0.6143" />
+      <item idx="11931" div="0" res="1" cpx="0.6143" />
+      <item idx="11657" div="0" res="1" cpx="0.6143" />
+      <item idx="10158" div="0" res="1" cpx="0.6089" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6136</blockCpx>
+    <userAb>0.6222</userAb>
+    <userAb_TB>0.6136</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6357</dtu>
+    <dtl>0.6143</dtl>
+    <freq m="0.3743" sd="0.123" />
+    <conc m="0.58" sd="0.1913" />
+    <distr m="0.5" sd="0.2366" />
+  </block>
+  <block idx="116">
+    <sTime>03/08/2016 11:07:21</sTime>
+    <eTime>03/08/2016 11:07:22</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>3</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12103" div="1" res="1" cpx="0.625" />
+      <item idx="12009" div="1" res="1" cpx="0.625" />
+      <item idx="11861" div="0" res="1" cpx="0.6143" />
+      <item idx="11534" div="0" res="1" cpx="0.6089" />
+      <item idx="11427" div="0" res="1" cpx="0.6089" />
+      <item idx="11711" div="0" res="1" cpx="0.6089" />
+      <item idx="11501" div="0" res="1" cpx="0.6143" />
+      <item idx="11780" div="0" res="1" cpx="0.6089" />
+      <item idx="11854" div="0" res="1" cpx="0.6143" />
+      <item idx="12123" div="0" res="1" cpx="0.6143" />
+      <item idx="11693" div="0" res="1" cpx="0.6143" />
+      <item idx="11567" div="0" res="1" cpx="0.6089" />
+      <item idx="12712" div="0" res="1" cpx="0.6143" />
+      <item idx="11451" div="0" res="1" cpx="0.6089" />
+      <item idx="11669" div="0" res="1" cpx="0.6089" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6132</blockCpx>
+    <userAb>0.6272</userAb>
+    <userAb_TB>0.6132</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6411</dtu>
+    <dtl>0.6196</dtl>
+    <freq m="0.3828" sd="0.126" />
+    <conc m="0.57" sd="0.2182" />
+    <distr m="0.5" sd="0.2366" />
+  </block>
+  <block idx="117">
+    <sTime>03/08/2016 11:07:22</sTime>
+    <eTime>03/08/2016 11:07:23</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="10951" div="1" res="1" cpx="0.6304" />
+      <item idx="10955" div="1" res="1" cpx="0.6357" />
+      <item idx="11480" div="0" res="1" cpx="0.6196" />
+      <item idx="12203" div="0" res="1" cpx="0.6143" />
+      <item idx="12115" div="0" res="1" cpx="0.6143" />
+      <item idx="12120" div="0" res="1" cpx="0.6143" />
+      <item idx="11791" div="0" res="1" cpx="0.6143" />
+      <item idx="11501" div="0" res="1" cpx="0.6143" />
+      <item idx="11927" div="0" res="1" cpx="0.6143" />
+      <item idx="11677" div="0" res="1" cpx="0.6143" />
+      <item idx="12708" div="0" res="1" cpx="0.6196" />
+      <item idx="11493" div="0" res="1" cpx="0.6143" />
+      <item idx="11845" div="0" res="1" cpx="0.6143" />
+      <item idx="11693" div="0" res="1" cpx="0.6143" />
+      <item idx="11637" div="0" res="1" cpx="0.6143" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6175</blockCpx>
+    <userAb>0.6272</userAb>
+    <userAb_TB>0.6175</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6411</dtu>
+    <dtl>0.6196</dtl>
+    <freq m="0.4" sd="0.1671" />
+    <conc m="0.53" sd="0.1887" />
+    <distr m="0.54" sd="0.2653" />
+  </block>
+  <block idx="118">
+    <sTime>03/08/2016 11:07:23</sTime>
+    <eTime>03/08/2016 11:07:24</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="10956" div="1" res="1" cpx="0.6357" />
+      <item idx="10965" div="1" res="1" cpx="0.6357" />
+      <item idx="11831" div="0" res="1" cpx="0.625" />
+      <item idx="11522" div="0" res="1" cpx="0.625" />
+      <item idx="12103" div="0" res="1" cpx="0.625" />
+      <item idx="11871" div="0" res="1" cpx="0.625" />
+      <item idx="12009" div="0" res="1" cpx="0.625" />
+      <item idx="12695" div="0" res="1" cpx="0.625" />
+      <item idx="12020" div="0" res="1" cpx="0.625" />
+      <item idx="11593" div="0" res="1" cpx="0.625" />
+      <item idx="11896" div="0" res="1" cpx="0.625" />
+      <item idx="11835" div="0" res="1" cpx="0.625" />
+      <item idx="12039" div="0" res="1" cpx="0.625" />
+      <item idx="12153" div="0" res="1" cpx="0.625" />
+      <item idx="12005" div="0" res="1" cpx="0.625" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6264</blockCpx>
+    <userAb>0.6322</userAb>
+    <userAb_TB>0.6264</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6464</dtu>
+    <dtl>0.625</dtl>
+    <freq m="0.1857" sd="0.2185" />
+    <conc m="0.56" sd="0.1497" />
+    <distr m="0.76" sd="0.2939" />
+  </block>
+  <block idx="119">
+    <sTime>03/08/2016 11:07:25</sTime>
+    <eTime>03/08/2016 11:07:25</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12473" div="1" res="1" cpx="0.6464" />
+      <item idx="11255" div="1" res="1" cpx="0.6357" />
+      <item idx="12688" div="0" res="1" cpx="0.625" />
+      <item idx="12337" div="0" res="1" cpx="0.625" />
+      <item idx="12588" div="0" res="1" cpx="0.625" />
+      <item idx="6749" div="0" res="1" cpx="0.6304" />
+      <item idx="6757" div="0" res="1" cpx="0.6304" />
+      <item idx="6714" div="0" res="1" cpx="0.6304" />
+      <item idx="6730" div="0" res="1" cpx="0.6304" />
+      <item idx="6765" div="0" res="1" cpx="0.6304" />
+      <item idx="6745" div="0" res="1" cpx="0.6304" />
+      <item idx="12449" div="0" res="1" cpx="0.625" />
+      <item idx="6741" div="0" res="1" cpx="0.6304" />
+      <item idx="7276" div="0" res="1" cpx="0.6304" />
+      <item idx="6761" div="0" res="1" cpx="0.6304" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6304</blockCpx>
+    <userAb>0.6372</userAb>
+    <userAb_TB>0.6304</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6518</dtu>
+    <dtl>0.6304</dtl>
+    <freq m="0.6314" sd="0.3348" />
+    <conc m="0.34" sd="0.3277" />
+    <distr m="1" sd="0" />
+  </block>
+  <block idx="120">
+    <sTime>03/08/2016 11:07:26</sTime>
+    <eTime>03/08/2016 11:08:07</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11696" div="1" res="1" cpx="0.6411" />
+      <item idx="11762" div="1" res="1" cpx="0.6464" />
+      <item idx="10928" div="0" res="1" cpx="0.6357" />
+      <item idx="10955" div="0" res="1" cpx="0.6357" />
+      <item idx="10973" div="0" res="1" cpx="0.6357" />
+      <item idx="10937" div="0" res="1" cpx="0.6357" />
+      <item idx="10964" div="0" res="1" cpx="0.6357" />
+      <item idx="10951" div="0" res="1" cpx="0.6304" />
+      <item idx="10960" div="0" res="1" cpx="0.6304" />
+      <item idx="10942" div="0" res="1" cpx="0.6304" />
+      <item idx="11438" div="0" res="1" cpx="0.6357" />
+      <item idx="10956" div="0" res="1" cpx="0.6357" />
+      <item idx="10933" div="0" res="1" cpx="0.6304" />
+      <item idx="10965" div="0" res="1" cpx="0.6357" />
+      <item idx="10974" div="0" res="1" cpx="0.6357" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6354</blockCpx>
+    <userAb>0.6422</userAb>
+    <userAb_TB>0.6354</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6572</dtu>
+    <dtl>0.6357</dtl>
+    <freq m="0.7514" sd="0.0992" />
+    <conc m="0.67" sd="0.1122" />
+    <distr m="0.12" sd="0.0748" />
+  </block>
+  <block idx="121">
+    <sTime>03/08/2016 11:08:07</sTime>
+    <eTime>03/08/2016 11:08:08</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12297" div="1" res="1" cpx="0.6572" />
+      <item idx="9616" div="1" res="1" cpx="0.6464" />
+      <item idx="11165" div="0" res="1" cpx="0.6411" />
+      <item idx="11294" div="0" res="1" cpx="0.6357" />
+      <item idx="11259" div="0" res="1" cpx="0.6411" />
+      <item idx="11255" div="0" res="1" cpx="0.6357" />
+      <item idx="11124" div="0" res="1" cpx="0.6357" />
+      <item idx="9736" div="0" res="1" cpx="0.6411" />
+      <item idx="9718" div="0" res="1" cpx="0.6411" />
+      <item idx="9710" div="0" res="1" cpx="0.6411" />
+      <item idx="9731" div="0" res="1" cpx="0.6411" />
+      <item idx="9728" div="0" res="1" cpx="0.6411" />
+      <item idx="9721" div="0" res="1" cpx="0.6411" />
+      <item idx="6702" div="0" res="1" cpx="0.6411" />
+      <item idx="9740" div="0" res="1" cpx="0.6411" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6414</blockCpx>
+    <userAb>0.6472</userAb>
+    <userAb_TB>0.6414</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6625</dtu>
+    <dtl>0.6411</dtl>
+    <freq m="0.6057" sd="0.1194" />
+    <conc m="0.61" sd="0.1715" />
+    <distr m="0.8" sd="0.1414" />
+  </block>
+  <block idx="122">
+    <sTime>03/08/2016 11:08:09</sTime>
+    <eTime>03/08/2016 11:08:10</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>3</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12297" div="1" res="1" cpx="0.6572" />
+      <item idx="12473" div="1" res="1" cpx="0.6464" />
+      <item idx="11165" div="0" res="1" cpx="0.6411" />
+      <item idx="11255" div="0" res="1" cpx="0.6357" />
+      <item idx="11259" div="0" res="1" cpx="0.6411" />
+      <item idx="11124" div="0" res="1" cpx="0.6357" />
+      <item idx="11294" div="0" res="1" cpx="0.6357" />
+      <item idx="6690" div="0" res="1" cpx="0.6411" />
+      <item idx="6773" div="0" res="1" cpx="0.6357" />
+      <item idx="6702" div="0" res="1" cpx="0.6411" />
+      <item idx="9759" div="0" res="1" cpx="0.6357" />
+      <item idx="6678" div="0" res="1" cpx="0.6411" />
+      <item idx="9766" div="0" res="1" cpx="0.6357" />
+      <item idx="9755" div="0" res="1" cpx="0.6357" />
+      <item idx="9747" div="0" res="1" cpx="0.6357" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6396</blockCpx>
+    <userAb>0.6522</userAb>
+    <userAb_TB>0.6396</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6679</dtu>
+    <dtl>0.6464</dtl>
+    <freq m="0.6486" sd="0.1366" />
+    <conc m="0.56" sd="0.2223" />
+    <distr m="0.8" sd="0.2608" />
+  </block>
+  <block idx="123">
+    <sTime>03/08/2016 11:08:11</sTime>
+    <eTime>03/08/2016 11:08:16</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11748" div="1" res="1" cpx="0.6572" />
+      <item idx="11733" div="1" res="1" cpx="0.6572" />
+      <item idx="11762" div="0" res="1" cpx="0.6464" />
+      <item idx="11400" div="0" res="1" cpx="0.6464" />
+      <item idx="10171" div="0" res="1" cpx="0.6464" />
+      <item idx="10174" div="0" res="1" cpx="0.6464" />
+      <item idx="11696" div="0" res="1" cpx="0.6411" />
+      <item idx="11815" div="0" res="1" cpx="0.6464" />
+      <item idx="10177" div="0" res="1" cpx="0.6464" />
+      <item idx="11518" div="0" res="1" cpx="0.6464" />
+      <item idx="7713" div="0" res="1" cpx="0.6464" />
+      <item idx="12136" div="0" res="1" cpx="0.6464" />
+      <item idx="11867" div="0" res="1" cpx="0.6464" />
+      <item idx="11794" div="0" res="1" cpx="0.6411" />
+      <item idx="12113" div="0" res="1" cpx="0.6464" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6471</blockCpx>
+    <userAb>0.6522</userAb>
+    <userAb_TB>0.6471</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6679</dtu>
+    <dtl>0.6464</dtl>
+    <freq m="0.4686" sd="0.1036" />
+    <conc m="0.56" sd="0.2083" />
+    <distr m="0.56" sd="0.2154" />
+  </block>
+  <block idx="124">
+    <sTime>03/08/2016 11:08:17</sTime>
+    <eTime>03/08/2016 11:08:18</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12320" div="1" res="1" cpx="0.6625" />
+      <item idx="12672" div="1" res="1" cpx="0.6625" />
+      <item idx="11339" div="0" res="1" cpx="0.6518" />
+      <item idx="11343" div="0" res="1" cpx="0.6518" />
+      <item idx="11161" div="0" res="1" cpx="0.6518" />
+      <item idx="12632" div="0" res="1" cpx="0.6518" />
+      <item idx="11169" div="0" res="1" cpx="0.6518" />
+      <item idx="9616" div="0" res="1" cpx="0.6464" />
+      <item idx="11279" div="0" res="1" cpx="0.6518" />
+      <item idx="12473" div="0" res="1" cpx="0.6464" />
+      <item idx="9643" div="0" res="1" cpx="0.6464" />
+      <item idx="9624" div="0" res="1" cpx="0.6464" />
+      <item idx="11082" div="0" res="1" cpx="0.6464" />
+      <item idx="12271" div="0" res="1" cpx="0.6518" />
+      <item idx="9361" div="0" res="1" cpx="0.6464" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6511</blockCpx>
+    <userAb>0.6572</userAb>
+    <userAb_TB>0.6511</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6732</dtu>
+    <dtl>0.6518</dtl>
+    <freq m="0.3743" sd="0.123" />
+    <conc m="0.8" sd="0.1517" />
+    <distr m="0.88" sd="0.147" />
+  </block>
+  <block idx="125">
+    <sTime>03/08/2016 11:08:18</sTime>
+    <eTime>03/08/2016 11:08:19</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="10939" div="1" res="1" cpx="0.6625" />
+      <item idx="10948" div="1" res="1" cpx="0.6625" />
+      <item idx="11748" div="0" res="1" cpx="0.6572" />
+      <item idx="11744" div="0" res="1" cpx="0.6572" />
+      <item idx="11733" div="0" res="1" cpx="0.6572" />
+      <item idx="11513" div="0" res="1" cpx="0.6518" />
+      <item idx="11725" div="0" res="1" cpx="0.6572" />
+      <item idx="11760" div="0" res="1" cpx="0.6572" />
+      <item idx="11953" div="0" res="1" cpx="0.6518" />
+      <item idx="8312" div="0" res="1" cpx="0.6572" />
+      <item idx="12710" div="0" res="1" cpx="0.6518" />
+      <item idx="11729" div="0" res="1" cpx="0.6572" />
+      <item idx="11589" div="0" res="1" cpx="0.6572" />
+      <item idx="11705" div="0" res="1" cpx="0.6518" />
+      <item idx="11467" div="0" res="1" cpx="0.6572" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6565</blockCpx>
+    <userAb>0.6622</userAb>
+    <userAb_TB>0.6565</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6732</dtu>
+    <dtl>0.6518</dtl>
+    <freq m="0.3657" sd="0.2548" />
+    <conc m="0.64" sd="0.153" />
+    <distr m="0.62" sd="0.2561" />
+  </block>
+  <block idx="126">
+    <sTime>03/08/2016 11:08:19</sTime>
+    <eTime>03/08/2016 11:08:20</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>4</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11920" div="1" res="1" cpx="0.6625" />
+      <item idx="10939" div="1" res="1" cpx="0.6625" />
+      <item idx="11748" div="0" res="1" cpx="0.6572" />
+      <item idx="11744" div="0" res="1" cpx="0.6572" />
+      <item idx="11513" div="0" res="1" cpx="0.6518" />
+      <item idx="11733" div="0" res="1" cpx="0.6572" />
+      <item idx="11725" div="0" res="1" cpx="0.6572" />
+      <item idx="11760" div="0" res="1" cpx="0.6572" />
+      <item idx="11953" div="0" res="1" cpx="0.6518" />
+      <item idx="8312" div="0" res="1" cpx="0.6572" />
+      <item idx="12710" div="0" res="1" cpx="0.6518" />
+      <item idx="11729" div="0" res="1" cpx="0.6572" />
+      <item idx="12047" div="0" res="1" cpx="0.6518" />
+      <item idx="11589" div="0" res="1" cpx="0.6572" />
+      <item idx="11900" div="0" res="1" cpx="0.6518" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6561</blockCpx>
+    <userAb>0.6672</userAb>
+    <userAb_TB>0.6561</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6786</dtu>
+    <dtl>0.6572</dtl>
+    <freq m="0.3143" sd="0.1973" />
+    <conc m="0.61" sd="0.18" />
+    <distr m="0.7" sd="0.2449" />
+  </block>
+  <block idx="127">
+    <sTime>03/08/2016 11:08:20</sTime>
+    <eTime>03/08/2016 11:08:21</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11920" div="1" res="1" cpx="0.6625" />
+      <item idx="8485" div="1" res="1" cpx="0.6625" />
+      <item idx="11717" div="0" res="1" cpx="0.6572" />
+      <item idx="12173" div="0" res="1" cpx="0.6572" />
+      <item idx="8300" div="0" res="1" cpx="0.6518" />
+      <item idx="12047" div="0" res="1" cpx="0.6518" />
+      <item idx="11721" div="0" res="1" cpx="0.6572" />
+      <item idx="8303" div="0" res="1" cpx="0.6572" />
+      <item idx="11900" div="0" res="1" cpx="0.6518" />
+      <item idx="11662" div="0" res="1" cpx="0.6572" />
+      <item idx="8317" div="0" res="1" cpx="0.6572" />
+      <item idx="11736" div="0" res="1" cpx="0.6572" />
+      <item idx="8307" div="0" res="1" cpx="0.6572" />
+      <item idx="12072" div="0" res="1" cpx="0.6572" />
+      <item idx="9145" div="0" res="1" cpx="0.6518" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6565</blockCpx>
+    <userAb>0.6672</userAb>
+    <userAb_TB>0.6565</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6786</dtu>
+    <dtl>0.6572</dtl>
+    <freq m="0.2457" sd="0.0795" />
+    <conc m="0.62" sd="0.2379" />
+    <distr m="0.76" sd="0.2245" />
+  </block>
+  <block idx="128">
+    <sTime>03/08/2016 11:08:21</sTime>
+    <eTime>03/08/2016 11:08:22</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11738" div="1" res="1" cpx="0.6786" />
+      <item idx="12164" div="1" res="1" cpx="0.6786" />
+      <item idx="11999" div="0" res="1" cpx="0.6625" />
+      <item idx="11748" div="0" res="1" cpx="0.6572" />
+      <item idx="11744" div="0" res="1" cpx="0.6572" />
+      <item idx="10939" div="0" res="1" cpx="0.6625" />
+      <item idx="11733" div="0" res="1" cpx="0.6572" />
+      <item idx="11725" div="0" res="1" cpx="0.6572" />
+      <item idx="10948" div="0" res="1" cpx="0.6625" />
+      <item idx="11760" div="0" res="1" cpx="0.6572" />
+      <item idx="11988" div="0" res="1" cpx="0.6625" />
+      <item idx="12099" div="0" res="1" cpx="0.6625" />
+      <item idx="12044" div="0" res="1" cpx="0.6625" />
+      <item idx="8312" div="0" res="1" cpx="0.6572" />
+      <item idx="10966" div="0" res="1" cpx="0.6625" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6625</blockCpx>
+    <userAb>0.6722</userAb>
+    <userAb_TB>0.6625</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6839</dtu>
+    <dtl>0.6625</dtl>
+    <freq m="0.46" sd="0.3582" />
+    <conc m="0.61" sd="0.1625" />
+    <distr m="0.58" sd="0.325" />
+  </block>
+  <block idx="129">
+    <sTime>03/08/2016 11:08:22</sTime>
+    <eTime>03/08/2016 11:08:23</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11428" div="1" res="1" cpx="0.6839" />
+      <item idx="11605" div="1" res="1" cpx="0.6839" />
+      <item idx="8600" div="0" res="1" cpx="0.6679" />
+      <item idx="11992" div="0" res="1" cpx="0.6679" />
+      <item idx="11920" div="0" res="1" cpx="0.6625" />
+      <item idx="8856" div="0" res="1" cpx="0.6625" />
+      <item idx="8501" div="0" res="1" cpx="0.6625" />
+      <item idx="8485" div="0" res="1" cpx="0.6625" />
+      <item idx="8505" div="0" res="1" cpx="0.6625" />
+      <item idx="9252" div="0" res="1" cpx="0.6625" />
+      <item idx="9125" div="0" res="1" cpx="0.6625" />
+      <item idx="11378" div="0" res="1" cpx="0.6625" />
+      <item idx="10971" div="0" res="1" cpx="0.6625" />
+      <item idx="11839" div="0" res="1" cpx="0.6625" />
+      <item idx="7732" div="0" res="1" cpx="0.6679" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6664</blockCpx>
+    <userAb>0.6772</userAb>
+    <userAb_TB>0.6664</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6893</dtu>
+    <dtl>0.6679</dtl>
+    <freq m="0.3657" sd="0.3496" />
+    <conc m="0.44" sd="0.1855" />
+    <distr m="0.86" sd="0.2417" />
+  </block>
+  <block idx="130">
+    <sTime>03/08/2016 11:08:24</sTime>
+    <eTime>03/08/2016 11:08:24</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11892" div="1" res="1" cpx="0.6893" />
+      <item idx="11738" div="1" res="1" cpx="0.6786" />
+      <item idx="12064" div="0" res="1" cpx="0.6732" />
+      <item idx="11811" div="0" res="1" cpx="0.6732" />
+      <item idx="9098" div="0" res="1" cpx="0.6679" />
+      <item idx="7774" div="0" res="1" cpx="0.6732" />
+      <item idx="11454" div="0" res="1" cpx="0.6732" />
+      <item idx="8618" div="0" res="1" cpx="0.6732" />
+      <item idx="8622" div="0" res="1" cpx="0.6732" />
+      <item idx="8580" div="0" res="1" cpx="0.6679" />
+      <item idx="8596" div="0" res="1" cpx="0.6679" />
+      <item idx="8592" div="0" res="1" cpx="0.6679" />
+      <item idx="8604" div="0" res="1" cpx="0.6679" />
+      <item idx="9101" div="0" res="1" cpx="0.6679" />
+      <item idx="8614" div="0" res="1" cpx="0.6732" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6725</blockCpx>
+    <userAb>0.6822</userAb>
+    <userAb_TB>0.6725</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.6946</dtu>
+    <dtl>0.6732</dtl>
+    <freq m="0.76" sd="0.1317" />
+    <conc m="0.31" sd="0.2498" />
+    <distr m="0.62" sd="0.204" />
+  </block>
+  <block idx="131">
+    <sTime>03/08/2016 11:08:25</sTime>
+    <eTime>03/08/2016 11:08:25</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11046" div="1" res="1" cpx="0.6839" />
+      <item idx="11229" div="1" res="1" cpx="0.6946" />
+      <item idx="12361" div="0" res="1" cpx="0.6786" />
+      <item idx="12617" div="0" res="1" cpx="0.6786" />
+      <item idx="11010" div="0" res="1" cpx="0.6786" />
+      <item idx="11078" div="0" res="1" cpx="0.6786" />
+      <item idx="9565" div="0" res="1" cpx="0.6786" />
+      <item idx="9554" div="0" res="1" cpx="0.6786" />
+      <item idx="11205" div="0" res="1" cpx="0.6786" />
+      <item idx="9561" div="0" res="1" cpx="0.6786" />
+      <item idx="9551" div="0" res="1" cpx="0.6786" />
+      <item idx="9557" div="0" res="1" cpx="0.6786" />
+      <item idx="9544" div="0" res="1" cpx="0.6786" />
+      <item idx="11100" div="0" res="1" cpx="0.6732" />
+      <item idx="9510" div="0" res="1" cpx="0.6786" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6797</blockCpx>
+    <userAb>0.6872</userAb>
+    <userAb_TB>0.6797</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.7</dtu>
+    <dtl>0.6786</dtl>
+    <freq m="0.5886" sd="0.1071" />
+    <conc m="0.74" sd="0.1497" />
+    <distr m="0.84" sd="0.1497" />
+  </block>
+  <block idx="132">
+    <sTime>03/08/2016 11:08:26</sTime>
+    <eTime>03/08/2016 11:08:27</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11892" div="1" res="1" cpx="0.6893" />
+      <item idx="12128" div="1" res="1" cpx="0.6893" />
+      <item idx="11428" div="0" res="1" cpx="0.6839" />
+      <item idx="11712" div="0" res="1" cpx="0.6839" />
+      <item idx="11670" div="0" res="1" cpx="0.6839" />
+      <item idx="11452" div="0" res="1" cpx="0.6839" />
+      <item idx="11605" div="0" res="1" cpx="0.6839" />
+      <item idx="11916" div="0" res="1" cpx="0.6839" />
+      <item idx="11738" div="0" res="1" cpx="0.6786" />
+      <item idx="12164" div="0" res="1" cpx="0.6786" />
+      <item idx="12716" div="0" res="1" cpx="0.6839" />
+      <item idx="9908" div="0" res="1" cpx="0.6839" />
+      <item idx="9919" div="0" res="1" cpx="0.6839" />
+      <item idx="9900" div="0" res="1" cpx="0.6839" />
+      <item idx="9929" div="0" res="1" cpx="0.6839" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6839</blockCpx>
+    <userAb>0.6922</userAb>
+    <userAb_TB>0.6839</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.7054</dtu>
+    <dtl>0.6839</dtl>
+    <freq m="0.4857" sd="0.0664" />
+    <conc m="0.61" sd="0.2728" />
+    <distr m="0.64" sd="0.2939" />
+  </block>
+  <block idx="133">
+    <sTime>03/08/2016 11:08:27</sTime>
+    <eTime>03/08/2016 11:08:29</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>4</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11892" div="1" res="1" cpx="0.6893" />
+      <item idx="11642" div="1" res="1" cpx="0.6893" />
+      <item idx="11428" div="0" res="1" cpx="0.6839" />
+      <item idx="11712" div="0" res="1" cpx="0.6839" />
+      <item idx="11452" div="0" res="1" cpx="0.6839" />
+      <item idx="11605" div="0" res="1" cpx="0.6839" />
+      <item idx="11738" div="0" res="1" cpx="0.6786" />
+      <item idx="12164" div="0" res="1" cpx="0.6786" />
+      <item idx="12716" div="0" res="1" cpx="0.6839" />
+      <item idx="11670" div="0" res="1" cpx="0.6839" />
+      <item idx="11916" div="0" res="1" cpx="0.6839" />
+      <item idx="9248" div="0" res="1" cpx="0.6839" />
+      <item idx="11498" div="0" res="1" cpx="0.6786" />
+      <item idx="10163" div="0" res="1" cpx="0.6839" />
+      <item idx="11397" div="0" res="1" cpx="0.6786" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6832</blockCpx>
+    <userAb>0.6972</userAb>
+    <userAb_TB>0.6832</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.7107</dtu>
+    <dtl>0.6893</dtl>
+    <freq m="0.5028" sd="0.0795" />
+    <conc m="0.51" sd="0.2596" />
+    <distr m="0.72" sd="0.2786" />
+  </block>
+  <block idx="134">
+    <sTime>03/08/2016 11:08:30</sTime>
+    <eTime>03/08/2016 11:08:30</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11229" div="1" res="1" cpx="0.6946" />
+      <item idx="6706" div="1" res="1" cpx="0.7" />
+      <item idx="9439" div="0" res="1" cpx="0.6839" />
+      <item idx="11046" div="0" res="1" cpx="0.6839" />
+      <item idx="9450" div="0" res="1" cpx="0.6839" />
+      <item idx="9263" div="0" res="1" cpx="0.6839" />
+      <item idx="9459" div="0" res="1" cpx="0.6839" />
+      <item idx="11201" div="0" res="1" cpx="0.6893" />
+      <item idx="9443" div="0" res="1" cpx="0.6839" />
+      <item idx="9455" div="0" res="1" cpx="0.6839" />
+      <item idx="9467" div="0" res="1" cpx="0.6839" />
+      <item idx="9447" div="0" res="1" cpx="0.6839" />
+      <item idx="9471" div="0" res="1" cpx="0.6839" />
+      <item idx="9399" div="0" res="1" cpx="0.6839" />
+      <item idx="9267" div="0" res="1" cpx="0.6839" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.686</blockCpx>
+    <userAb>0.6972</userAb>
+    <userAb_TB>0.686</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.7107</dtu>
+    <dtl>0.6893</dtl>
+    <freq m="0.4943" sd="0.1519" />
+    <conc m="0.92" sd="0.1965" />
+    <distr m="0.78" sd="0.1327" />
+  </block>
+  <block idx="135">
+    <sTime>03/08/2016 11:08:31</sTime>
+    <eTime>03/08/2016 11:08:31</eTime>
+    <rIdx>0</rIdx>
+    <lt>1</lt>
+    <noise>4</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="11229" div="1" res="1" cpx="0.6946" />
+      <item idx="6706" div="1" res="1" cpx="0.7" />
+      <item idx="11046" div="0" res="1" cpx="0.6839" />
+      <item idx="9587" div="0" res="1" cpx="0.6839" />
+      <item idx="9581" div="0" res="1" cpx="0.6839" />
+      <item idx="9608" div="0" res="1" cpx="0.6839" />
+      <item idx="11201" div="0" res="1" cpx="0.6893" />
+      <item idx="9263" div="0" res="1" cpx="0.6839" />
+      <item idx="9399" div="0" res="1" cpx="0.6839" />
+      <item idx="10994" div="0" res="1" cpx="0.6839" />
+      <item idx="9419" div="0" res="1" cpx="0.6839" />
+      <item idx="9407" div="0" res="1" cpx="0.6839" />
+      <item idx="9604" div="0" res="1" cpx="0.6839" />
+      <item idx="9403" div="0" res="1" cpx="0.6839" />
+      <item idx="9411" div="0" res="1" cpx="0.6839" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.686</blockCpx>
+    <userAb>0.7022</userAb>
+    <userAb_TB>0.686</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.7161</dtu>
+    <dtl>0.6946</dtl>
+    <freq m="0.4943" sd="0.1519" />
+    <conc m="0.9" sd="0.2025" />
+    <distr m="0.8" sd="0.1414" />
+  </block>
+  <block idx="136">
+    <sTime>03/08/2016 11:08:32</sTime>
+    <eTime>03/08/2016 11:08:34</eTime>
+    <rIdx>0</rIdx>
+    <lt>2</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12010" div="1" res="1" cpx="0.7" />
+      <item idx="11769" div="1" res="1" cpx="0.7107" />
+      <item idx="12128" div="0" res="1" cpx="0.6893" />
+      <item idx="11658" div="0" res="1" cpx="0.6893" />
+      <item idx="11932" div="0" res="1" cpx="0.6893" />
+      <item idx="11892" div="0" res="1" cpx="0.6893" />
+      <item idx="11654" div="0" res="1" cpx="0.6946" />
+      <item idx="11852" div="0" res="1" cpx="0.6893" />
+      <item idx="11907" div="0" res="1" cpx="0.6893" />
+      <item idx="11855" div="0" res="1" cpx="0.6893" />
+      <item idx="11650" div="0" res="1" cpx="0.6946" />
+      <item idx="11642" div="0" res="1" cpx="0.6893" />
+      <item idx="11792" div="0" res="1" cpx="0.6893" />
+      <item idx="11756" div="0" res="1" cpx="0.6893" />
+      <item idx="11971" div="0" res="1" cpx="0.6893" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.6921</blockCpx>
+    <userAb>0.7022</userAb>
+    <userAb_TB>0.6921</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.7161</dtu>
+    <dtl>0.6946</dtl>
+    <freq m="0.3485" sd="0.1283" />
+    <conc m="0.56" sd="0.1393" />
+    <distr m="0.86" sd="0.1497" />
+  </block>
+  <block idx="137">
+    <sTime>03/08/2016 11:08:34</sTime>
+    <eTime>03/08/2016 11:08:35</eTime>
+    <rIdx>1</rIdx>
+    <lt>0</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="4422" div="0" res="1" cpx="0.3893" />
+      <item idx="4459" div="0" res="1" cpx="0.3893" />
+      <item idx="3434" div="0" res="1" cpx="0.3893" />
+      <item idx="4447" div="0" res="1" cpx="0.3893" />
+      <item idx="4418" div="0" res="1" cpx="0.3893" />
+      <item idx="3466" div="0" res="1" cpx="0.3893" />
+      <item idx="3849" div="0" res="1" cpx="0.3893" />
+      <item idx="3442" div="0" res="1" cpx="0.3893" />
+      <item idx="3498" div="0" res="1" cpx="0.3893" />
+      <item idx="3789" div="0" res="1" cpx="0.3893" />
+      <item idx="3781" div="0" res="1" cpx="0.3893" />
+      <item idx="4430" div="0" res="1" cpx="0.3893" />
+      <item idx="3805" div="0" res="1" cpx="0.3893" />
+      <item idx="4434" div="0" res="1" cpx="0.3893" />
+      <item idx="3841" div="0" res="1" cpx="0.3893" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3893</blockCpx>
+    <userAb>0.3893</userAb>
+    <userAb_TB>0.3893</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4054</dtu>
+    <dtl>0.3839</dtl>
+    <freq m="0.3571" sd="0" />
+    <conc m="0.18" sd="0.1327" />
+    <distr m="0.92" sd="0.1327" />
+  </block>
+  <block idx="138">
+    <sTime>03/08/2016 11:08:36</sTime>
+    <eTime>03/08/2016 11:08:39</eTime>
+    <rIdx>1</rIdx>
+    <lt>1</lt>
+    <noise>0</noise>
+    <bType>0</bType>
+    <cif>
+      <item idx="12552" div="1" res="1" cpx="0.3947" />
+      <item idx="11231" div="1" res="1" cpx="0.3947" />
+      <item idx="12659" div="0" res="1" cpx="0.3893" />
+      <item idx="12559" div="0" res="1" cpx="0.3893" />
+      <item idx="12442" div="0" res="1" cpx="0.3893" />
+      <item idx="12681" div="0" res="1" cpx="0.3893" />
+      <item idx="12450" div="0" res="1" cpx="0.3893" />
+      <item idx="12236" div="0" res="1" cpx="0.3839" />
+      <item idx="11056" div="0" res="1" cpx="0.3893" />
+      <item idx="6564" div="0" res="1" cpx="0.3839" />
+      <item idx="12389" div="0" res="1" cpx="0.3839" />
+      <item idx="12524" div="0" res="1" cpx="0.3839" />
+      <item idx="11130" div="0" res="1" cpx="0.3839" />
+      <item idx="11190" div="0" res="1" cpx="0.3839" />
+      <item idx="11265" div="0" res="1" cpx="0.3893" />
+    </cif>
+    <accRate>1</accRate>
+    <blockCpx>0.3879</blockCpx>
+    <userAb>0.3943</userAb>
+    <userAb_TB>0.3879</userAb_TB>
+    <ts>0.005</ts>
+    <dtu>0.4054</dtu>
+    <dtl>0.3839</dtl>
+    <freq m="0.3914" sd="0.0874" />
+    <conc m="0.39" sd="0.1281" />
+    <distr m="0.22" sd="0.147" />
+  </block>
+</root>

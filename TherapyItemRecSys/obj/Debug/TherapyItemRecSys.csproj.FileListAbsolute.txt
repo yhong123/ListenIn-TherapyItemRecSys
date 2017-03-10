@@ -1,0 +1,42 @@
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.exe.config
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.csprojResolveAssemblyReference.cache
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\MainWindow.g.cs
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\App.g.cs
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys_MarkupCompile.cache
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys_MarkupCompile.lref
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.exe
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.pdb
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\MainWindow.baml
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.g.resources
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.Properties.Resources.resources
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.csproj.GenerateResource.Cache
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.exe
+C:\Users\italk\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.pdb
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.exe.config
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.exe
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.pdb
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.exe
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.pdb
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.csprojResolveAssemblyReference.cache
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\MainWindow.g.cs
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\App.g.cs
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys_MarkupCompile.cache
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys_MarkupCompile.lref
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\MainWindow.baml
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.g.resources
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.Properties.Resources.resources
+C:\Users\ongyh\Documents\my_phd\software\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.csproj.GenerateResource.Cache
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.exe.config
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.exe
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.pdb
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.exe
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\bin\Debug\TherapyItemRecSys.pdb
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.csprojResolveAssemblyReference.cache
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\MainWindow.g.cs
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\App.g.cs
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys_MarkupCompile.cache
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys_MarkupCompile.lref
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\MainWindow.baml
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.g.resources
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.Properties.Resources.resources
+C:\Users\Listen-In-user1\Documents\New folder\TherapyItemRecSys\TherapyItemRecSys\obj\Debug\TherapyItemRecSys.csproj.GenerateResource.Cache

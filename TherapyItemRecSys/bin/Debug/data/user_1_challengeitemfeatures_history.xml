@@ -1,0 +1,3658 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item idx="0">
+    <challengeItemFeaturesIdx>0</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="1">
+    <challengeItemFeaturesIdx>4</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="0" />
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+      <history sessionIdx="0" blockIdx="36" acc="0" />
+      <history sessionIdx="0" blockIdx="38" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="2">
+    <challengeItemFeaturesIdx>8</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="3">
+    <challengeItemFeaturesIdx>12</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="4">
+    <challengeItemFeaturesIdx>20</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="0" />
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="5">
+    <challengeItemFeaturesIdx>24</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="0" />
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="20" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="6">
+    <challengeItemFeaturesIdx>28</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="7">
+    <challengeItemFeaturesIdx>32</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="8">
+    <challengeItemFeaturesIdx>36</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="9">
+    <challengeItemFeaturesIdx>40</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="10">
+    <challengeItemFeaturesIdx>44</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="0" />
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="11">
+    <challengeItemFeaturesIdx>48</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="12">
+    <challengeItemFeaturesIdx>52</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="0" />
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="0" />
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="13">
+    <challengeItemFeaturesIdx>56</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="14">
+    <challengeItemFeaturesIdx>60</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="0" acc="1" />
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="15">
+    <challengeItemFeaturesIdx>968</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="4" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="16">
+    <challengeItemFeaturesIdx>1167</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="17">
+    <challengeItemFeaturesIdx>176</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="18">
+    <challengeItemFeaturesIdx>1227</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="4" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="19">
+    <challengeItemFeaturesIdx>844</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+      <history sessionIdx="0" blockIdx="9" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+      <history sessionIdx="0" blockIdx="36" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="20">
+    <challengeItemFeaturesIdx>700</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="7" acc="0" />
+      <history sessionIdx="0" blockIdx="9" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="0" />
+      <history sessionIdx="0" blockIdx="13" acc="0" />
+      <history sessionIdx="0" blockIdx="15" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="21">
+    <challengeItemFeaturesIdx>256</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="22">
+    <challengeItemFeaturesIdx>612</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="9" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="23">
+    <challengeItemFeaturesIdx>972</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="1" />
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="24">
+    <challengeItemFeaturesIdx>264</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="25">
+    <challengeItemFeaturesIdx>784</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="26">
+    <challengeItemFeaturesIdx>928</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="10" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="0" />
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="27">
+    <challengeItemFeaturesIdx>596</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="1" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="28">
+    <challengeItemFeaturesIdx>856</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+      <history sessionIdx="0" blockIdx="36" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="29">
+    <challengeItemFeaturesIdx>436</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="1" acc="0" />
+      <history sessionIdx="0" blockIdx="12" acc="0" />
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="30">
+    <challengeItemFeaturesIdx>729</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="31">
+    <challengeItemFeaturesIdx>148</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="27" acc="1" />
+      <history sessionIdx="0" blockIdx="43" acc="1" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="32">
+    <challengeItemFeaturesIdx>549</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="33">
+    <challengeItemFeaturesIdx>288</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="34">
+    <challengeItemFeaturesIdx>837</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="35">
+    <challengeItemFeaturesIdx>1040</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+      <history sessionIdx="0" blockIdx="4" acc="0" />
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="36">
+    <challengeItemFeaturesIdx>721</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="37">
+    <challengeItemFeaturesIdx>505</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="38">
+    <challengeItemFeaturesIdx>117</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="39">
+    <challengeItemFeaturesIdx>620</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="1" />
+      <history sessionIdx="0" blockIdx="7" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="40">
+    <challengeItemFeaturesIdx>965</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="41">
+    <challengeItemFeaturesIdx>49</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="1" />
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="1" />
+      <history sessionIdx="0" blockIdx="44" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="42">
+    <challengeItemFeaturesIdx>925</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="43">
+    <challengeItemFeaturesIdx>144</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="1" />
+      <history sessionIdx="0" blockIdx="25" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="44">
+    <challengeItemFeaturesIdx>77</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="2" acc="1" />
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="50" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="45">
+    <challengeItemFeaturesIdx>765</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="46">
+    <challengeItemFeaturesIdx>940</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="0" />
+      <history sessionIdx="0" blockIdx="6" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="47">
+    <challengeItemFeaturesIdx>857</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="0" />
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="48">
+    <challengeItemFeaturesIdx>545</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="49">
+    <challengeItemFeaturesIdx>509</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="50">
+    <challengeItemFeaturesIdx>964</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="51">
+    <challengeItemFeaturesIdx>833</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="41" acc="0" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="52">
+    <challengeItemFeaturesIdx>184</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+      <history sessionIdx="0" blockIdx="52" acc="1" />
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="53">
+    <challengeItemFeaturesIdx>861</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="54">
+    <challengeItemFeaturesIdx>69</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="0" />
+      <history sessionIdx="0" blockIdx="59" acc="1" />
+      <history sessionIdx="0" blockIdx="61" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="55">
+    <challengeItemFeaturesIdx>456</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="56">
+    <challengeItemFeaturesIdx>725</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="57">
+    <challengeItemFeaturesIdx>504</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="0" />
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="58">
+    <challengeItemFeaturesIdx>104</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="3" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="59">
+    <challengeItemFeaturesIdx>1008</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="1" />
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+      <history sessionIdx="0" blockIdx="62" acc="0" />
+      <history sessionIdx="0" blockIdx="64" acc="1" />
+      <history sessionIdx="0" blockIdx="76" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="60">
+    <challengeItemFeaturesIdx>1139</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="1" />
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+      <history sessionIdx="0" blockIdx="41" acc="1" />
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+      <history sessionIdx="0" blockIdx="59" acc="0" />
+      <history sessionIdx="0" blockIdx="61" acc="0" />
+      <history sessionIdx="0" blockIdx="64" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="61">
+    <challengeItemFeaturesIdx>452</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="62">
+    <challengeItemFeaturesIdx>1080</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="1" />
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+      <history sessionIdx="0" blockIdx="59" acc="1" />
+      <history sessionIdx="0" blockIdx="61" acc="0" />
+      <history sessionIdx="0" blockIdx="64" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="63">
+    <challengeItemFeaturesIdx>956</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="64">
+    <challengeItemFeaturesIdx>460</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="65">
+    <challengeItemFeaturesIdx>220</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="0" />
+      <history sessionIdx="0" blockIdx="12" acc="0" />
+      <history sessionIdx="0" blockIdx="45" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="66">
+    <challengeItemFeaturesIdx>304</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="67">
+    <challengeItemFeaturesIdx>800</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="0" />
+      <history sessionIdx="0" blockIdx="45" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="68">
+    <challengeItemFeaturesIdx>464</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="0" />
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="69">
+    <challengeItemFeaturesIdx>960</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="0" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="70">
+    <challengeItemFeaturesIdx>716</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="4" acc="0" />
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="71">
+    <challengeItemFeaturesIdx>1000</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="1" />
+      <history sessionIdx="0" blockIdx="45" acc="0" />
+      <history sessionIdx="0" blockIdx="62" acc="0" />
+      <history sessionIdx="0" blockIdx="64" acc="0" />
+      <history sessionIdx="0" blockIdx="76" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="72">
+    <challengeItemFeaturesIdx>292</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="1" />
+      <history sessionIdx="0" blockIdx="64" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="73">
+    <challengeItemFeaturesIdx>772</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+      <history sessionIdx="0" blockIdx="29" acc="0" />
+      <history sessionIdx="0" blockIdx="42" acc="1" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+      <history sessionIdx="0" blockIdx="57" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="74">
+    <challengeItemFeaturesIdx>80</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="1" />
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+      <history sessionIdx="0" blockIdx="82" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="75">
+    <challengeItemFeaturesIdx>672</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="76">
+    <challengeItemFeaturesIdx>1036</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="77">
+    <challengeItemFeaturesIdx>1191</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="1" />
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="78">
+    <challengeItemFeaturesIdx>892</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="1" />
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="79">
+    <challengeItemFeaturesIdx>608</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="80">
+    <challengeItemFeaturesIdx>1211</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="81">
+    <challengeItemFeaturesIdx>780</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="1" />
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="82">
+    <challengeItemFeaturesIdx>416</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="83">
+    <challengeItemFeaturesIdx>484</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="0" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="84">
+    <challengeItemFeaturesIdx>1012</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="5" acc="1" />
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="85">
+    <challengeItemFeaturesIdx>121</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+      <history sessionIdx="0" blockIdx="61" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="86">
+    <challengeItemFeaturesIdx>96</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="87">
+    <challengeItemFeaturesIdx>656</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="88">
+    <challengeItemFeaturesIdx>1088</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="89">
+    <challengeItemFeaturesIdx>592</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="90">
+    <challengeItemFeaturesIdx>1187</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+      <history sessionIdx="0" blockIdx="45" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="91">
+    <challengeItemFeaturesIdx>1119</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="92">
+    <challengeItemFeaturesIdx>400</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="93">
+    <challengeItemFeaturesIdx>1179</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="94">
+    <challengeItemFeaturesIdx>1028</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+      <history sessionIdx="0" blockIdx="8" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="95">
+    <challengeItemFeaturesIdx>912</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="6" acc="0" />
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="96">
+    <challengeItemFeaturesIdx>25</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="7" acc="0" />
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="97">
+    <challengeItemFeaturesIdx>253</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="98">
+    <challengeItemFeaturesIdx>797</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="7" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="99">
+    <challengeItemFeaturesIdx>881</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="100">
+    <challengeItemFeaturesIdx>128</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="7" acc="0" />
+      <history sessionIdx="0" blockIdx="9" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+      <history sessionIdx="0" blockIdx="36" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="101">
+    <challengeItemFeaturesIdx>476</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+      <history sessionIdx="0" blockIdx="9" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="102">
+    <challengeItemFeaturesIdx>140</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="7" acc="0" />
+      <history sessionIdx="0" blockIdx="9" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="103">
+    <challengeItemFeaturesIdx>864</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="7" acc="1" />
+      <history sessionIdx="0" blockIdx="9" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="104">
+    <challengeItemFeaturesIdx>512</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="105">
+    <challengeItemFeaturesIdx>1004</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="8" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="106">
+    <challengeItemFeaturesIdx>16</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="107">
+    <challengeItemFeaturesIdx>108</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="108">
+    <challengeItemFeaturesIdx>112</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="8" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="109">
+    <challengeItemFeaturesIdx>872</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="8" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="110">
+    <challengeItemFeaturesIdx>1052</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="8" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="111">
+    <challengeItemFeaturesIdx>604</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="8" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="112">
+    <challengeItemFeaturesIdx>172</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="9" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+      <history sessionIdx="0" blockIdx="13" acc="0" />
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="51" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="113">
+    <challengeItemFeaturesIdx>280</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="9" acc="0" />
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="17" acc="1" />
+      <history sessionIdx="0" blockIdx="24" acc="1" />
+      <history sessionIdx="0" blockIdx="44" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="114">
+    <challengeItemFeaturesIdx>1064</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="9" acc="1" />
+      <history sessionIdx="0" blockIdx="33" acc="0" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="51" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="115">
+    <challengeItemFeaturesIdx>1215</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="9" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="116">
+    <challengeItemFeaturesIdx>200</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="9" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="0" />
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+      <history sessionIdx="0" blockIdx="41" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="117">
+    <challengeItemFeaturesIdx>260</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="9" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="118">
+    <challengeItemFeaturesIdx>372</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="9" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="119">
+    <challengeItemFeaturesIdx>208</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="9" acc="1" />
+      <history sessionIdx="0" blockIdx="25" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="120">
+    <challengeItemFeaturesIdx>820</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="0" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="121">
+    <challengeItemFeaturesIdx>308</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="122">
+    <challengeItemFeaturesIdx>404</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="15" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="0" />
+      <history sessionIdx="0" blockIdx="20" acc="1" />
+      <history sessionIdx="0" blockIdx="31" acc="0" />
+      <history sessionIdx="0" blockIdx="33" acc="0" />
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="123">
+    <challengeItemFeaturesIdx>684</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="48" acc="1" />
+      <history sessionIdx="0" blockIdx="55" acc="0" />
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="124">
+    <challengeItemFeaturesIdx>560</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="11" acc="0" />
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+      <history sessionIdx="0" blockIdx="36" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="125">
+    <challengeItemFeaturesIdx>472</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="11" acc="0" />
+      <history sessionIdx="0" blockIdx="13" acc="0" />
+      <history sessionIdx="0" blockIdx="15" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="0" />
+      <history sessionIdx="0" blockIdx="19" acc="0" />
+      <history sessionIdx="0" blockIdx="21" acc="1" />
+      <history sessionIdx="0" blockIdx="23" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="0" />
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="0" />
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="126">
+    <challengeItemFeaturesIdx>196</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="11" acc="0" />
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+      <history sessionIdx="0" blockIdx="29" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="127">
+    <challengeItemFeaturesIdx>212</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="1" />
+      <history sessionIdx="0" blockIdx="11" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="128">
+    <challengeItemFeaturesIdx>300</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="0" />
+      <history sessionIdx="0" blockIdx="20" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="129">
+    <challengeItemFeaturesIdx>328</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="0" />
+      <history sessionIdx="0" blockIdx="12" acc="0" />
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="130">
+    <challengeItemFeaturesIdx>848</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="0" />
+      <history sessionIdx="0" blockIdx="15" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="131">
+    <challengeItemFeaturesIdx>852</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="10" acc="0" />
+      <history sessionIdx="0" blockIdx="12" acc="0" />
+      <history sessionIdx="0" blockIdx="14" acc="0" />
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="20" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="132">
+    <challengeItemFeaturesIdx>332</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="133">
+    <challengeItemFeaturesIdx>248</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="134">
+    <challengeItemFeaturesIdx>524</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="12" acc="0" />
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="135">
+    <challengeItemFeaturesIdx>744</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="136">
+    <challengeItemFeaturesIdx>836</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="137">
+    <challengeItemFeaturesIdx>564</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="12" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="138">
+    <challengeItemFeaturesIdx>440</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="139">
+    <challengeItemFeaturesIdx>232</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="140">
+    <challengeItemFeaturesIdx>216</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="13" acc="0" />
+      <history sessionIdx="0" blockIdx="15" acc="1" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="141">
+    <challengeItemFeaturesIdx>1112</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="13" acc="0" />
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="17" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="142">
+    <challengeItemFeaturesIdx>748</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="13" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="143">
+    <challengeItemFeaturesIdx>1131</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="1" />
+      <history sessionIdx="0" blockIdx="44" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="144">
+    <challengeItemFeaturesIdx>156</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+      <history sessionIdx="0" blockIdx="21" acc="1" />
+      <history sessionIdx="0" blockIdx="24" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="1" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="145">
+    <challengeItemFeaturesIdx>392</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="0" />
+      <history sessionIdx="0" blockIdx="35" acc="0" />
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="146">
+    <challengeItemFeaturesIdx>688</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+      <history sessionIdx="0" blockIdx="30" acc="0" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+      <history sessionIdx="0" blockIdx="43" acc="1" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="147">
+    <challengeItemFeaturesIdx>384</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="0" />
+      <history sessionIdx="0" blockIdx="16" acc="0" />
+      <history sessionIdx="0" blockIdx="18" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="148">
+    <challengeItemFeaturesIdx>228</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="149">
+    <challengeItemFeaturesIdx>920</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="150">
+    <challengeItemFeaturesIdx>424</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="151">
+    <challengeItemFeaturesIdx>880</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="0" />
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="18" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="152">
+    <challengeItemFeaturesIdx>824</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="153">
+    <challengeItemFeaturesIdx>628</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="14" acc="1" />
+      <history sessionIdx="0" blockIdx="37" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="154">
+    <challengeItemFeaturesIdx>408</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="1" />
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="0" />
+      <history sessionIdx="0" blockIdx="47" acc="0" />
+      <history sessionIdx="0" blockIdx="49" acc="1" />
+      <history sessionIdx="0" blockIdx="51" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="155">
+    <challengeItemFeaturesIdx>88</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="1" />
+      <history sessionIdx="0" blockIdx="21" acc="1" />
+      <history sessionIdx="0" blockIdx="34" acc="0" />
+      <history sessionIdx="0" blockIdx="47" acc="0" />
+      <history sessionIdx="0" blockIdx="49" acc="1" />
+      <history sessionIdx="0" blockIdx="51" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="156">
+    <challengeItemFeaturesIdx>1243</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="0" />
+      <history sessionIdx="0" blockIdx="19" acc="0" />
+      <history sessionIdx="0" blockIdx="23" acc="1" />
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="1" />
+      <history sessionIdx="0" blockIdx="45" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="157">
+    <challengeItemFeaturesIdx>352</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="158">
+    <challengeItemFeaturesIdx>796</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="159">
+    <challengeItemFeaturesIdx>272</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="160">
+    <challengeItemFeaturesIdx>768</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="161">
+    <challengeItemFeaturesIdx>244</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="162">
+    <challengeItemFeaturesIdx>736</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="0" />
+      <history sessionIdx="0" blockIdx="19" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="33" acc="0" />
+      <history sessionIdx="0" blockIdx="35" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="163">
+    <challengeItemFeaturesIdx>72</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="15" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="164">
+    <challengeItemFeaturesIdx>188</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="18" acc="1" />
+      <history sessionIdx="0" blockIdx="28" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="0" />
+      <history sessionIdx="0" blockIdx="51" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="165">
+    <challengeItemFeaturesIdx>1195</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="0" />
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+      <history sessionIdx="0" blockIdx="49" acc="1" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="166">
+    <challengeItemFeaturesIdx>1104</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="17" acc="1" />
+      <history sessionIdx="0" blockIdx="25" acc="0" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="167">
+    <challengeItemFeaturesIdx>548</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="17" acc="0" />
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+      <history sessionIdx="0" blockIdx="25" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="168">
+    <challengeItemFeaturesIdx>924</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="17" acc="0" />
+      <history sessionIdx="0" blockIdx="19" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="169">
+    <challengeItemFeaturesIdx>520</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="1" />
+      <history sessionIdx="0" blockIdx="17" acc="0" />
+      <history sessionIdx="0" blockIdx="19" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="170">
+    <challengeItemFeaturesIdx>236</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="171">
+    <challengeItemFeaturesIdx>568</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="0" />
+      <history sessionIdx="0" blockIdx="17" acc="0" />
+      <history sessionIdx="0" blockIdx="20" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="0" />
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="0" />
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="1" />
+      <history sessionIdx="0" blockIdx="39" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="172">
+    <challengeItemFeaturesIdx>356</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="16" acc="0" />
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="20" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="0" />
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="173">
+    <challengeItemFeaturesIdx>900</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="18" acc="1" />
+      <history sessionIdx="0" blockIdx="33" acc="0" />
+      <history sessionIdx="0" blockIdx="43" acc="1" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="174">
+    <challengeItemFeaturesIdx>240</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="20" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="175">
+    <challengeItemFeaturesIdx>976</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="18" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="176">
+    <challengeItemFeaturesIdx>1235</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="20" acc="1" />
+      <history sessionIdx="0" blockIdx="25" acc="0" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="1" />
+      <history sessionIdx="0" blockIdx="39" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="177">
+    <challengeItemFeaturesIdx>428</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="178">
+    <challengeItemFeaturesIdx>600</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="18" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="179">
+    <challengeItemFeaturesIdx>840</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="18" acc="0" />
+      <history sessionIdx="0" blockIdx="24" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="180">
+    <challengeItemFeaturesIdx>1135</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="0" />
+      <history sessionIdx="0" blockIdx="27" acc="1" />
+      <history sessionIdx="0" blockIdx="43" acc="1" />
+      <history sessionIdx="0" blockIdx="46" acc="0" />
+      <history sessionIdx="0" blockIdx="51" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="181">
+    <challengeItemFeaturesIdx>1183</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="1" />
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="1" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="182">
+    <challengeItemFeaturesIdx>644</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="1" />
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="40" acc="1" />
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="1" />
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="183">
+    <challengeItemFeaturesIdx>556</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="1" />
+      <history sessionIdx="0" blockIdx="37" acc="0" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="184">
+    <challengeItemFeaturesIdx>988</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="0" />
+      <history sessionIdx="0" blockIdx="27" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="0" />
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="185">
+    <challengeItemFeaturesIdx>344</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="186">
+    <challengeItemFeaturesIdx>640</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="0" />
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="23" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="0" />
+      <history sessionIdx="0" blockIdx="33" acc="0" />
+      <history sessionIdx="0" blockIdx="35" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="187">
+    <challengeItemFeaturesIdx>1076</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="188">
+    <challengeItemFeaturesIdx>980</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="0" />
+      <history sessionIdx="0" blockIdx="21" acc="1" />
+      <history sessionIdx="0" blockIdx="23" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="189">
+    <challengeItemFeaturesIdx>624</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="19" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="190">
+    <challengeItemFeaturesIdx>1163</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="20" acc="1" />
+      <history sessionIdx="0" blockIdx="28" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="191">
+    <challengeItemFeaturesIdx>584</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="20" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="1" />
+      <history sessionIdx="0" blockIdx="45" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="192">
+    <challengeItemFeaturesIdx>192</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="20" acc="1" />
+      <history sessionIdx="0" blockIdx="30" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="0" />
+      <history sessionIdx="0" blockIdx="51" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="193">
+    <challengeItemFeaturesIdx>64</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="20" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="0" />
+      <history sessionIdx="0" blockIdx="24" acc="1" />
+      <history sessionIdx="0" blockIdx="36" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="194">
+    <challengeItemFeaturesIdx>116</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="20" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="1" />
+      <history sessionIdx="0" blockIdx="40" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="195">
+    <challengeItemFeaturesIdx>984</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="20" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="0" />
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="0" />
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="34" acc="0" />
+      <history sessionIdx="0" blockIdx="36" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="196">
+    <challengeItemFeaturesIdx>68</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="20" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="197">
+    <challengeItemFeaturesIdx>1219</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="198">
+    <challengeItemFeaturesIdx>996</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="21" acc="1" />
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="199">
+    <challengeItemFeaturesIdx>552</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="22" acc="0" />
+      <history sessionIdx="0" blockIdx="24" acc="1" />
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="200">
+    <challengeItemFeaturesIdx>1239</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="23" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="0" />
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="201">
+    <challengeItemFeaturesIdx>132</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="21" acc="1" />
+      <history sessionIdx="0" blockIdx="23" acc="1" />
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="202">
+    <challengeItemFeaturesIdx>616</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="21" acc="0" />
+      <history sessionIdx="0" blockIdx="23" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="203">
+    <challengeItemFeaturesIdx>952</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="47" acc="0" />
+      <history sessionIdx="0" blockIdx="49" acc="1" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="204">
+    <challengeItemFeaturesIdx>1060</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="205">
+    <challengeItemFeaturesIdx>1016</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="22" acc="1" />
+      <history sessionIdx="0" blockIdx="34" acc="0" />
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="51" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="206">
+    <challengeItemFeaturesIdx>1108</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="23" acc="1" />
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="207">
+    <challengeItemFeaturesIdx>652</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="23" acc="0" />
+      <history sessionIdx="0" blockIdx="36" acc="0" />
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="208">
+    <challengeItemFeaturesIdx>480</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="23" acc="1" />
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="209">
+    <challengeItemFeaturesIdx>120</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="23" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="210">
+    <challengeItemFeaturesIdx>536</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="23" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="211">
+    <challengeItemFeaturesIdx>468</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="23" acc="0" />
+      <history sessionIdx="0" blockIdx="27" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="212">
+    <challengeItemFeaturesIdx>532</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="23" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="213">
+    <challengeItemFeaturesIdx>760</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="23" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="214">
+    <challengeItemFeaturesIdx>992</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="24" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="215">
+    <challengeItemFeaturesIdx>252</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="216">
+    <challengeItemFeaturesIdx>496</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="26" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="217">
+    <challengeItemFeaturesIdx>508</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="24" acc="0" />
+      <history sessionIdx="0" blockIdx="27" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="218">
+    <challengeItemFeaturesIdx>580</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="0" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="0" />
+      <history sessionIdx="0" blockIdx="64" acc="1" />
+      <history sessionIdx="0" blockIdx="76" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="219">
+    <challengeItemFeaturesIdx>320</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="1" />
+      <history sessionIdx="0" blockIdx="41" acc="1" />
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+      <history sessionIdx="0" blockIdx="59" acc="0" />
+      <history sessionIdx="0" blockIdx="61" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="220">
+    <challengeItemFeaturesIdx>1024</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="0" />
+      <history sessionIdx="0" blockIdx="64" acc="0" />
+      <history sessionIdx="0" blockIdx="76" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="221">
+    <challengeItemFeaturesIdx>1072</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="1" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+      <history sessionIdx="0" blockIdx="59" acc="0" />
+      <history sessionIdx="0" blockIdx="61" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="222">
+    <challengeItemFeaturesIdx>76</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="0" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+      <history sessionIdx="0" blockIdx="35" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="223">
+    <challengeItemFeaturesIdx>720</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="224">
+    <challengeItemFeaturesIdx>832</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="225">
+    <challengeItemFeaturesIdx>860</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="0" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+      <history sessionIdx="0" blockIdx="35" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="226">
+    <challengeItemFeaturesIdx>764</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="0" />
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+      <history sessionIdx="0" blockIdx="35" acc="0" />
+      <history sessionIdx="0" blockIdx="37" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+      <history sessionIdx="0" blockIdx="41" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="227">
+    <challengeItemFeaturesIdx>544</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="25" acc="0" />
+      <history sessionIdx="0" blockIdx="29" acc="0" />
+      <history sessionIdx="0" blockIdx="36" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="228">
+    <challengeItemFeaturesIdx>601</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="26" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="229">
+    <challengeItemFeaturesIdx>105</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="26" acc="1" />
+      <history sessionIdx="0" blockIdx="32" acc="0" />
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="230">
+    <challengeItemFeaturesIdx>301</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="26" acc="1" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="50" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="231">
+    <challengeItemFeaturesIdx>368</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="26" acc="0" />
+      <history sessionIdx="0" blockIdx="28" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="232">
+    <challengeItemFeaturesIdx>868</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="26" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="233">
+    <challengeItemFeaturesIdx>680</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="1" />
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+      <history sessionIdx="0" blockIdx="42" acc="1" />
+      <history sessionIdx="0" blockIdx="45" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="234">
+    <challengeItemFeaturesIdx>888</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="0" />
+      <history sessionIdx="0" blockIdx="35" acc="1" />
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="1" />
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="235">
+    <challengeItemFeaturesIdx>724</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="236">
+    <challengeItemFeaturesIdx>528</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="237">
+    <challengeItemFeaturesIdx>540</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="238">
+    <challengeItemFeaturesIdx>696</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="0" />
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="239">
+    <challengeItemFeaturesIdx>936</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="0" />
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="240">
+    <challengeItemFeaturesIdx>932</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="241">
+    <challengeItemFeaturesIdx>340</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="242">
+    <challengeItemFeaturesIdx>740</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="27" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="243">
+    <challengeItemFeaturesIdx>756</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="244">
+    <challengeItemFeaturesIdx>752</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="245">
+    <challengeItemFeaturesIdx>360</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="0" />
+      <history sessionIdx="0" blockIdx="34" acc="0" />
+      <history sessionIdx="0" blockIdx="36" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="246">
+    <challengeItemFeaturesIdx>692</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="28" acc="0" />
+      <history sessionIdx="0" blockIdx="30" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="247">
+    <challengeItemFeaturesIdx>636</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="28" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="248">
+    <challengeItemFeaturesIdx>708</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="28" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="249">
+    <challengeItemFeaturesIdx>828</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="28" acc="1" />
+      <history sessionIdx="0" blockIdx="41" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="250">
+    <challengeItemFeaturesIdx>312</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="29" acc="0" />
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="42" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="0" />
+      <history sessionIdx="0" blockIdx="64" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="251">
+    <challengeItemFeaturesIdx>948</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="29" acc="1" />
+      <history sessionIdx="0" blockIdx="84" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="252">
+    <challengeItemFeaturesIdx>348</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="30" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="1" />
+      <history sessionIdx="0" blockIdx="34" acc="0" />
+      <history sessionIdx="0" blockIdx="36" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="253">
+    <challengeItemFeaturesIdx>432</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="30" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="254">
+    <challengeItemFeaturesIdx>516</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="30" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="255">
+    <challengeItemFeaturesIdx>500</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="30" acc="0" />
+      <history sessionIdx="0" blockIdx="32" acc="0" />
+      <history sessionIdx="0" blockIdx="34" acc="0" />
+      <history sessionIdx="0" blockIdx="36" acc="0" />
+      <history sessionIdx="0" blockIdx="40" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="256">
+    <challengeItemFeaturesIdx>1032</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="31" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="257">
+    <challengeItemFeaturesIdx>712</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="31" acc="0" />
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="258">
+    <challengeItemFeaturesIdx>732</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="32" acc="0" />
+      <history sessionIdx="0" blockIdx="33" acc="0" />
+      <history sessionIdx="0" blockIdx="35" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="259">
+    <challengeItemFeaturesIdx>100</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="32" acc="0" />
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="260">
+    <challengeItemFeaturesIdx>728</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="261">
+    <challengeItemFeaturesIdx>204</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="33" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="262">
+    <challengeItemFeaturesIdx>572</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="34" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="263">
+    <challengeItemFeaturesIdx>668</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="35" acc="1" />
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="51" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="264">
+    <challengeItemFeaturesIdx>1123</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="35" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+      <history sessionIdx="0" blockIdx="52" acc="1" />
+      <history sessionIdx="0" blockIdx="54" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="265">
+    <challengeItemFeaturesIdx>364</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="35" acc="0" />
+      <history sessionIdx="0" blockIdx="37" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="266">
+    <challengeItemFeaturesIdx>268</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="35" acc="0" />
+      <history sessionIdx="0" blockIdx="37" acc="0" />
+      <history sessionIdx="0" blockIdx="39" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="267">
+    <challengeItemFeaturesIdx>704</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="35" acc="0" />
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="268">
+    <challengeItemFeaturesIdx>336</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="35" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="269">
+    <challengeItemFeaturesIdx>224</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="35" acc="0" />
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="270">
+    <challengeItemFeaturesIdx>296</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="36" acc="1" />
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="51" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="271">
+    <challengeItemFeaturesIdx>792</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="36" acc="1" />
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="51" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="272">
+    <challengeItemFeaturesIdx>1092</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="36" acc="0" />
+      <history sessionIdx="0" blockIdx="48" acc="1" />
+      <history sessionIdx="0" blockIdx="55" acc="0" />
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="273">
+    <challengeItemFeaturesIdx>1231</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+      <history sessionIdx="0" blockIdx="49" acc="1" />
+      <history sessionIdx="0" blockIdx="53" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="274">
+    <challengeItemFeaturesIdx>804</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="275">
+    <challengeItemFeaturesIdx>776</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="37" acc="1" />
+      <history sessionIdx="0" blockIdx="41" acc="0" />
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="54" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="276">
+    <challengeItemFeaturesIdx>1044</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="38" acc="0" />
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+      <history sessionIdx="0" blockIdx="82" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="277">
+    <challengeItemFeaturesIdx>1096</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="54" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="278">
+    <challengeItemFeaturesIdx>324</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="54" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="279">
+    <challengeItemFeaturesIdx>904</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="39" acc="1" />
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="280">
+    <challengeItemFeaturesIdx>245</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="41" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="281">
+    <challengeItemFeaturesIdx>1240</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="41" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="282">
+    <challengeItemFeaturesIdx>124</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="41" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="283">
+    <challengeItemFeaturesIdx>933</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="41" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="284">
+    <challengeItemFeaturesIdx>145</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="41" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="285">
+    <challengeItemFeaturesIdx>849</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="41" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="286">
+    <challengeItemFeaturesIdx>385</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="41" acc="1" />
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="0" />
+      <history sessionIdx="0" blockIdx="58" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="287">
+    <challengeItemFeaturesIdx>141</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="41" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="288">
+    <challengeItemFeaturesIdx>1175</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="42" acc="0" />
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+      <history sessionIdx="0" blockIdx="77" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="289">
+    <challengeItemFeaturesIdx>1048</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="42" acc="0" />
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+      <history sessionIdx="0" blockIdx="64" acc="1" />
+      <history sessionIdx="0" blockIdx="76" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="290">
+    <challengeItemFeaturesIdx>316</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="66" acc="0" />
+      <history sessionIdx="0" blockIdx="70" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="291">
+    <challengeItemFeaturesIdx>1207</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="43" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="292">
+    <challengeItemFeaturesIdx>812</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="43" acc="0" />
+      <history sessionIdx="0" blockIdx="66" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+      <history sessionIdx="0" blockIdx="77" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="293">
+    <challengeItemFeaturesIdx>417</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="43" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+      <history sessionIdx="0" blockIdx="77" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="294">
+    <challengeItemFeaturesIdx>1199</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="44" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="295">
+    <challengeItemFeaturesIdx>664</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="46" acc="1" />
+      <history sessionIdx="0" blockIdx="64" acc="0" />
+      <history sessionIdx="0" blockIdx="76" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="296">
+    <challengeItemFeaturesIdx>397</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="297">
+    <challengeItemFeaturesIdx>897</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="47" acc="0" />
+      <history sessionIdx="0" blockIdx="67" acc="1" />
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="298">
+    <challengeItemFeaturesIdx>109</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+      <history sessionIdx="0" blockIdx="77" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="299">
+    <challengeItemFeaturesIdx>1089</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="47" acc="1" />
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="300">
+    <challengeItemFeaturesIdx>801</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="48" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="0" />
+      <history sessionIdx="0" blockIdx="58" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="1" />
+      <history sessionIdx="0" blockIdx="76" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="301">
+    <challengeItemFeaturesIdx>673</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="48" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="1" />
+      <history sessionIdx="0" blockIdx="76" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="302">
+    <challengeItemFeaturesIdx>221</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="48" acc="1" />
+      <history sessionIdx="0" blockIdx="50" acc="1" />
+      <history sessionIdx="0" blockIdx="68" acc="1" />
+      <history sessionIdx="0" blockIdx="74" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="303">
+    <challengeItemFeaturesIdx>1228</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="50" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="1" />
+      <history sessionIdx="0" blockIdx="74" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="304">
+    <challengeItemFeaturesIdx>1151</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="305">
+    <challengeItemFeaturesIdx>1159</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="48" acc="1" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="306">
+    <challengeItemFeaturesIdx>1143</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="48" acc="0" />
+      <history sessionIdx="0" blockIdx="55" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="307">
+    <challengeItemFeaturesIdx>449</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="67" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="308">
+    <challengeItemFeaturesIdx>1204</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="1" />
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="309">
+    <challengeItemFeaturesIdx>609</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="49" acc="0" />
+      <history sessionIdx="0" blockIdx="52" acc="1" />
+      <history sessionIdx="0" blockIdx="66" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="310">
+    <challengeItemFeaturesIdx>1101</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="49" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+      <history sessionIdx="0" blockIdx="77" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="311">
+    <challengeItemFeaturesIdx>876</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="51" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="0" />
+      <history sessionIdx="0" blockIdx="64" acc="0" />
+      <history sessionIdx="0" blockIdx="76" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="312">
+    <challengeItemFeaturesIdx>884</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="51" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="313">
+    <challengeItemFeaturesIdx>380</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="51" acc="0" />
+      <history sessionIdx="0" blockIdx="84" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="314">
+    <challengeItemFeaturesIdx>808</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="51" acc="0" />
+      <history sessionIdx="0" blockIdx="53" acc="1" />
+      <history sessionIdx="0" blockIdx="62" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="315">
+    <challengeItemFeaturesIdx>945</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="52" acc="0" />
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="70" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="316">
+    <challengeItemFeaturesIdx>781</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="317">
+    <challengeItemFeaturesIdx>1192</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="318">
+    <challengeItemFeaturesIdx>1029</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="54" acc="0" />
+      <history sessionIdx="0" blockIdx="74" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="319">
+    <challengeItemFeaturesIdx>1013</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="54" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="320">
+    <challengeItemFeaturesIdx>177</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="55" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="321">
+    <challengeItemFeaturesIdx>957</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="322">
+    <challengeItemFeaturesIdx>969</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="0" />
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="323">
+    <challengeItemFeaturesIdx>1037</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="324">
+    <challengeItemFeaturesIdx>465</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="0" />
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="325">
+    <challengeItemFeaturesIdx>705</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="326">
+    <challengeItemFeaturesIdx>697</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="327">
+    <challengeItemFeaturesIdx>361</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="328">
+    <challengeItemFeaturesIdx>993</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="1" />
+      <history sessionIdx="0" blockIdx="60" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="329">
+    <challengeItemFeaturesIdx>573</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="330">
+    <challengeItemFeaturesIdx>269</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="331">
+    <challengeItemFeaturesIdx>365</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="332">
+    <challengeItemFeaturesIdx>61</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="333">
+    <challengeItemFeaturesIdx>129</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="1" />
+      <history sessionIdx="0" blockIdx="60" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="334">
+    <challengeItemFeaturesIdx>561</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="1" />
+      <history sessionIdx="0" blockIdx="60" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="335">
+    <challengeItemFeaturesIdx>133</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="56" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="336">
+    <challengeItemFeaturesIdx>1244</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="337">
+    <challengeItemFeaturesIdx>185</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="338">
+    <challengeItemFeaturesIdx>189</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="339">
+    <challengeItemFeaturesIdx>193</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="1" />
+      <history sessionIdx="0" blockIdx="70" acc="0" />
+      <history sessionIdx="0" blockIdx="79" acc="1" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="340">
+    <challengeItemFeaturesIdx>501</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="341">
+    <challengeItemFeaturesIdx>5</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="342">
+    <challengeItemFeaturesIdx>997</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="343">
+    <challengeItemFeaturesIdx>73</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="344">
+    <challengeItemFeaturesIdx>569</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="345">
+    <challengeItemFeaturesIdx>1236</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="57" acc="0" />
+      <history sessionIdx="0" blockIdx="59" acc="0" />
+      <history sessionIdx="0" blockIdx="61" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="346">
+    <challengeItemFeaturesIdx>961</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="347">
+    <challengeItemFeaturesIdx>57</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="58" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="348">
+    <challengeItemFeaturesIdx>553</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="349">
+    <challengeItemFeaturesIdx>201</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="350">
+    <challengeItemFeaturesIdx>337</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="58" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="351">
+    <challengeItemFeaturesIdx>225</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="58" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="352">
+    <challengeItemFeaturesIdx>437</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="58" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="353">
+    <challengeItemFeaturesIdx>209</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="58" acc="0" />
+      <history sessionIdx="0" blockIdx="60" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="354">
+    <challengeItemFeaturesIdx>157</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="355">
+    <challengeItemFeaturesIdx>1184</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="356">
+    <challengeItemFeaturesIdx>681</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="0" />
+      <history sessionIdx="0" blockIdx="61" acc="1" />
+      <history sessionIdx="0" blockIdx="70" acc="0" />
+      <history sessionIdx="0" blockIdx="72" acc="0" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+      <history sessionIdx="0" blockIdx="84" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="357">
+    <challengeItemFeaturesIdx>1056</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="1" />
+      <history sessionIdx="0" blockIdx="61" acc="1" />
+      <history sessionIdx="0" blockIdx="70" acc="0" />
+      <history sessionIdx="0" blockIdx="72" acc="0" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="1" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="358">
+    <challengeItemFeaturesIdx>473</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="1" />
+      <history sessionIdx="0" blockIdx="61" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="359">
+    <challengeItemFeaturesIdx>989</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="1" />
+      <history sessionIdx="0" blockIdx="61" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="360">
+    <challengeItemFeaturesIdx>1033</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="1" />
+      <history sessionIdx="0" blockIdx="61" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="361">
+    <challengeItemFeaturesIdx>613</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="362">
+    <challengeItemFeaturesIdx>565</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="59" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="363">
+    <challengeItemFeaturesIdx>305</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="60" acc="0" />
+      <history sessionIdx="0" blockIdx="66" acc="1" />
+      <history sessionIdx="0" blockIdx="68" acc="1" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="364">
+    <challengeItemFeaturesIdx>1168</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="60" acc="1" />
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+      <history sessionIdx="0" blockIdx="65" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="365">
+    <challengeItemFeaturesIdx>488</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="61" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="366">
+    <challengeItemFeaturesIdx>420</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="61" acc="1" />
+      <history sessionIdx="0" blockIdx="70" acc="0" />
+      <history sessionIdx="0" blockIdx="72" acc="1" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="1" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="367">
+    <challengeItemFeaturesIdx>617</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="61" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="368">
+    <challengeItemFeaturesIdx>834</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="62" acc="1" />
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="369">
+    <challengeItemFeaturesIdx>766</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="62" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="370">
+    <challengeItemFeaturesIdx>1093</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="62" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="371">
+    <challengeItemFeaturesIdx>653</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="62" acc="1" />
+      <history sessionIdx="0" blockIdx="71" acc="1" />
+      <history sessionIdx="0" blockIdx="73" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="372">
+    <challengeItemFeaturesIdx>618</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="63" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="373">
+    <challengeItemFeaturesIdx>122</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="63" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="374">
+    <challengeItemFeaturesIdx>614</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="63" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="375">
+    <challengeItemFeaturesIdx>1034</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="63" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="376">
+    <challengeItemFeaturesIdx>1020</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="63" acc="1" />
+      <history sessionIdx="0" blockIdx="76" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="377">
+    <challengeItemFeaturesIdx>562</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="64" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="378">
+    <challengeItemFeaturesIdx>934</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="64" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="379">
+    <challengeItemFeaturesIdx>862</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="64" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="380">
+    <challengeItemFeaturesIdx>722</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="64" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="381">
+    <challengeItemFeaturesIdx>982</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="65" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="382">
+    <challengeItemFeaturesIdx>558</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="65" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="383">
+    <challengeItemFeaturesIdx>142</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="65" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="384">
+    <challengeItemFeaturesIdx>478</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="65" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="385">
+    <challengeItemFeaturesIdx>576</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="65" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="1" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="386">
+    <challengeItemFeaturesIdx>164</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="65" acc="1" />
+      <history sessionIdx="0" blockIdx="76" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="387">
+    <challengeItemFeaturesIdx>266</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="388">
+    <challengeItemFeaturesIdx>762</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="389">
+    <challengeItemFeaturesIdx>498</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="0" />
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="390">
+    <challengeItemFeaturesIdx>770</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="391">
+    <challengeItemFeaturesIdx>717</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="0" />
+      <history sessionIdx="0" blockIdx="70" acc="0" />
+      <history sessionIdx="0" blockIdx="72" acc="1" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+      <history sessionIdx="0" blockIdx="83" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="392">
+    <challengeItemFeaturesIdx>1041</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="1" />
+      <history sessionIdx="0" blockIdx="68" acc="1" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="393">
+    <challengeItemFeaturesIdx>461</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="1" />
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+      <history sessionIdx="0" blockIdx="83" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="394">
+    <challengeItemFeaturesIdx>113</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="395">
+    <challengeItemFeaturesIdx>513</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="0" />
+      <history sessionIdx="0" blockIdx="70" acc="0" />
+      <history sessionIdx="0" blockIdx="72" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+      <history sessionIdx="0" blockIdx="83" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="396">
+    <challengeItemFeaturesIdx>17</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="1" />
+      <history sessionIdx="0" blockIdx="77" acc="0" />
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="397">
+    <challengeItemFeaturesIdx>161</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="66" acc="0" />
+      <history sessionIdx="0" blockIdx="70" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="398">
+    <challengeItemFeaturesIdx>321</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="1" />
+      <history sessionIdx="0" blockIdx="69" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="399">
+    <challengeItemFeaturesIdx>773</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="400">
+    <challengeItemFeaturesIdx>1073</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="401">
+    <challengeItemFeaturesIdx>786</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="0" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="402">
+    <challengeItemFeaturesIdx>1172</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="1" />
+      <history sessionIdx="0" blockIdx="77" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="403">
+    <challengeItemFeaturesIdx>913</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="1" />
+      <history sessionIdx="0" blockIdx="77" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="404">
+    <challengeItemFeaturesIdx>1188</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="0" />
+      <history sessionIdx="0" blockIdx="71" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+      <history sessionIdx="0" blockIdx="77" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="405">
+    <challengeItemFeaturesIdx>445</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="1" />
+      <history sessionIdx="0" blockIdx="77" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="406">
+    <challengeItemFeaturesIdx>1085</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="407">
+    <challengeItemFeaturesIdx>1212</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="1" />
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+      <history sessionIdx="0" blockIdx="77" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="408">
+    <challengeItemFeaturesIdx>125</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="67" acc="0" />
+      <history sessionIdx="0" blockIdx="69" acc="0" />
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="409">
+    <challengeItemFeaturesIdx>830</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="68" acc="0" />
+      <history sessionIdx="0" blockIdx="82" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="410">
+    <challengeItemFeaturesIdx>285</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="69" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="411">
+    <challengeItemFeaturesIdx>377</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="69" acc="0" />
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="0" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="412">
+    <challengeItemFeaturesIdx>93</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="69" acc="0" />
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="413">
+    <challengeItemFeaturesIdx>593</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="69" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="414">
+    <challengeItemFeaturesIdx>589</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="69" acc="0" />
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="415">
+    <challengeItemFeaturesIdx>277</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="70" acc="1" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="416">
+    <challengeItemFeaturesIdx>1176</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="70" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="417">
+    <challengeItemFeaturesIdx>817</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="70" acc="1" />
+      <history sessionIdx="0" blockIdx="74" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="418">
+    <challengeItemFeaturesIdx>1116</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="70" acc="1" />
+      <history sessionIdx="0" blockIdx="74" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="419">
+    <challengeItemFeaturesIdx>657</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="70" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="420">
+    <challengeItemFeaturesIdx>485</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="70" acc="0" />
+      <history sessionIdx="0" blockIdx="72" acc="0" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="421">
+    <challengeItemFeaturesIdx>162</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="422">
+    <challengeItemFeaturesIdx>594</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="423">
+    <challengeItemFeaturesIdx>1014</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="71" acc="1" />
+      <history sessionIdx="0" blockIdx="78" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="424">
+    <challengeItemFeaturesIdx>970</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="425">
+    <challengeItemFeaturesIdx>621</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="71" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="0" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="426">
+    <challengeItemFeaturesIdx>873</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="71" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="427">
+    <challengeItemFeaturesIdx>1120</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="71" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="428">
+    <challengeItemFeaturesIdx>1005</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="71" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="429">
+    <challengeItemFeaturesIdx>1140</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="430">
+    <challengeItemFeaturesIdx>293</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="431">
+    <challengeItemFeaturesIdx>1081</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="432">
+    <challengeItemFeaturesIdx>885</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="433">
+    <challengeItemFeaturesIdx>1053</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="434">
+    <challengeItemFeaturesIdx>1180</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="0" />
+      <history sessionIdx="0" blockIdx="73" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="435">
+    <challengeItemFeaturesIdx>941</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="1" />
+      <history sessionIdx="0" blockIdx="73" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="436">
+    <challengeItemFeaturesIdx>605</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="0" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="0" />
+      <history sessionIdx="0" blockIdx="83" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="437">
+    <challengeItemFeaturesIdx>893</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="72" acc="1" />
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="438">
+    <challengeItemFeaturesIdx>962</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="73" acc="1" />
+      <history sessionIdx="0" blockIdx="78" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="439">
+    <challengeItemFeaturesIdx>401</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="73" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="440">
+    <challengeItemFeaturesIdx>97</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="74" acc="0" />
+      <history sessionIdx="0" blockIdx="78" acc="0" />
+      <history sessionIdx="0" blockIdx="80" acc="0" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="441">
+    <challengeItemFeaturesIdx>986</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="75" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="442">
+    <challengeItemFeaturesIdx>66</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="443">
+    <challengeItemFeaturesIdx>630</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="75" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="444">
+    <challengeItemFeaturesIdx>566</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="75" acc="0" />
+      <history sessionIdx="0" blockIdx="77" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="445">
+    <challengeItemFeaturesIdx>1097</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="76" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="446">
+    <challengeItemFeaturesIdx>325</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="76" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="447">
+    <challengeItemFeaturesIdx>1124</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="76" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="448">
+    <challengeItemFeaturesIdx>1152</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="76" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="449">
+    <challengeItemFeaturesIdx>882</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="77" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="450">
+    <challengeItemFeaturesIdx>978</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="77" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="451">
+    <challengeItemFeaturesIdx>270</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="77" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="452">
+    <challengeItemFeaturesIdx>330</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="78" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="453">
+    <challengeItemFeaturesIdx>1001</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="454">
+    <challengeItemFeaturesIdx>1021</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="455">
+    <challengeItemFeaturesIdx>581</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="79" acc="0" />
+      <history sessionIdx="0" blockIdx="81" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="456">
+    <challengeItemFeaturesIdx>1009</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="79" acc="1" />
+      <history sessionIdx="0" blockIdx="82" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="457">
+    <challengeItemFeaturesIdx>534</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+      <history sessionIdx="0" blockIdx="82" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="458">
+    <challengeItemFeaturesIdx>426</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="80" acc="0" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="459">
+    <challengeItemFeaturesIdx>412</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+      <history sessionIdx="0" blockIdx="82" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="460">
+    <challengeItemFeaturesIdx>788</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="80" acc="0" />
+      <history sessionIdx="0" blockIdx="82" acc="0" />
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="461">
+    <challengeItemFeaturesIdx>908</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="80" acc="1" />
+      <history sessionIdx="0" blockIdx="82" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="462">
+    <challengeItemFeaturesIdx>1049</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="81" acc="1" />
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="463">
+    <challengeItemFeaturesIdx>22</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="82" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="464">
+    <challengeItemFeaturesIdx>84</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="82" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="465">
+    <challengeItemFeaturesIdx>152</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="82" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="466">
+    <challengeItemFeaturesIdx>660</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="82" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="467">
+    <challengeItemFeaturesIdx>648</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="82" acc="0" />
+      <history sessionIdx="0" blockIdx="84" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="468">
+    <challengeItemFeaturesIdx>388</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="82" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="469">
+    <challengeItemFeaturesIdx>1068</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="82" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="470">
+    <challengeItemFeaturesIdx>526</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="83" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="471">
+    <challengeItemFeaturesIdx>577</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="472">
+    <challengeItemFeaturesIdx>85</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="473">
+    <challengeItemFeaturesIdx>389</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="84" acc="0" />
+    </presentHistory>
+  </item>
+  <item idx="474">
+    <challengeItemFeaturesIdx>1069</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="84" acc="1" />
+    </presentHistory>
+  </item>
+  <item idx="475">
+    <challengeItemFeaturesIdx>168</challengeItemFeaturesIdx>
+    <presentHistory>
+      <history sessionIdx="0" blockIdx="84" acc="0" />
+    </presentHistory>
+  </item>
+</root>
